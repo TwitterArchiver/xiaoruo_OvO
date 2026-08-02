@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2028836665549340911",
+    "created_at": "2026-03-05T09:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029484871647916055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932979664190091264",
+          "start": 0,
+          "username": "Simon391951"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029484871647916055",
+    "in_reply_to_user_id": "1932979664190091264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029439443040612602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simon391951 我要哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2028836665549340911",
+        "created_at": "2026-03-05T09:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029484871647916055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932979664190091264",
+              "start": 0,
+              "username": "Simon391951"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029484871647916055",
+        "in_reply_to_user_id": "1932979664190091264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029439443040612602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simon391951 我要哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932979664190091264",
+        "conversation_id": "2028836665549340911",
+        "created_at": "2026-03-05T06:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T07:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029439443040612602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029439443040612602",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028836665549340911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 说实话主播 发你的聊天记录比色照好看🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7whJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 39,
+                "url": "https://t.co/Yj84w7whJj"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3298,
+          "following_count": 10,
+          "like_count": 865,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 719
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T01:54:20.000Z",
+        "description": "",
+        "id": "1932979664190091264",
+        "name": "B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011708188106899458/YtLSHeRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 80,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Simon391951",
+        "verified": false
+      }
+    ]
+  }
+}

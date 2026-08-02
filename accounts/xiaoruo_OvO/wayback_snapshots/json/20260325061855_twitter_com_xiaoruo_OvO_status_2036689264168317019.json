@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2036689123713733091",
+    "created_at": "2026-03-25T06:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T07:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036689264168317019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036689264168317019",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036689123713733091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧针对上课用手机看网课被通报事件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036689116361084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPF9eKbUAAk8sV.jpg",
+        "width": 644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2036689123713733091",
+        "created_at": "2026-03-25T06:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036689264168317019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036689264168317019",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036689123713733091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧针对上课用手机看网课被通报事件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036689116361084928"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2036689123713733091",
+        "created_at": "2026-03-25T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036689123713733091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjysfNI5Oo",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2036689123713733091/photo/1",
+              "media_key": "3_2036689116361084928",
+              "start": 8,
+              "url": "https://t.co/UjysfNI5Oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036689123713733091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我骂人就这样🚬 https://t.co/UjysfNI5Oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 12,
+          "like_count": 960,
+          "listed_count": 5,
+          "media_count": 60,
+          "tweet_count": 884
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

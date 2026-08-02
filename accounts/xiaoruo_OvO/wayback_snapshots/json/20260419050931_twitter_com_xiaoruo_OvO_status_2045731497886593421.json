@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2045731497886593421",
+    "created_at": "2026-04-19T05:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045731497886593421"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045731497886593421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药物依赖不要啊 自残不要啊 自杀不要啊 精神病不要啊 上学不要啊 思考不要啊 悲伤不要啊 绝望不要啊 孤独不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2045731497886593421",
+        "created_at": "2026-04-19T05:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045731497886593421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045731497886593421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物依赖不要啊 自残不要啊 自杀不要啊 精神病不要啊 上学不要啊 思考不要啊 悲伤不要啊 绝望不要啊 孤独不要啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 15,
+          "like_count": 1074,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1071
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

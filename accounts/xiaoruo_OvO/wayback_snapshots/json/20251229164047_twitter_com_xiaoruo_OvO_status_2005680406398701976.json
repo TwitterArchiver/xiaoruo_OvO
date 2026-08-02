@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2005646398440739192",
+    "created_at": "2025-12-29T16:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T17:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005680406398701976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359889133947129856",
+          "start": 0,
+          "username": "pengzha34931796"
+        },
+        {
+          "end": 32,
+          "id": "1465890144674881539",
+          "start": 17,
+          "username": "huhaha29246138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005680406398701976",
+    "in_reply_to_user_id": "1359889133947129856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005668610287739340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pengzha34931796 @huhaha29246138 情感支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2005646398440739192",
+        "created_at": "2025-12-29T16:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T17:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005680406398701976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359889133947129856",
+              "start": 0,
+              "username": "pengzha34931796"
+            },
+            {
+              "end": 32,
+              "id": "1465890144674881539",
+              "start": 17,
+              "username": "huhaha29246138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005680406398701976",
+        "in_reply_to_user_id": "1359889133947129856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005668610287739340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengzha34931796 @huhaha29246138 情感支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359889133947129856",
+        "conversation_id": "2005646398440739192",
+        "created_at": "2025-12-29T15:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T16:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005668610287739340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 28,
+              "id": "1465890144674881539",
+              "start": 13,
+              "username": "huhaha29246138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005668610287739340",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005665851006128613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @huhaha29246138 所以核心需求是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 7,
+          "like_count": 681,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 566
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T15:36:57.000Z",
+        "description": "只看不发",
+        "id": "1359889133947129856",
+        "location": "贵",
+        "name": "windy 林西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385239663086948353/ybVuI8pk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 203,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 408
+        },
+        "username": "pengzha34931796",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T03:47:09.000Z",
+        "description": "……",
+        "id": "1465890144674881539",
+        "name": "困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983140718005886976/u9apg_vO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 98,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 456
+        },
+        "username": "huhaha29246138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068381345030799360"
+      ],
+      "media_source_tweet_id": [
+        "2068388912528044482"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068718177501303158",
+    "created_at": "2026-06-21T15:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068718177501303158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXMwwgHE3P",
+          "end": 49,
+          "expanded_url": "https://x.com/_ropu/status/2068388912528044482/photo/1",
+          "media_key": "3_2068381345030799360",
+          "start": 26,
+          "url": "https://t.co/uXMwwgHE3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068718177501303158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068388912528044482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 这两个果核好可怜啊（嚼嚼嚼） https://t.co/uXMwwgHE3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2068381345030799360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRd3-KbAAAX1wW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068381345030799360"
+          ],
+          "media_source_tweet_id": [
+            "2068388912528044482"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068718177501303158",
+        "created_at": "2026-06-21T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068718177501303158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXMwwgHE3P",
+              "end": 49,
+              "expanded_url": "https://x.com/_ropu/status/2068388912528044482/photo/1",
+              "media_key": "3_2068381345030799360",
+              "start": 26,
+              "url": "https://t.co/uXMwwgHE3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068718177501303158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068388912528044482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 这两个果核好可怜啊（嚼嚼嚼） https://t.co/uXMwwgHE3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068381345030799360"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068388912528044482",
+        "created_at": "2026-06-20T17:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068388912528044482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXMwwgHE3P",
+              "end": 38,
+              "expanded_url": "https://x.com/_ropu/status/2068388912528044482/photo/1",
+              "media_key": "3_2068381345030799360",
+              "start": 15,
+              "url": "https://t.co/uXMwwgHE3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068388912528044482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4632,
+          "like_count": 301,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这两个果核好可怜啊（嚼嚼嚼） https://t.co/uXMwwgHE3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1811,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 直fo是感兴趣的意思 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2068562063065227762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068343508675821568/qmIZj7zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31865,
+          "following_count": 4685,
+          "like_count": 16668,
+          "listed_count": 35,
+          "media_count": 4936,
+          "tweet_count": 36134
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

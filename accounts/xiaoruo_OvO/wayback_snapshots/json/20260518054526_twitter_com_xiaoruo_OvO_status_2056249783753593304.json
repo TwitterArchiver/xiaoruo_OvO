@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2052972661572010075",
+    "created_at": "2026-05-18T05:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056249783753593304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2001551604760420352",
+          "start": 0,
+          "username": "shdt675774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056249783753593304",
+    "in_reply_to_user_id": "2001551604760420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052972661572010075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shdt675774 我他妈要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052972625765244931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2fudxWoAMxile.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2052972661572010075",
+        "created_at": "2026-05-18T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056249783753593304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2001551604760420352",
+              "start": 0,
+              "username": "shdt675774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056249783753593304",
+        "in_reply_to_user_id": "2001551604760420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052972661572010075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shdt675774 我他妈要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052972625765244931"
+          ]
+        },
+        "author_id": "2001551604760420352",
+        "conversation_id": "2052972661572010075",
+        "created_at": "2026-05-09T04:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052972661572010075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6ntY90Xns",
+              "end": 27,
+              "expanded_url": "https://x.com/shdt675774/status/2052972661572010075/photo/1",
+              "media_key": "3_2052972625765244931",
+              "start": 4,
+              "url": "https://t.co/M6ntY90Xns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052972661572010075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯没错 https://t.co/M6ntY90Xns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关！匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 89,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 66,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 23,
+          "like_count": 1251,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 1236
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T07:14:36.000Z",
+        "description": "我对男的：😂😂😂\n我对女的：😂😂😂\n我对福瑞：😹😹😹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirito78",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirito78",
+                "start": 0,
+                "url": "https://t.co/HVCnfYsoD4"
+              }
+            ]
+          }
+        },
+        "id": "2001551604760420352",
+        "location": "关都",
+        "name": "小火龙",
+        "pinned_tweet_id": "2030221178644693230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050223753330663424/CiaVG-Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 68,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/HVCnfYsoD4",
+        "username": "shdt675774",
+        "verified": false
+      }
+    ]
+  }
+}

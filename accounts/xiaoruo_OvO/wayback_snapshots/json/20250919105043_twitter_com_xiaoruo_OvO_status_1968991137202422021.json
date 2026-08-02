@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1968984022375125011",
+    "created_at": "2025-09-19T10:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T11:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968991137202422021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875123241356050432",
+          "start": 0,
+          "username": "XL5105540517808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968991137202422021",
+    "in_reply_to_user_id": "1875123241356050432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968988375026635062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XL5105540517808 好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T10:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968991137202422021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875123241356050432",
+              "start": 0,
+              "username": "XL5105540517808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968991137202422021",
+        "in_reply_to_user_id": "1875123241356050432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968988375026635062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XL5105540517808 好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875123241356050432",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T10:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T11:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968988375026635062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968988375026635062",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968984022375125011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 少一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 3,
+          "like_count": 229,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 229
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T10:13:22.000Z",
+        "description": "",
+        "id": "1875123241356050432",
+        "name": "XL",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 117,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "XL5105540517808",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2027940130225590325",
+    "created_at": "2026-03-01T02:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027940130225590325"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027940130225590325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有个朋友真的特别善良 每次看见他发表的言论感觉真的特别美好特别善良 对这个世界充满善意 会感觉心里暖暖的 可是为什么他却得不到幸福呢 感觉他是最该得到幸福的人啊…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2027940130225590325",
+        "created_at": "2026-03-01T02:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027940130225590325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027940130225590325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个朋友真的特别善良 每次看见他发表的言论感觉真的特别美好特别善良 对这个世界充满善意 会感觉心里暖暖的 可是为什么他却得不到幸福呢 感觉他是最该得到幸福的人啊…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7whJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 39,
+                "url": "https://t.co/Yj84w7whJj"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013636383760400384/Z1gmPWcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 10,
+          "like_count": 815,
+          "listed_count": 5,
+          "media_count": 36,
+          "tweet_count": 683
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

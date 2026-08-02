@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2065046317278302547",
+    "created_at": "2026-06-11T23:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065219366388670711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593925330741362688",
+          "start": 0,
+          "username": "nnnnanana9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065219366388670711",
+    "in_reply_to_user_id": "1593925330741362688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065105109328290149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnnnanana9 好🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2065046317278302547",
+        "created_at": "2026-06-11T23:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065219366388670711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593925330741362688",
+              "start": 0,
+              "username": "nnnnanana9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065219366388670711",
+        "in_reply_to_user_id": "1593925330741362688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065105109328290149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnnnanana9 好🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593925330741362688",
+        "conversation_id": "2065046317278302547",
+        "created_at": "2026-06-11T16:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065105109328290149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065105109328290149",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065046317278302547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我觉得两个人都有些问题，首先是对方\n你们既然已经在一起了，说明认识时间不会很短。他作为你的男朋友应该对你能接受的玩笑程度大概有了解了。但他还是为所欲为的说话。\n你的问题就比较小了。他毕竟是你另一半，多少包容一点，可以告诉他你不喜欢这种玩笑，让他下次不要这样说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 40,
+          "like_count": 1593,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1575
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T11:13:17.000Z",
+        "description": "焦虑型依恋",
+        "id": "1593925330741362688",
+        "name": "家暴打不过女友被迫变成4i男",
+        "pinned_tweet_id": "2060735525850693837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056193708303994880/XmfXTDak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 226
+        },
+        "username": "nnnnanana9",
+        "verified": false
+      }
+    ]
+  }
+}

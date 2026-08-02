@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2063524444493267314",
+    "created_at": "2026-06-07T14:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063633397650755596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063633397650755596",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063535459134038527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun 我不行了吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2063524444493267314",
+        "created_at": "2026-06-07T14:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063633397650755596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063633397650755596",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063535459134038527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun 我不行了吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "2063524444493267314",
+        "created_at": "2026-06-07T08:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063535459134038527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063535459134038527",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063524444493267314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我想起我的大学室友哈哈，毕业五年我们重聚的时候，那天晚饭他跟脑血栓一样一直在那撸袖子甩手，就等着我们来问他的劳力士哈哈哈哈😂结果搞了半天那手表是他爹买给他的基础款🤦‍♂️开玩笑说发财了得请客又没动静了哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 36,
+          "like_count": 1516,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "享受生活，热爱自己。",
+        "id": "1516022519559450624",
+        "name": "收放君",
+        "pinned_tweet_id": "2027791981905383747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035933906210578432/x6Pq39Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 86,
+          "like_count": 9438,
+          "listed_count": 0,
+          "media_count": 733,
+          "tweet_count": 3843
+        },
+        "username": "shoufangjun",
+        "verified": false
+      }
+    ]
+  }
+}

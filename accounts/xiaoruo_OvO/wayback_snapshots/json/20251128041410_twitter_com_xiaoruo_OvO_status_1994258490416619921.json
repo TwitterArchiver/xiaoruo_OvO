@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1994258426386637090",
+    "created_at": "2025-11-28T04:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994258490416619921"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994258490416619921",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994258426386637090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "舍友说我勾引她"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1994258418576863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G60HdzWbMAAzIOD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1994258426386637090",
+        "created_at": "2025-11-28T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994258490416619921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994258490416619921",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994258426386637090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舍友说我勾引她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994258418576863232"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "1994258426386637090",
+        "created_at": "2025-11-28T04:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994258426386637090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkNhpWyZdN",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/1994258426386637090/photo/1",
+              "media_key": "3_1994258418576863232",
+              "start": 8,
+              "url": "https://t.co/vkNhpWyZdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994258426386637090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这么躺在宿舍 https://t.co/vkNhpWyZdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵 匿名提问箱https://t.co/Gg0Zn8dP0e 07的infj 欢迎找我聊天！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 57,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 34,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 6,
+          "like_count": 516,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 490
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1971719314530254945",
+    "created_at": "2025-09-27T08:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T09:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971856793182916893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850669286014234624",
+          "start": 0,
+          "username": "LvJarven35459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971856793182916893",
+    "in_reply_to_user_id": "1850669286014234624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971804557077512425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LvJarven35459 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1971719314530254945",
+        "created_at": "2025-09-27T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971856793182916893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850669286014234624",
+              "start": 0,
+              "username": "LvJarven35459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971856793182916893",
+        "in_reply_to_user_id": "1850669286014234624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971804557077512425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LvJarven35459 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850669286014234624",
+        "conversation_id": "1971719314530254945",
+        "created_at": "2025-09-27T05:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971804557077512425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971804557077512425",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971719314530254945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 还没军训完呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 3,
+          "like_count": 254,
+          "listed_count": 5,
+          "media_count": 5,
+          "tweet_count": 273
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T22:42:24.000Z",
+        "description": "",
+        "id": "1850669286014234624",
+        "name": "Jarven Lv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884074335142567938/YPFqO1R6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "LvJarven35459",
+        "verified": false
+      }
+    ]
+  }
+}

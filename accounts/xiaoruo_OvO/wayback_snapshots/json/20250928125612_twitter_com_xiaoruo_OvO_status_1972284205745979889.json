@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1972284050762285350",
+    "created_at": "2025-09-28T12:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T13:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972284205745979889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972284205745979889",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972284050762285350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然 肯定比不上烟火大会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1972284039752306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1714nGb0AAriFR.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1300,
+        "media_key": "3_1972284039773216769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1714nLa4AEu4mH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1972284050762285350",
+        "created_at": "2025-09-28T12:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972284205745979889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972284205745979889",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972284050762285350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然 肯定比不上烟火大会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972284039752306688",
+            "3_1972284039773216769"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "1972284050762285350",
+        "created_at": "2025-09-28T12:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972284050762285350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8al5H1Fb5",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/1972284050762285350/photo/1",
+              "media_key": "3_1972284039752306688",
+              "start": 13,
+              "url": "https://t.co/h8al5H1Fb5"
+            },
+            {
+              "display_url": "pic.x.com/h8al5H1Fb5",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/1972284050762285350/photo/1",
+              "media_key": "3_1972284039773216769",
+              "start": 13,
+              "url": "https://t.co/h8al5H1Fb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972284050762285350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迎新晚会有烟火大会既视感 https://t.co/h8al5H1Fb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 4,
+          "like_count": 275,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 291
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

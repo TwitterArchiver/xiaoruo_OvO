@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2078765560784212432",
+    "created_at": "2026-07-21T02:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079395835868242286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079395835868242286",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078765560784212432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun 萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078765554350116864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlCQgZbUAAA1fl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078765554316517376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlCQgRaoAAQpnJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2078765560784212432",
+        "created_at": "2026-07-21T02:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079395835868242286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079395835868242286",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078765560784212432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun 萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078765554350116864",
+            "3_2078765554316517376"
+          ]
+        },
+        "author_id": "1516022519559450624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078765560784212432",
+        "created_at": "2026-07-19T08:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078765560784212432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fnvcq1jpK6",
+              "end": 79,
+              "expanded_url": "https://x.com/shoufangjun/status/2078765560784212432/photo/1",
+              "media_key": "3_2078765554350116864",
+              "start": 56,
+              "url": "https://t.co/Fnvcq1jpK6"
+            },
+            {
+              "display_url": "pic.x.com/Fnvcq1jpK6",
+              "end": 79,
+              "expanded_url": "https://x.com/shoufangjun/status/2078765560784212432/photo/1",
+              "media_key": "3_2078765554316517376",
+              "start": 56,
+              "url": "https://t.co/Fnvcq1jpK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765560784212432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不擅长抓娃娃、偏偏喜欢抓娃娃，却又不研究技巧如何才能抓到 hhh 我就是这么“佛系”hhh 久违的收获两个✌️ https://t.co/Fnvcq1jpK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 58,
+          "like_count": 2203,
+          "listed_count": 4,
+          "media_count": 148,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "男。在日本的中国社畜。普通平淡地活着。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alibabayushisi…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alibabayushisigeshishizi",
+                "start": 0,
+                "url": "https://t.co/Dgx0FFOx5V"
+              }
+            ]
+          }
+        },
+        "id": "1516022519559450624",
+        "location": "自己心中",
+        "name": "收放君",
+        "pinned_tweet_id": "2027791981905383747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035933906210578432/x6Pq39Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 97,
+          "like_count": 10921,
+          "listed_count": 0,
+          "media_count": 828,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/Dgx0FFOx5V",
+        "username": "shoufangjun",
+        "verified": false
+      }
+    ]
+  }
+}

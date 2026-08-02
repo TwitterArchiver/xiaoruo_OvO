@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2066162910884487482",
+    "created_at": "2026-06-14T14:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066162910884487482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyumama9968…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaoyumama9968/status/2066032074709148096",
+          "start": 5,
+          "url": "https://t.co/jiHi2eECOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066162910884487482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066032074709148096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑死了 https://t.co/jiHi2eECOo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2066162910884487482",
+        "created_at": "2026-06-14T14:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066162910884487482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyumama9968…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaoyumama9968/status/2066032074709148096",
+              "start": 5,
+              "url": "https://t.co/jiHi2eECOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066162910884487482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066032074709148096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑死了 https://t.co/jiHi2eECOo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353694338643972097",
+        "conversation_id": "2066032074709148096",
+        "created_at": "2026-06-14T05:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066032074709148096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066032074709148096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35539,
+          "like_count": 358,
+          "quote_count": 2,
+          "reply_count": 192,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有些男生那么执着于把自己头发烫的和自己的阴毛一样？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 44,
+          "like_count": 1652,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T13:21:50.000Z",
+        "description": "杭州人，不搞黄色，不聊骚，广告自辨清楚！！！不会主动联系任何人！！！小号 @xiaoyumama9988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "xiaoyumama9988"
+              }
+            ]
+          }
+        },
+        "id": "1353694338643972097",
+        "name": "小宇妈妈",
+        "pinned_tweet_id": "2050093581604630854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457902448547274755/S8Sn15qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486203,
+          "following_count": 33,
+          "like_count": 15856,
+          "listed_count": 399,
+          "media_count": 3494,
+          "tweet_count": 33680
+        },
+        "username": "xiaoyumama9968",
+        "verified": true
+      }
+    ]
+  }
+}

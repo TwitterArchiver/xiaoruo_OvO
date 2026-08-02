@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2031896748080390506",
+    "created_at": "2026-03-12T00:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T01:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031896748080390506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961773425573380096",
+          "start": 3,
+          "username": "ppmissss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031896748080390506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031741316686885209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ppmissss: 自从在推特发点屁话都有人回应后 我的抖音朋友圈都不发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2031896748080390506",
+        "created_at": "2026-03-12T00:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T01:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031896748080390506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961773425573380096",
+              "start": 3,
+              "username": "ppmissss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031896748080390506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031741316686885209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ppmissss: 自从在推特发点屁话都有人回应后 我的抖音朋友圈都不发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961773425573380096",
+        "conversation_id": "2031741316686885209",
+        "created_at": "2026-03-11T14:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031741316686885209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031741316686885209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13787,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自从在推特发点屁话都有人回应后 我的抖音朋友圈都不发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7whJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 39,
+                "url": "https://t.co/Yj84w7whJj"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 12,
+          "like_count": 886,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 762
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T12:50:32.000Z",
+        "description": "🚪",
+        "id": "1961773425573380096",
+        "name": "pp",
+        "pinned_tweet_id": "2031747710198649277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031615283383894016/1agRyP6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 37,
+          "like_count": 784,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 530
+        },
+        "username": "ppmissss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1978232213872242999",
+    "created_at": "2025-10-14T22:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T23:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978232213872242999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978232213872242999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977867104796991662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 高三：好期待大学 那种自由手机自由恋爱 特别多的社团和活动 没有六点半的早读十点半的晚自修 没有堆成山的试卷\n大一：你妈了个死逼\n大二：你妈了个死逼\n大三：你妈了个死逼\n大四：你妈了个死逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1978232213872242999",
+        "created_at": "2025-10-14T22:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T23:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978232213872242999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978232213872242999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977867104796991662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 高三：好期待大学 那种自由手机自由恋爱 特别多的社团和活动 没有六点半的早读十点半的晚自修 没有堆成山的试卷\n大一：你妈了个死逼\n大二：你妈了个死逼\n大三：你妈了个死逼\n大四：你妈了个死逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1977867104796991662",
+        "created_at": "2025-10-13T22:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977867104796991662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977867104796991662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 74110,
+          "like_count": 1288,
+          "quote_count": 12,
+          "reply_count": 38,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "高三：好期待大学 那种自由手机自由恋爱 特别多的社团和活动 没有六点半的早读十点半的晚自修 没有堆成山的试卷\n大一：你妈了个死逼\n大二：你妈了个死逼\n大三：你妈了个死逼\n大四：你妈了个死逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 3,
+          "like_count": 325,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 333
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7592,
+          "following_count": 7041,
+          "like_count": 25146,
+          "listed_count": 15,
+          "media_count": 5509,
+          "tweet_count": 36981
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

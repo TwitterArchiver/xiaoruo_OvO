@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002697707367076265",
+    "created_at": "2025-12-22T13:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003096295108747658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1604504200108736517",
+          "start": 0,
+          "username": "mnouin_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003096295108747658",
+    "in_reply_to_user_id": "1604504200108736517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003096155824214350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnouin_0 这群傻逼导员到底想干什么！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-22T13:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003096295108747658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1604504200108736517",
+              "start": 0,
+              "username": "mnouin_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003096295108747658",
+        "in_reply_to_user_id": "1604504200108736517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003096155824214350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnouin_0 这群傻逼导员到底想干什么！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604504200108736517",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-22T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003096155824214350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003096155824214350",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002697707367076265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 这群傻逼导员到底想干什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 6,
+          "like_count": 607,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 539
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T15:49:57.000Z",
+        "description": "记得绿罗裙",
+        "id": "1604504200108736517",
+        "name": "三十春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966164434000199680/zQJZSKzk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 185,
+          "like_count": 4651,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 294
+        },
+        "username": "mnouin_0",
+        "verified": false
+      }
+    ]
+  }
+}

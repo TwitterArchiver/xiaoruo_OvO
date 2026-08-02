@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068697506154975232",
+        "3_2068697506545078272",
+        "3_2068697507618762753",
+        "3_2068697511800500224"
+      ],
+      "media_source_tweet_id": [
+        "2068697522760208547",
+        "2068697522760208547",
+        "2068697522760208547",
+        "2068697522760208547"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068710421964698072",
+    "created_at": "2026-06-21T14:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068710421964698072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053892249851998208",
+          "start": 3,
+          "username": "iiq1427276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fdBGrciVUR",
+          "end": 72,
+          "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+          "media_key": "3_2068697506154975232",
+          "start": 49,
+          "url": "https://t.co/fdBGrciVUR"
+        },
+        {
+          "display_url": "pic.x.com/fdBGrciVUR",
+          "end": 72,
+          "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+          "media_key": "3_2068697506545078272",
+          "start": 49,
+          "url": "https://t.co/fdBGrciVUR"
+        },
+        {
+          "display_url": "pic.x.com/fdBGrciVUR",
+          "end": 72,
+          "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+          "media_key": "3_2068697507618762753",
+          "start": 49,
+          "url": "https://t.co/fdBGrciVUR"
+        },
+        {
+          "display_url": "pic.x.com/fdBGrciVUR",
+          "end": 72,
+          "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+          "media_key": "3_2068697511800500224",
+          "start": 49,
+          "url": "https://t.co/fdBGrciVUR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068710421964698072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068697522760208547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiq1427276: 宣一下美雪个人团，团里还有色纸吧唧拍立得有喜欢可以私信我进群购买 https://t.co/fdBGrciVUR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068697506154975232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV9a-IakAAdAgM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2068697506545078272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV9a_lbEAAxOUt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2068697507618762753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV9bDlaMAE45MK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2068697511800500224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV9bTKacAA_6rr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068697506154975232",
+            "3_2068697506545078272",
+            "3_2068697507618762753",
+            "3_2068697511800500224"
+          ],
+          "media_source_tweet_id": [
+            "2068697522760208547",
+            "2068697522760208547",
+            "2068697522760208547",
+            "2068697522760208547"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068710421964698072",
+        "created_at": "2026-06-21T14:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068710421964698072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053892249851998208",
+              "start": 3,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 72,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697506154975232",
+              "start": 49,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 72,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697506545078272",
+              "start": 49,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 72,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697507618762753",
+              "start": 49,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 72,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697511800500224",
+              "start": 49,
+              "url": "https://t.co/fdBGrciVUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068710421964698072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068697522760208547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiq1427276: 宣一下美雪个人团，团里还有色纸吧唧拍立得有喜欢可以私信我进群购买 https://t.co/fdBGrciVUR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068697506154975232",
+            "3_2068697506545078272",
+            "3_2068697507618762753",
+            "3_2068697511800500224"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068697522760208547",
+        "created_at": "2026-06-21T14:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068697522760208547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 56,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697506154975232",
+              "start": 33,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 56,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697506545078272",
+              "start": 33,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 56,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697507618762753",
+              "start": 33,
+              "url": "https://t.co/fdBGrciVUR"
+            },
+            {
+              "display_url": "pic.x.com/fdBGrciVUR",
+              "end": 56,
+              "expanded_url": "https://x.com/iiq1427276/status/2068697522760208547/photo/1",
+              "media_key": "3_2068697511800500224",
+              "start": 33,
+              "url": "https://t.co/fdBGrciVUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068697522760208547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "宣一下美雪个人团，团里还有色纸吧唧拍立得有喜欢可以私信我进群购买 https://t.co/fdBGrciVUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1807,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1773
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "hi可以叫我夏美💟08|infp|双相|ADHD|双性恋|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|我推 水上由岐 曾根美雪 祢豆子|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 139,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 116,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "name": "众生蒙太奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 160,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 601
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2077669891516285019",
+    "created_at": "2026-07-16T13:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077754898234708402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077754898234708402",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077719073929183621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun 好想哭啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2077669891516285019",
+        "created_at": "2026-07-16T13:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077754898234708402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077754898234708402",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077719073929183621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun 好想哭啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "2077669891516285019",
+        "created_at": "2026-07-16T11:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077719073929183621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077719073929183621",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077669891516285019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 现在暑假工就是不好找了，工资又低又累招人的又少，没有什么认识的人，只靠自己就需要慢慢撞机会，网上投的简历啥的都没啥回应吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 58,
+          "like_count": 2189,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "男。在日本的中国社畜。普通平淡地活着。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alibabayushisi…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alibabayushisigeshishizi",
+                "start": 0,
+                "url": "https://t.co/Dgx0FFOx5V"
+              }
+            ]
+          }
+        },
+        "id": "1516022519559450624",
+        "location": "自己心中",
+        "name": "收放君",
+        "pinned_tweet_id": "2027791981905383747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035933906210578432/x6Pq39Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 97,
+          "like_count": 10563,
+          "listed_count": 0,
+          "media_count": 818,
+          "tweet_count": 4282
+        },
+        "url": "https://t.co/Dgx0FFOx5V",
+        "username": "shoufangjun",
+        "verified": false
+      }
+    ]
+  }
+}

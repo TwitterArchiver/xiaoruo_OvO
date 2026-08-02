@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2051165188003606701",
+    "created_at": "2026-05-04T09:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051230680726855707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271769334898016256",
+          "start": 0,
+          "username": "itZzKzik898VWLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051230680726855707",
+    "in_reply_to_user_id": "1271769334898016256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051203224540209322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itZzKzik898VWLB 是真的在大哭😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2051165188003606701",
+        "created_at": "2026-05-04T09:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051230680726855707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271769334898016256",
+              "start": 0,
+              "username": "itZzKzik898VWLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051230680726855707",
+        "in_reply_to_user_id": "1271769334898016256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051203224540209322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itZzKzik898VWLB 是真的在大哭😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271769334898016256",
+        "conversation_id": "2051165188003606701",
+        "created_at": "2026-05-04T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051203224540209322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051203224540209322",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051165188003606701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 扣到喷了是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关！匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 46,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "很屌的名字",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3110,
+          "following_count": 21,
+          "like_count": 1157,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 1136
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T11:40:19.000Z",
+        "description": "",
+        "id": "1271769334898016256",
+        "name": "shirobako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892107679046434819/WkKVufyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 2036,
+          "like_count": 12627,
+          "listed_count": 9,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "username": "itZzKzik898VWLB",
+        "verified": false
+      }
+    ]
+  }
+}

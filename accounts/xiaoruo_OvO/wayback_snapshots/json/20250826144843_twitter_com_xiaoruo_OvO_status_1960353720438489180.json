@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1960009765851213924",
+    "created_at": "2025-08-26T14:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960353720438489180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908206300623937536",
+          "start": 0,
+          "username": "yuj14356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960353720438489180",
+    "in_reply_to_user_id": "1908206300623937536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960044338907435468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuj14356 哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1960009765851213924",
+        "created_at": "2025-08-26T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960353720438489180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908206300623937536",
+              "start": 0,
+              "username": "yuj14356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960353720438489180",
+        "in_reply_to_user_id": "1908206300623937536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960044338907435468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuj14356 哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908206300623937536",
+        "conversation_id": "1960009765851213924",
+        "created_at": "2025-08-25T18:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960044338907435468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960044338907435468",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960009765851213924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我相信的是喜欢可爱的东西和小猫的人一定不会是坏家伙。\n这不比他们眼高手低的心干净了吗。人生很大世界很广，握住自由的手都是晦涩又灰色的。还有什么比非得纠结是非黑白更可怕的呢。\n……都说了这里是网络了。\n以及，我是说，要是因为他们这群王八蛋害的我没有莱莱看了林北我就淦他吗的啦我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2,
+          "like_count": 222,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 213
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T17:13:49.000Z",
+        "description": "",
+        "id": "1908206300623937536",
+        "name": "司徒渝弥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908207388475465729/5oosSaaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 34,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "yuj14356",
+        "verified": false
+      }
+    ]
+  }
+}

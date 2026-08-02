@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1983669733175259509",
+    "created_at": "2025-10-30T01:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T02:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983714673263542467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3615174192",
+          "start": 0,
+          "username": "qianyedasiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983714673263542467",
+    "in_reply_to_user_id": "3615174192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983690441523704105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyedasiki 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1983669733175259509",
+        "created_at": "2025-10-30T01:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T02:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983714673263542467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3615174192",
+              "start": 0,
+              "username": "qianyedasiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983714673263542467",
+        "in_reply_to_user_id": "3615174192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983690441523704105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyedasiki 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3615174192",
+        "conversation_id": "1983669733175259509",
+        "created_at": "2025-10-30T00:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983690441523704105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983690441523704105",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983669733175259509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 可以试试乳头贴或是运动内衣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 5,
+          "like_count": 427,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 361
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-19T11:05:09.000Z",
+        "description": "中文ok 日语简单ok",
+        "id": "3615174192",
+        "location": "Whittier, CA",
+        "name": "Takaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580167087536091137/Twz9oaBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 248,
+          "like_count": 1883,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 346
+        },
+        "username": "qianyedasiki",
+        "verified": false
+      }
+    ]
+  }
+}

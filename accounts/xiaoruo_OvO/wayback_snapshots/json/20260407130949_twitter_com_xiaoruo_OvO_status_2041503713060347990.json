@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2041503713060347990",
+    "created_at": "2026-04-07T13:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041503713060347990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vox35112635/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/vox35112635/status/2041386768050856091",
+          "start": 9,
+          "url": "https://t.co/YYJoqu1Q29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041503713060347990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041386768050856091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "矮油我操笑死我了 https://t.co/YYJoqu1Q29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2041386760454938624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR2cWIaIAAh3Ie.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2041503713060347990",
+        "created_at": "2026-04-07T13:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041503713060347990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vox35112635/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/vox35112635/status/2041386768050856091",
+              "start": 9,
+              "url": "https://t.co/YYJoqu1Q29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041503713060347990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041386768050856091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "矮油我操笑死我了 https://t.co/YYJoqu1Q29"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041386760454938624"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2041386768050856091",
+        "created_at": "2026-04-07T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041386768050856091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MbTlRjqZlZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/2041386768050856091/photo/1",
+              "media_key": "3_2041386760454938624",
+              "start": 0,
+              "url": "https://t.co/MbTlRjqZlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041386768050856091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 99642,
+          "like_count": 688,
+          "quote_count": 29,
+          "reply_count": 292,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MbTlRjqZlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3140,
+          "following_count": 12,
+          "like_count": 1002,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 937
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290478,
+          "following_count": 532,
+          "like_count": 480,
+          "listed_count": 335,
+          "media_count": 11730,
+          "tweet_count": 16928
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

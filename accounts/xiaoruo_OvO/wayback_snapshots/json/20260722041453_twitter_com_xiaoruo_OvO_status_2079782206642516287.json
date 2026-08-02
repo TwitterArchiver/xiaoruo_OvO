@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2079782148333330490",
+    "created_at": "2026-07-22T04:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079782206642516287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079782206642516287",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079782148333330490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我哭笑不得。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2079782139516895232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNze1jQbQAAQo5Z.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2079782148333330490",
+        "created_at": "2026-07-22T04:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079782206642516287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079782206642516287",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079782148333330490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我哭笑不得。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079782139516895232"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2079782148333330490",
+        "created_at": "2026-07-22T04:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079782148333330490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCFQzKPKMF",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2079782148333330490/photo/1",
+              "media_key": "3_2079782139516895232",
+              "start": 12,
+              "url": "https://t.co/qCFQzKPKMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079782148333330490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这么狡猾然后失败。 https://t.co/qCFQzKPKMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 56,
+          "like_count": 2242,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

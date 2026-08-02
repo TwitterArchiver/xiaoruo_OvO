@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034153125494571008"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2034115489061126314",
+    "created_at": "2026-03-18T06:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034153132490690939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSCqlzSRbK",
+          "end": 108,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2034153132490690939/photo/1",
+          "media_key": "3_2034153125494571008",
+          "start": 85,
+          "url": "https://t.co/uSCqlzSRbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034153132490690939",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034135270237573298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 我们学校学生会干部真这样…综合实践我整理好几遍了每次都能找出新问题 我都不懂为什么却不能一次性说完 而且问他们问题的时候态度也差的要死 https://t.co/uSCqlzSRbK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "3_2034153125494571008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrDfX_awAANlgJ.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034153125494571008"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2034115489061126314",
+        "created_at": "2026-03-18T06:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034153132490690939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSCqlzSRbK",
+              "end": 108,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2034153132490690939/photo/1",
+              "media_key": "3_2034153125494571008",
+              "start": 85,
+              "url": "https://t.co/uSCqlzSRbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034153132490690939",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034135270237573298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 我们学校学生会干部真这样…综合实践我整理好几遍了每次都能找出新问题 我都不懂为什么却不能一次性说完 而且问他们问题的时候态度也差的要死 https://t.co/uSCqlzSRbK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2034115489061126314",
+        "created_at": "2026-03-18T05:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034135270237573298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034135270237573298",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034134041834975308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我是学生会的。上面团委的老师给出的指令很多时候莫名其妙，比如优秀团员评选。评选就评选吧，居然还必须有不合格的。\n和我一起干活的人也挺傻逼，同学不明白多问几句，那叫一个不耐烦，恨不得眼睛翻到天上去了。不是，同学有问题你不想管，那你是干啥的啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 12,
+          "like_count": 940,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 807
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，汉族，成年人， 男，ENFP\n适度键政，玩推主要是来看黄片和骂人的。\n地域黑东北的你们死🐴了。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2033549754815369250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 2371,
+          "like_count": 7838,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2003
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

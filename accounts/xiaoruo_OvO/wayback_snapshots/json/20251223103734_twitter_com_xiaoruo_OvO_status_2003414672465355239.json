@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002697707367076265",
+    "created_at": "2025-12-23T10:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003414672465355239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1791509445874475008",
+          "start": 0,
+          "username": "Wobupeima_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003414672465355239",
+    "in_reply_to_user_id": "1791509445874475008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003333173179228197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wobupeima_ 救命啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-23T10:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003414672465355239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1791509445874475008",
+              "start": 0,
+              "username": "Wobupeima_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003414672465355239",
+        "in_reply_to_user_id": "1791509445874475008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003333173179228197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wobupeima_ 救命啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791509445874475008",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-23T05:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003333173179228197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003333173179228197",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002697707367076265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 审计实习80/天 没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 6,
+          "like_count": 631,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 545
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T16:42:02.000Z",
+        "description": "",
+        "id": "1791509445874475008",
+        "name": "一口吃饱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791510028408758272/lFBhYrNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 157,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Wobupeima_",
+        "verified": false
+      }
+    ]
+  }
+}

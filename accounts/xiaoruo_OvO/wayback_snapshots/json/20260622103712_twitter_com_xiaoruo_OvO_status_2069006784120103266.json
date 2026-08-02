@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068689200921423872"
+      ],
+      "media_source_tweet_id": [
+        "2068689202703909183"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2069006784120103266",
+    "created_at": "2026-06-22T10:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069006784120103266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f2FHPn23OO",
+          "end": 49,
+          "expanded_url": "https://x.com/anblk984/status/2068689202703909183/photo/1",
+          "media_key": "3_2068689200921423872",
+          "start": 26,
+          "url": "https://t.co/f2FHPn23OO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069006784120103266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068689202703909183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 以防你们以后不会做家务 https://t.co/f2FHPn23OO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2068689200921423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV13iubsAAVqy9.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068689200921423872"
+          ],
+          "media_source_tweet_id": [
+            "2068689202703909183"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2069006784120103266",
+        "created_at": "2026-06-22T10:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069006784120103266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2FHPn23OO",
+              "end": 49,
+              "expanded_url": "https://x.com/anblk984/status/2068689202703909183/photo/1",
+              "media_key": "3_2068689200921423872",
+              "start": 26,
+              "url": "https://t.co/f2FHPn23OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069006784120103266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068689202703909183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 以防你们以后不会做家务 https://t.co/f2FHPn23OO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068689200921423872"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2068689202703909183",
+        "created_at": "2026-06-21T13:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068689202703909183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2FHPn23OO",
+              "end": 35,
+              "expanded_url": "https://x.com/anblk984/status/2068689202703909183/photo/1",
+              "media_key": "3_2068689200921423872",
+              "start": 12,
+              "url": "https://t.co/f2FHPn23OO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068689202703909183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2359,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以防你们以后不会做家务 https://t.co/f2FHPn23OO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 54,
+          "like_count": 1913,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15399,
+          "following_count": 1037,
+          "like_count": 123423,
+          "listed_count": 74,
+          "media_count": 3081,
+          "tweet_count": 29778
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

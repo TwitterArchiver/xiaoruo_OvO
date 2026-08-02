@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2064217427433738502",
+    "created_at": "2026-06-09T05:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064217427433738502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958297217250553856",
+          "start": 3,
+          "username": "vwowv_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064217427433738502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063994393632325668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vwowv_77: 推上很多每条帖子都自称母狗婊子贱货之类的账号有一股男味有人懂吗，就真的是最男幻想，然后评论区一堆男的闻着味就来骂了，完成了一场酣畅淋漓的赛博肛交💥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2064217427433738502",
+        "created_at": "2026-06-09T05:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064217427433738502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958297217250553856",
+              "start": 3,
+              "username": "vwowv_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064217427433738502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063994393632325668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vwowv_77: 推上很多每条帖子都自称母狗婊子贱货之类的账号有一股男味有人懂吗，就真的是最男幻想，然后评论区一堆男的闻着味就来骂了，完成了一场酣畅淋漓的赛博肛交💥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958297217250553856",
+        "conversation_id": "2063994393632325668",
+        "created_at": "2026-06-08T14:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063994393632325668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063994393632325668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16482,
+          "like_count": 978,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "推上很多每条帖子都自称母狗婊子贱货之类的账号有一股男味有人懂吗，就真的是最男幻想，然后评论区一堆男的闻着味就来骂了，完成了一场酣畅淋漓的赛博肛交💥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 37,
+          "like_count": 1557,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T22:37:18.000Z",
+        "description": "Brat / 爱年上 / 不当免费客服不聊天 / 不约P不加联系方式不想认识你 / 打男拳的滚 / 快让我1400粉！\n取关的请顺便屏蔽我 /// 感谢关注^ ^",
+        "id": "1958297217250553856",
+        "location": "Los Angeles, CA",
+        "name": "Kiss",
+        "pinned_tweet_id": "2053807080189124728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063870328963768321/27D2F8q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 107,
+          "like_count": 11067,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 245
+        },
+        "username": "vwowv_77",
+        "verified": false
+      }
+    ]
+  }
+}

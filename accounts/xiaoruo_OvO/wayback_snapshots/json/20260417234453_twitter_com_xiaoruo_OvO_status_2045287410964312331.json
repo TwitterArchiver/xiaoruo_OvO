@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2045168482397061273",
+    "created_at": "2026-04-17T23:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045287410964312331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045287410964312331",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045168482397061273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun 我不行了吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2045168473656131584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHl5BoaAAAFCqQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2045168482397061273",
+        "created_at": "2026-04-17T23:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045287410964312331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045287410964312331",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168482397061273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun 我不行了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045168473656131584"
+          ]
+        },
+        "author_id": "1516022519559450624",
+        "conversation_id": "2045168482397061273",
+        "created_at": "2026-04-17T15:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045168482397061273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDt6GPcFFS",
+              "end": 54,
+              "expanded_url": "https://x.com/shoufangjun/status/2045168482397061273/photo/1",
+              "media_key": "3_2045168473656131584",
+              "start": 31,
+              "url": "https://t.co/lDt6GPcFFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168482397061273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“公司福利”。不知道哪几百年能用上，也不知道哪几百年能用完🙄 https://t.co/lDt6GPcFFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 14,
+          "like_count": 1053,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1060
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "享受生活，热爱自己。",
+        "id": "1516022519559450624",
+        "name": "收放君",
+        "pinned_tweet_id": "2027791981905383747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035933906210578432/x6Pq39Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 102,
+          "like_count": 8617,
+          "listed_count": 1,
+          "media_count": 651,
+          "tweet_count": 3550
+        },
+        "username": "shoufangjun",
+        "verified": false
+      }
+    ]
+  }
+}

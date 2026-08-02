@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1997137123221377279",
+    "created_at": "2025-12-06T10:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T11:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997249452160262256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745540519256805376",
+          "start": 0,
+          "username": "HuaiShi91411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997249452160262256",
+    "in_reply_to_user_id": "1745540519256805376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997238526874918979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaiShi91411 ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1997137123221377279",
+        "created_at": "2025-12-06T10:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997249452160262256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745540519256805376",
+              "start": 0,
+              "username": "HuaiShi91411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997249452160262256",
+        "in_reply_to_user_id": "1745540519256805376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997238526874918979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaiShi91411 ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745540519256805376",
+        "conversation_id": "1997137123221377279",
+        "created_at": "2025-12-06T09:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997238526874918979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997238526874918979",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997137221498163243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 期末考试有信心吗？没信心的话就得抓紧时间看一些速成课了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵 匿名提问箱https://t.co/Gg0Zn8dP0e 07的infj 欢迎找我聊天！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 57,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 34,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 6,
+          "like_count": 534,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 497
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T20:18:36.000Z",
+        "description": "",
+        "id": "1745540519256805376",
+        "name": "释怀",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 58,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "HuaiShi91411",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002666085464829952"
+      ],
+      "media_source_tweet_id": [
+        "2002666135741993438"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2003055521361010942",
+    "created_at": "2025-12-22T10:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003055521361010942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "579991232",
+          "start": 3,
+          "username": "IzzyMullallyKni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NpknzwQwM",
+          "end": 48,
+          "expanded_url": "https://x.com/IzzyMullallyKni/status/2002666135741993438/photo/1",
+          "media_key": "3_2002666085464829952",
+          "start": 25,
+          "url": "https://t.co/0NpknzwQwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003055521361010942",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1022
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002666135741993438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzzyMullallyKni: 4-1 https://t.co/0NpknzwQwM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003055521361010942].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003055521361010942",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003055521361010942"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1653,
+        "media_key": "3_2002666085464829952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rmMbPacAAYc-K.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002666085464829952"
+          ]
+        },
+        "author_id": "579991232",
+        "conversation_id": "2002666135741993438",
+        "created_at": "2025-12-21T09:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002666135741993438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NpknzwQwM",
+              "end": 27,
+              "expanded_url": "https://x.com/IzzyMullallyKni/status/2002666135741993438/photo/1",
+              "media_key": "3_2002666085464829952",
+              "start": 4,
+              "url": "https://t.co/0NpknzwQwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002666135741993438",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10591,
+          "impression_count": 3839457,
+          "like_count": 30522,
+          "quote_count": 64,
+          "reply_count": 155,
+          "retweet_count": 1022
+        },
+        "reply_settings": "everyone",
+        "text": "4-1 https://t.co/0NpknzwQwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 6,
+          "like_count": 586,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 533
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-14T15:53:41.000Z",
+        "description": "",
+        "id": "579991232",
+        "name": "やみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999032621280698368/dv4etXSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 467,
+          "like_count": 9669,
+          "listed_count": 3,
+          "media_count": 1092,
+          "tweet_count": 24051
+        },
+        "username": "IzzyMullallyKni",
+        "verified": false
+      }
+    ]
+  }
+}

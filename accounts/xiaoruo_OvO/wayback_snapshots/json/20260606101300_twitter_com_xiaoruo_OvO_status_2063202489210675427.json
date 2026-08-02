@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2063141898106388571",
+    "created_at": "2026-06-06T10:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063202489210675427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2054559831248572416",
+          "start": 0,
+          "username": "Wuu2mv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063202489210675427",
+    "in_reply_to_user_id": "2054559831248572416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063201344044052936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuu2mv 高考加油（bushi\n还有虽然艾灸很有用但是熏完了浑身都是烟味！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T10:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063202489210675427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2054559831248572416",
+              "start": 0,
+              "username": "Wuu2mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063202489210675427",
+        "in_reply_to_user_id": "2054559831248572416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063201344044052936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuu2mv 高考加油（bushi\n还有虽然艾灸很有用但是熏完了浑身都是烟味！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054559831248572416",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063201344044052936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063201344044052936",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141898106388571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 不许说高考加油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3121,
+          "following_count": 36,
+          "like_count": 1500,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T13:50:41.000Z",
+        "description": "",
+        "id": "2054559831248572416",
+        "name": "Wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055596907503005696/e6hIMSlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "Wuu2mv",
+        "verified": false
+      }
+    ]
+  }
+}

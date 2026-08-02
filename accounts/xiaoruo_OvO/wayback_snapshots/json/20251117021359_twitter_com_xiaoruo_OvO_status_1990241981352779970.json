@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989654349161930752"
+      ],
+      "media_source_tweet_id": [
+        "1989654377527919015"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "1990241981352779970",
+    "created_at": "2025-11-17T02:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990241981352779970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u2CwVfWK2j",
+          "end": 44,
+          "expanded_url": "https://x.com/hgds0/status/1989654377527919015/photo/1",
+          "media_key": "3_1989654349161930752",
+          "start": 21,
+          "url": "https://t.co/u2CwVfWK2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990241981352779970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989654377527919015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 我喜欢一个人就这样 https://t.co/u2CwVfWK2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_1989654349161930752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ysFsOboAA7eP2.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989654349161930752"
+          ],
+          "media_source_tweet_id": [
+            "1989654377527919015"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "1990241981352779970",
+        "created_at": "2025-11-17T02:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990241981352779970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2CwVfWK2j",
+              "end": 44,
+              "expanded_url": "https://x.com/hgds0/status/1989654377527919015/photo/1",
+              "media_key": "3_1989654349161930752",
+              "start": 21,
+              "url": "https://t.co/u2CwVfWK2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990241981352779970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989654377527919015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 我喜欢一个人就这样 https://t.co/u2CwVfWK2j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989654349161930752"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1989654377527919015",
+        "created_at": "2025-11-15T11:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T12:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989654377527919015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2CwVfWK2j",
+              "end": 33,
+              "expanded_url": "https://x.com/hgds0/status/1989654377527919015/photo/1",
+              "media_key": "3_1989654349161930752",
+              "start": 10,
+              "url": "https://t.co/u2CwVfWK2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989654377527919015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 174632,
+          "like_count": 4434,
+          "quote_count": 51,
+          "reply_count": 41,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢一个人就这样 https://t.co/u2CwVfWK2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 6,
+          "like_count": 486,
+          "listed_count": 5,
+          "media_count": 11,
+          "tweet_count": 458
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "星探小特，诚心帮缺钱的宝子找金主👉： @CalliMauri98320 （有需求的宝子欢迎投稿）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "CalliMauri98320"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1988913870912598067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94008,
+          "following_count": 2743,
+          "like_count": 43344,
+          "listed_count": 128,
+          "media_count": 3067,
+          "tweet_count": 7385
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

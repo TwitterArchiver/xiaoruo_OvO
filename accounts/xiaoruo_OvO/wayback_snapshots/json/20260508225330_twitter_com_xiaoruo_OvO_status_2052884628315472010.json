@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2052608689992028571",
+    "created_at": "2026-05-08T22:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052884628315472010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906009079182766080",
+          "start": 0,
+          "username": "9FPWlmvbGI47761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052884628315472010",
+    "in_reply_to_user_id": "1906009079182766080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052845662350319703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9FPWlmvbGI47761 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2052608689992028571",
+        "created_at": "2026-05-08T22:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052884628315472010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906009079182766080",
+              "start": 0,
+              "username": "9FPWlmvbGI47761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052884628315472010",
+        "in_reply_to_user_id": "1906009079182766080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052845662350319703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9FPWlmvbGI47761 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906009079182766080",
+        "conversation_id": "2052608689992028571",
+        "created_at": "2026-05-08T20:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052845662350319703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052845662350319703",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052608689992028571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我是单纯说很焦虑吃别的药不管用就给开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关！匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 89,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 66,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子🩸",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 23,
+          "like_count": 1174,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 1181
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:42:55.000Z",
+        "description": "06 ♂\nod自伤｜🚪52\n不回人机 目前已出院\n爱我就给我打钱 我喜欢你们",
+        "id": "1906009079182766080",
+        "location": "https://ngl.link/kiko65001",
+        "name": "ここ",
+        "pinned_tweet_id": "2039416206017397116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051381377120325632/EC5oYeGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 166,
+          "like_count": 3425,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 754
+        },
+        "username": "9FPWlmvbGI47761",
+        "verified": false
+      }
+    ]
+  }
+}

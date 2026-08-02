@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2071535115751362962",
+    "created_at": "2026-06-30T03:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T04:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071800216102289857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544221913710751744",
+          "start": 0,
+          "username": "woshiganhedehe"
+        },
+        {
+          "end": 28,
+          "id": "1581937806435573760",
+          "start": 16,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071800216102289857",
+    "in_reply_to_user_id": "1544221913710751744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071625907522203936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiganhedehe @fadai202202 好吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2071535115751362962",
+        "created_at": "2026-06-30T03:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071800216102289857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544221913710751744",
+              "start": 0,
+              "username": "woshiganhedehe"
+            },
+            {
+              "end": 28,
+              "id": "1581937806435573760",
+              "start": 16,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071800216102289857",
+        "in_reply_to_user_id": "1544221913710751744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071625907522203936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiganhedehe @fadai202202 好吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544221913710751744",
+        "conversation_id": "2071535115751362962",
+        "created_at": "2026-06-29T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071625907522203936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 25,
+              "id": "1581937806435573760",
+              "start": 13,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625907522203936",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071608188198375605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @fadai202202 omg那个盐焗鸡脚筋吗，我狂买了好多都给自己吃出鸡味来了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 60,
+          "like_count": 2063,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T07:29:40.000Z",
+        "description": "真身是个土豆🥔悉尼老鼠人🇦🇺",
+        "id": "1544221913710751744",
+        "name": "海一样咸的河水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567987252328038401/K6IU42O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 163,
+          "like_count": 8306,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "woshiganhedehe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "location": "你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22465,
+          "following_count": 0,
+          "like_count": 1651,
+          "listed_count": 22,
+          "media_count": 288,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2008232897460007208",
+    "created_at": "2026-01-06T02:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008364415742091742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974908304943112192",
+          "start": 0,
+          "username": "3504568079p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008364415742091742",
+    "in_reply_to_user_id": "1974908304943112192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008271214712930645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3504568079p 这就买！感谢你！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008271202096455680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G97QBJ2bIAApk03.jpg",
+        "width": 799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2008232897460007208",
+        "created_at": "2026-01-06T02:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008364415742091742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974908304943112192",
+              "start": 0,
+              "username": "3504568079p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008364415742091742",
+        "in_reply_to_user_id": "1974908304943112192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008271214712930645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3504568079p 这就买！感谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008271202096455680"
+          ]
+        },
+        "author_id": "1974908304943112192",
+        "conversation_id": "2008232897460007208",
+        "created_at": "2026-01-05T20:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T21:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008271214712930645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMQ07FUPz9",
+              "end": 74,
+              "expanded_url": "https://x.com/3504568079p/status/2008271214712930645/photo/1",
+              "media_key": "3_2008271202096455680",
+              "start": 51,
+              "url": "https://t.co/TMQ07FUPz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008271214712930645",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008232897460007208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 宝子你可以在网上买一下这种护理用的垫子比较厚不容易洇到床上脏了直接扔了就行 https://t.co/TMQ07FUPz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 7,
+          "like_count": 691,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 581
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:43:47.000Z",
+        "description": "当朋友圈发互关私信₍˄·͈༝·͈˄*₎◞ ̑̑（性别我也不知道）",
+        "id": "1974908304943112192",
+        "location": "距你0.1km",
+        "name": "我不知道（秽土转生版）",
+        "pinned_tweet_id": "1999026888468226116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004524773142118400/wX6qUN19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 88,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 164
+        },
+        "username": "3504568079p",
+        "verified": false
+      }
+    ]
+  }
+}

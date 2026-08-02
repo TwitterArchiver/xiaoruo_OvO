@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2069113741820809402",
+    "created_at": "2026-06-23T01:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069228658909499900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621466560635482112",
+          "start": 0,
+          "username": "wubruce12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069228658909499900",
+    "in_reply_to_user_id": "1621466560635482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069167299060453438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wubruce12 其实这不是别人让我想这么干的 只是我自己好绝望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2069113741820809402",
+        "created_at": "2026-06-23T01:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069228658909499900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621466560635482112",
+              "start": 0,
+              "username": "wubruce12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069228658909499900",
+        "in_reply_to_user_id": "1621466560635482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069167299060453438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wubruce12 其实这不是别人让我想这么干的 只是我自己好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621466560635482112",
+        "conversation_id": "2069113741820809402",
+        "created_at": "2026-06-22T21:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069167299060453438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069167299060453438",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069113741820809402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 可是你死了什么也改变不了，与其默默死去，倒不如死之前走极端让你想要死的人去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 55,
+          "like_count": 1948,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T11:12:25.000Z",
+        "description": "老光棍精神病，没爱人，没爱做，负能量戾气重，喜欢骂人。无敌之人一枚，专心过我的屌丝生活",
+        "id": "1621466560635482112",
+        "name": "wu bruce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621466635021451264/x2kNze7q_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 40,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "wubruce12",
+        "verified": false
+      }
+    ]
+  }
+}

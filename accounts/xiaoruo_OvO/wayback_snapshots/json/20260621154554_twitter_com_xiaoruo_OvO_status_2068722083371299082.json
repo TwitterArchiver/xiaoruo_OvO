@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993547128526995456"
+      ],
+      "media_source_tweet_id": [
+        "1993547540898468243"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068722083371299082",
+    "created_at": "2026-06-21T15:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068722083371299082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933562792187109376",
+          "start": 3,
+          "username": "tyomateee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLQis4T3CA",
+          "end": 60,
+          "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+          "media_key": "13_1993547128526995456",
+          "start": 37,
+          "url": "https://t.co/hLQis4T3CA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068722083371299082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068643339105132944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee: スピンしまくるクラゲ、ただただ可愛い🪼❤️ https://t.co/hLQis4T3CA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9833,
+        "height": 1080,
+        "media_key": "13_1993547128526995456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993547128526995456/img/l1MnA869VbZ1ldUw.jpg",
+        "public_metrics": {
+          "view_count": 2663799
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/320x320/GH2laYhY2atG2O_j.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/1080x1080/OfrQXtDg9XpSc5Kt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/pl/r6jb01omFYA1JR80.m3u8"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/720x720/sTXJgFMFdVqWd3Pg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/540x540/zAqvDMzdoXECU6ET.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993547128526995456"
+          ],
+          "media_source_tweet_id": [
+            "1993547540898468243"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068722083371299082",
+        "created_at": "2026-06-21T15:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068722083371299082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933562792187109376",
+              "start": 3,
+              "username": "tyomateee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLQis4T3CA",
+              "end": 60,
+              "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+              "media_key": "13_1993547128526995456",
+              "start": 37,
+              "url": "https://t.co/hLQis4T3CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068722083371299082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068643339105132944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee: スピンしまくるクラゲ、ただただ可愛い🪼❤️ https://t.co/hLQis4T3CA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993547128526995456"
+          ],
+          "media_source_tweet_id": [
+            "1993547540898468243"
+          ]
+        },
+        "author_id": "933562792187109376",
+        "conversation_id": "2068643339105132944",
+        "created_at": "2026-06-21T10:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068643339105132944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLQis4T3CA",
+              "end": 45,
+              "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+              "media_key": "13_1993547128526995456",
+              "start": 22,
+              "url": "https://t.co/hLQis4T3CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068643339105132944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 14707,
+          "like_count": 454,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "スピンしまくるクラゲ、ただただ可愛い🪼❤️ https://t.co/hLQis4T3CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1817,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:08:09.000Z",
+        "description": "海外・世界で話題の情報を呟きます。他大喜利 癒しbot等の運営とは一切関係ありません 削除申請はDMまでお願い致します。",
+        "id": "933562792187109376",
+        "name": "最多情報局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142197940443680768/_hpVLFxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795190,
+          "following_count": 46088,
+          "like_count": 18431,
+          "listed_count": 3350,
+          "media_count": 12578,
+          "tweet_count": 35714
+        },
+        "url": "",
+        "username": "tyomateee",
+        "verified": true
+      }
+    ]
+  }
+}

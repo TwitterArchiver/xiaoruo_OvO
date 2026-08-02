@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045673973757968384"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2045674079928426814",
+    "created_at": "2026-04-19T01:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045674079928426814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JLr9vdavh",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2045674079928426814/video/1",
+          "media_key": "13_2045673973757968384",
+          "start": 13,
+          "url": "https://t.co/9JLr9vdavh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045674079928426814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我老公出门在外就这样 https://t.co/9JLr9vdavh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35890,
+        "height": 1280,
+        "media_key": "13_2045673973757968384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045673973757968384/img/GbHpR1MG6S9nC561.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045673973757968384/vid/avc1/320x568/kYYjTxNv5IBtGOOw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045673973757968384/vid/avc1/480x852/3akb0ZKX74H_lNbT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045673973757968384/vid/avc1/720x1280/nLsEG43s83zQkekj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045673973757968384/pl/Qb84y_bAw5tLTUch.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045673973757968384"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2045674079928426814",
+        "created_at": "2026-04-19T01:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045674079928426814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JLr9vdavh",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2045674079928426814/video/1",
+              "media_key": "13_2045673973757968384",
+              "start": 13,
+              "url": "https://t.co/9JLr9vdavh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045674079928426814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我老公出门在外就这样 https://t.co/9JLr9vdavh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3075,
+          "following_count": 15,
+          "like_count": 1067,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1069
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

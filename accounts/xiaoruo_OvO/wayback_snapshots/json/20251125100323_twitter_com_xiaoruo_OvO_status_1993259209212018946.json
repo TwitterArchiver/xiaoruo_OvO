@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1990242995325825462",
+    "created_at": "2025-11-25T10:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993259209212018946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707194644803751937",
+          "start": 0,
+          "username": "xiaoz010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993259209212018946",
+    "in_reply_to_user_id": "707194644803751937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993251581547233449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoz010203 我已经好多啦 谢谢你的科普！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1990242995325825462",
+        "created_at": "2025-11-25T10:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993259209212018946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707194644803751937",
+              "start": 0,
+              "username": "xiaoz010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993259209212018946",
+        "in_reply_to_user_id": "707194644803751937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993251581547233449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoz010203 我已经好多啦 谢谢你的科普！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707194644803751937",
+        "conversation_id": "1990242995325825462",
+        "created_at": "2025-11-25T09:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993251581547233449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993251581547233449",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990243153006498207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 西酞普兰副作用有呕吐，因为提升了5-HT水平，刺激了5-HT3受体产生呕吐信号。\n\n说明你这部分受体比较敏感。\n\n如果一段时间副作用没有减弱，联系医生加止吐剂昂丹司琼(拮抗5-HT3)或者换伏硫西汀(综合了西酞普兰，丁螺环酮，昂丹司琼三者效果的新药)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵   匿名提问箱https://t.co/Gg0Zn8dP0e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 59,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 36,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 6,
+          "like_count": 507,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 473
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T13:21:57.000Z",
+        "description": "幸福是短暂的，苦难却周而复始",
+        "id": "707194644803751937",
+        "name": "Zzzzzzzzzzz",
+        "pinned_tweet_id": "1866747340687806543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 44,
+          "like_count": 3097,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1800
+        },
+        "username": "xiaoz010203",
+        "verified": false
+      }
+    ]
+  }
+}

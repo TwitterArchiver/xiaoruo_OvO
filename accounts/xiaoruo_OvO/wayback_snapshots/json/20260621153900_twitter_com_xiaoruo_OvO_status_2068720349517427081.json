@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068560164173803520"
+      ],
+      "media_source_tweet_id": [
+        "2068560220679471163"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068720349517427081",
+    "created_at": "2026-06-21T15:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068720349517427081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2351408209",
+          "start": 3,
+          "username": "cutest_animal1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJGsUssUg2",
+          "end": 53,
+          "expanded_url": "https://x.com/cutest_animal1/status/2068560220679471163/video/1",
+          "media_key": "13_2068560164173803520",
+          "start": 30,
+          "url": "https://t.co/DJGsUssUg2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068720349517427081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068560220679471163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutest_animal1: 何かを訴えかけてる https://t.co/DJGsUssUg2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17733,
+        "height": 822,
+        "media_key": "13_2068560164173803520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068560164173803520/img/e9KSQUZxnigTqEUu.jpg",
+        "public_metrics": {
+          "view_count": 339261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068560164173803520/vid/avc1/320x364/76iF7wgjoCDEtwO3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068560164173803520/vid/avc1/480x548/41vYlE-BJFBfDncT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068560164173803520/vid/avc1/720x822/wYMT1kykIRZHJoLT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068560164173803520/pl/rOEQ3b3zq3wBM9J4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068560164173803520"
+          ],
+          "media_source_tweet_id": [
+            "2068560220679471163"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068720349517427081",
+        "created_at": "2026-06-21T15:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068720349517427081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2351408209",
+              "start": 3,
+              "username": "cutest_animal1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJGsUssUg2",
+              "end": 53,
+              "expanded_url": "https://x.com/cutest_animal1/status/2068560220679471163/video/1",
+              "media_key": "13_2068560164173803520",
+              "start": 30,
+              "url": "https://t.co/DJGsUssUg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068720349517427081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068560220679471163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutest_animal1: 何かを訴えかけてる https://t.co/DJGsUssUg2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068560164173803520"
+          ]
+        },
+        "author_id": "2351408209",
+        "conversation_id": "2068560220679471163",
+        "created_at": "2026-06-21T05:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068560220679471163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJGsUssUg2",
+              "end": 33,
+              "expanded_url": "https://x.com/cutest_animal1/status/2068560220679471163/video/1",
+              "media_key": "13_2068560164173803520",
+              "start": 10,
+              "url": "https://t.co/DJGsUssUg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068560220679471163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1007,
+          "impression_count": 847908,
+          "like_count": 7095,
+          "quote_count": 242,
+          "reply_count": 320,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "何かを訴えかけてる https://t.co/DJGsUssUg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1814,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "pinned_tweet_id": "2068244868108013934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676758,
+          "following_count": 12420,
+          "like_count": 958,
+          "listed_count": 2338,
+          "media_count": 30716,
+          "tweet_count": 49894
+        },
+        "url": "",
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

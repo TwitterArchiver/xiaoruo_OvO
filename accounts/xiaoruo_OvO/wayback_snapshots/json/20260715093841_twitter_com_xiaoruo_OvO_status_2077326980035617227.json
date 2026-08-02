@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077326962096586752",
+        "3_2077326961832239106"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2077326980035617227",
+    "created_at": "2026-07-15T09:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077326980035617227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XjxOyI0Svw",
+          "end": 37,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2077326980035617227/photo/1",
+          "media_key": "3_2077326962096586752",
+          "start": 14,
+          "url": "https://t.co/XjxOyI0Svw"
+        },
+        {
+          "display_url": "pic.x.com/XjxOyI0Svw",
+          "end": 37,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2077326980035617227/photo/1",
+          "media_key": "3_2077326961832239106",
+          "start": 14,
+          "url": "https://t.co/XjxOyI0Svw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077326980035617227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯呢 就这么被好好的爱着😉 https://t.co/XjxOyI0Svw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2033,
+        "media_key": "3_2077326962096586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQl3aobwAAmHaM.jpg",
+        "width": 1001
+      },
+      {
+        "height": 1858,
+        "media_key": "3_2077326961832239106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQl3ZpaIAIc1-C.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077326962096586752",
+            "3_2077326961832239106"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2077326980035617227",
+        "created_at": "2026-07-15T09:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077326980035617227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjxOyI0Svw",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2077326980035617227/photo/1",
+              "media_key": "3_2077326962096586752",
+              "start": 14,
+              "url": "https://t.co/XjxOyI0Svw"
+            },
+            {
+              "display_url": "pic.x.com/XjxOyI0Svw",
+              "end": 37,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2077326980035617227/photo/1",
+              "media_key": "3_2077326961832239106",
+              "start": 14,
+              "url": "https://t.co/XjxOyI0Svw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077326980035617227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯呢 就这么被好好的爱着😉 https://t.co/XjxOyI0Svw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 58,
+          "like_count": 2156,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

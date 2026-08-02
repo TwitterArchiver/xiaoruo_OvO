@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2063141898106388571",
+    "created_at": "2026-06-06T08:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063181619717190110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2055714802551713792",
+          "start": 0,
+          "username": "e79bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063181619717190110",
+    "in_reply_to_user_id": "2055714802551713792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063176341122322482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e79bn 我去 拍照拍的好牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063181619717190110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2055714802551713792",
+              "start": 0,
+              "username": "e79bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063181619717190110",
+        "in_reply_to_user_id": "2055714802551713792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063176341122322482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e79bn 我去 拍照拍的好牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055714802551713792",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T08:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063176341122322482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176341122322482",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141898106388571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 蟹蟹，不好听的回复我不看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 36,
+          "like_count": 1496,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 1428
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T18:21:01.000Z",
+        "description": "",
+        "id": "2055714802551713792",
+        "name": "暧昧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055730554826547200/FGt86djy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "username": "e79bn",
+        "verified": false
+      }
+    ]
+  }
+}

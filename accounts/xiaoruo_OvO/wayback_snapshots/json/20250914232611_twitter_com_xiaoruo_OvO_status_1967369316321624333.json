@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1966283362517266657",
+    "created_at": "2025-09-14T23:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T00:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967369316321624333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670796609486045186",
+          "start": 0,
+          "username": "RoxaNne1273771"
+        },
+        {
+          "end": 31,
+          "id": "1552194874991996928",
+          "start": 16,
+          "username": "gagaga82627322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967369316321624333",
+    "in_reply_to_user_id": "1670796609486045186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966667386767171584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoxaNne1273771 @gagaga82627322 哈哈。反正不许带着去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1966283362517266657",
+        "created_at": "2025-09-14T23:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T00:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967369316321624333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670796609486045186",
+              "start": 0,
+              "username": "RoxaNne1273771"
+            },
+            {
+              "end": 31,
+              "id": "1552194874991996928",
+              "start": 16,
+              "username": "gagaga82627322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967369316321624333",
+        "in_reply_to_user_id": "1670796609486045186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966667386767171584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoxaNne1273771 @gagaga82627322 哈哈。反正不许带着去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670796609486045186",
+        "conversation_id": "1966283362517266657",
+        "created_at": "2025-09-13T00:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966667386767171584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 28,
+              "id": "1552194874991996928",
+              "start": 13,
+              "username": "gagaga82627322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966667386767171584",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966665103744659813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @gagaga82627322 上大学不带着电脑去吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 3,
+          "like_count": 226,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 223
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T14:12:27.000Z",
+        "description": "",
+        "id": "1670796609486045186",
+        "location": "Melbourne, Australia",
+        "name": "RoxaNne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923344471913091072/JBTPFitk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 251,
+          "like_count": 839,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "RoxaNne1273771",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T07:31:20.000Z",
+        "description": "嘻嘻",
+        "id": "1552194874991996928",
+        "location": "Beijing",
+        "name": "古拉加斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552195291629031430/PiLsfTzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 95,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "gagaga82627322",
+        "verified": false
+      }
+    ]
+  }
+}

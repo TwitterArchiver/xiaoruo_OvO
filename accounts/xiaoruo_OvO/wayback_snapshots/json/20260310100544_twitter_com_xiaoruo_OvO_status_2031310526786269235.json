@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031310516996784128",
+        "3_2031310516786966528",
+        "3_2031310516791189504"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031310526786269235",
+    "created_at": "2026-03-10T10:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031310526786269235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gyqm5dvsV8",
+          "end": 61,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+          "media_key": "3_2031310516996784128",
+          "start": 38,
+          "url": "https://t.co/Gyqm5dvsV8"
+        },
+        {
+          "display_url": "pic.x.com/Gyqm5dvsV8",
+          "end": 61,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+          "media_key": "3_2031310516786966528",
+          "start": 38,
+          "url": "https://t.co/Gyqm5dvsV8"
+        },
+        {
+          "display_url": "pic.x.com/Gyqm5dvsV8",
+          "end": 61,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+          "media_key": "3_2031310516791189504",
+          "start": 38,
+          "url": "https://t.co/Gyqm5dvsV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031310526786269235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想知道这个ngl如果在软件里回复的话对方是不是也要下载软件才能看到回复啊 https://t.co/Gyqm5dvsV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1543,
+        "media_key": "3_2031310516996784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCqJyIbwAALGOP.jpg",
+        "width": 1182
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2031310516786966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCqJxWaMAAvxnk.jpg",
+        "width": 1203
+      },
+      {
+        "height": 1459,
+        "media_key": "3_2031310516791189504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCqJxXaoAAN2z5.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031310516996784128",
+            "3_2031310516786966528",
+            "3_2031310516791189504"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031310526786269235",
+        "created_at": "2026-03-10T10:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031310526786269235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gyqm5dvsV8",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+              "media_key": "3_2031310516996784128",
+              "start": 38,
+              "url": "https://t.co/Gyqm5dvsV8"
+            },
+            {
+              "display_url": "pic.x.com/Gyqm5dvsV8",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+              "media_key": "3_2031310516786966528",
+              "start": 38,
+              "url": "https://t.co/Gyqm5dvsV8"
+            },
+            {
+              "display_url": "pic.x.com/Gyqm5dvsV8",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2031310526786269235/photo/1",
+              "media_key": "3_2031310516791189504",
+              "start": 38,
+              "url": "https://t.co/Gyqm5dvsV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031310526786269235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想知道这个ngl如果在软件里回复的话对方是不是也要下载软件才能看到回复啊 https://t.co/Gyqm5dvsV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7whJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 39,
+                "url": "https://t.co/Yj84w7whJj"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 10,
+          "like_count": 877,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 750
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2072344067300905281",
+    "created_at": "2026-07-01T16:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072363517081206832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271769334898016256",
+          "start": 0,
+          "username": "itZzKzik898VWLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072363517081206832",
+    "in_reply_to_user_id": "1271769334898016256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072360644201136237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itZzKzik898VWLB 我服了….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2072344067300905281",
+        "created_at": "2026-07-01T16:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072363517081206832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271769334898016256",
+              "start": 0,
+              "username": "itZzKzik898VWLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072363517081206832",
+        "in_reply_to_user_id": "1271769334898016256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072360644201136237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itZzKzik898VWLB 我服了….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271769334898016256",
+        "conversation_id": "2072344067300905281",
+        "created_at": "2026-07-01T16:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072360644201136237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360644201136237",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072344067300905281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 拉屎也是一种失去，为什么我感受不到痛苦呢？\n那你吃下去试试呢，得到才是痛\n屎拉一半试试呢，其实挽留也是一种痛苦\n喝点泻药试试呢，无法控制的失去才是最痛苦的\n便秘是大肠的挽留，窜稀是屎的自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3115,
+          "following_count": 60,
+          "like_count": 2082,
+          "listed_count": 4,
+          "media_count": 142,
+          "tweet_count": 2014
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T11:40:19.000Z",
+        "description": "",
+        "id": "1271769334898016256",
+        "name": "shirobako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892107679046434819/WkKVufyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 2723,
+          "like_count": 13669,
+          "listed_count": 9,
+          "media_count": 8,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "itZzKzik898VWLB",
+        "verified": false
+      }
+    ]
+  }
+}

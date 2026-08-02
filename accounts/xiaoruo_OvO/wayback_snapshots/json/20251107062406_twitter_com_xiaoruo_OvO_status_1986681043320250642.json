@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1986597498874699844",
+    "created_at": "2025-11-07T06:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T07:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986681043320250642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        },
+        {
+          "end": 29,
+          "id": "1788485889225834496",
+          "start": 13,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986681043320250642",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986679343595331745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun @YesterdayOrange 天啊这也太辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1986597498874699844",
+        "created_at": "2025-11-07T06:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986681043320250642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            },
+            {
+              "end": 29,
+              "id": "1788485889225834496",
+              "start": 13,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986681043320250642",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986679343595331745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun @YesterdayOrange 天啊这也太辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "1986597498874699844",
+        "created_at": "2025-11-07T06:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986679343595331745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986679343595331745",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986597498874699844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 来日本一周年，被一群傻逼同事气的七窍生烟，逼得去医院开镇定剂。每周吃一天牛肉一天猪肉一天泡面剩下日子花式炒鸡蛋，只为了省钱把来日本借的钱都还上。那时候很穷但很快乐，因为有明确目标我要还钱。物价也便宜，五公斤大米只要 3000 就能买到秋田的，鸡蛋 100 日元十个...来日本的新鲜感也还在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 5,
+          "like_count": 450,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 407
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "先天朋友圣体/真心持有者/infj-t 纯爱战神绿老头/铁直男/幸福促成者见证者/不抱期待但全力以赴/社恐的话痨/老妈子性格叨叨叨喵喵喵哈哈哈",
+        "id": "1516022519559450624",
+        "name": "上进阿刘",
+        "pinned_tweet_id": "1977596736312082495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975909612626055169/auYCo1St_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 82,
+          "like_count": 1214,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 931
+        },
+        "username": "shoufangjun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986404979910058420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7831,
+          "following_count": 3101,
+          "like_count": 62349,
+          "listed_count": 14,
+          "media_count": 1284,
+          "tweet_count": 14494
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

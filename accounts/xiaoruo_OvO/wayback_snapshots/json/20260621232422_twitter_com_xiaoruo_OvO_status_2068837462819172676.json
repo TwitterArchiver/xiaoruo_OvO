@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068762394839707921",
+    "created_at": "2026-06-21T23:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T00:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068837462819172676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044913541526827008",
+          "start": 0,
+          "username": "0718Zzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068837462819172676",
+    "in_reply_to_user_id": "2044913541526827008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068804008459042990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0718Zzy 嘻嘻嘻好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068762394839707921",
+        "created_at": "2026-06-21T23:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068837462819172676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044913541526827008",
+              "start": 0,
+              "username": "0718Zzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068837462819172676",
+        "in_reply_to_user_id": "2044913541526827008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068804008459042990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0718Zzy 嘻嘻嘻好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044913541526827008",
+        "conversation_id": "2068762394839707921",
+        "created_at": "2026-06-21T21:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068804008459042990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068804008459042990",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068762394839707921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 祝小箬和她男朋友一直在一起呀^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 50,
+          "like_count": 1864,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1796
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T22:59:29.000Z",
+        "description": "新西兰留学高中生year9（刚来5个月）\n不是黄推，不加微❕❕❕\n下推特只是为了聊天呀💬\n我是女孩纸呀！\n看到会回，喜欢就➕我",
+        "id": "2044913541526827008",
+        "location": "Auckland ",
+        "name": "sy.",
+        "pinned_tweet_id": "2060267499288240322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062022900266553344/i2BFmQ9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 21,
+          "like_count": 6044,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "0718Zzy",
+        "verified": false
+      }
+    ]
+  }
+}

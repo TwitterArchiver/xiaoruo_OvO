@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067638343266111856",
+    "created_at": "2026-06-19T02:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067795078178038033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1002508438952218624",
+          "start": 0,
+          "username": "mikocha59062089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067795078178038033",
+    "in_reply_to_user_id": "1002508438952218624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067732448289624065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikocha59062089 也不能说成长或者倒退 只能说是感觉像是不同的人做出来的不同的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067638343266111856",
+        "created_at": "2026-06-19T02:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067795078178038033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1002508438952218624",
+              "start": 0,
+              "username": "mikocha59062089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067795078178038033",
+        "in_reply_to_user_id": "1002508438952218624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067732448289624065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikocha59062089 也不能说成长或者倒退 只能说是感觉像是不同的人做出来的不同的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1002508438952218624",
+        "conversation_id": "2067638343266111856",
+        "created_at": "2026-06-18T22:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067732448289624065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067732448289624065",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067638343266111856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 是成长了还是倒退了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 48,
+          "like_count": 1747,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-01T11:13:32.000Z",
+        "description": "悲しみも、喜びも､感动も､落胆も、つねに素直に味わうことが大事だ。",
+        "id": "1002508438952218624",
+        "name": "mikochan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1002509101383892992/htIuuDls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 627,
+          "like_count": 197,
+          "listed_count": 6,
+          "media_count": 2,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "mikocha59062089",
+        "verified": false
+      }
+    ]
+  }
+}

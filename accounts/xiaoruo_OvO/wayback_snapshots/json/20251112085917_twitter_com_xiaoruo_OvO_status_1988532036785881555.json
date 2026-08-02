@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1988490128277311741",
+    "created_at": "2025-11-12T08:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T09:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988532036785881555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1785628617411887104",
+          "start": 0,
+          "username": "B4kl1Sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988532036785881555",
+    "in_reply_to_user_id": "1785628617411887104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988495159307436521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B4kl1Sd 俺找代刷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1988490128277311741",
+        "created_at": "2025-11-12T08:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988532036785881555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1785628617411887104",
+              "start": 0,
+              "username": "B4kl1Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988532036785881555",
+        "in_reply_to_user_id": "1785628617411887104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988495159307436521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B4kl1Sd 俺找代刷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785628617411887104",
+        "conversation_id": "1988490128277311741",
+        "created_at": "2025-11-12T06:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988495159307436521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988495159307436521",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988490128277311741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 直接搜一篇抄，但刷课就得挂着设备慢慢挂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 5,
+          "like_count": 479,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 447
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T11:13:41.000Z",
+        "description": "温州互勉约拍，拍景色居多，可能技术没那么高，底片全给不P图",
+        "id": "1785628617411887104",
+        "location": "1km",
+        "name": "无望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844325975095660544/SMrPHWfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 278,
+          "like_count": 11474,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 3490
+        },
+        "username": "B4kl1Sd",
+        "verified": false
+      }
+    ]
+  }
+}

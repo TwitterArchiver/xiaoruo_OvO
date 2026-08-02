@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2066394944131273002",
+    "created_at": "2026-06-15T06:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066409508885389818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886872793027035136",
+          "start": 0,
+          "username": "Fxbiepao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066409508885389818",
+    "in_reply_to_user_id": "886872793027035136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066407161333506412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fxbiepao 柚c也好喝！芦荟也好喝 可惜下架了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2066394944131273002",
+        "created_at": "2026-06-15T06:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066409508885389818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886872793027035136",
+              "start": 0,
+              "username": "Fxbiepao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066409508885389818",
+        "in_reply_to_user_id": "886872793027035136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066407161333506412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fxbiepao 柚c也好喝！芦荟也好喝 可惜下架了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886872793027035136",
+        "conversation_id": "2066394944131273002",
+        "created_at": "2026-06-15T06:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066407161333506412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066407161333506412",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066394944131273002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 橘子那个好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 44,
+          "like_count": 1673,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-17T08:58:46.000Z",
+        "description": "191cm 90kg 然后没然后了",
+        "id": "886872793027035136",
+        "name": "有药",
+        "pinned_tweet_id": "2004193260626162170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061462128398376960/T0gFvdQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 3553,
+          "like_count": 14637,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 3034
+        },
+        "username": "Fxbiepao",
+        "verified": false
+      }
+    ]
+  }
+}

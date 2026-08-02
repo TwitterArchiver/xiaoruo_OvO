@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2003413825702494640",
+    "created_at": "2025-12-24T14:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T15:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003839198722408797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1726272458448416768",
+          "start": 0,
+          "username": "pupucc33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003839198722408797",
+    "in_reply_to_user_id": "1726272458448416768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003708034795835620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pupucc33 太可恶了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2003413825702494640",
+        "created_at": "2025-12-24T14:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003839198722408797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1726272458448416768",
+              "start": 0,
+              "username": "pupucc33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003839198722408797",
+        "in_reply_to_user_id": "1726272458448416768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003708034795835620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pupucc33 太可恶了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726272458448416768",
+        "conversation_id": "2003413825702494640",
+        "created_at": "2025-12-24T06:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T07:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003708034795835620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003708034795835620",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003413825702494640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 他也来骗我了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 7,
+          "like_count": 662,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 549
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T16:13:29.000Z",
+        "description": "05 当朋友圈发 不约不约不约｜私信随缘回｜爱玩金铲铲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8D%94%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8D%94%E6%9E%9D%E6%B1%81%E6%B1%81",
+                "start": 0,
+                "url": "https://t.co/RrP9NUGpmP"
+              }
+            ]
+          }
+        },
+        "id": "1726272458448416768",
+        "location": "🚪88绿色（女孩免费 匿名提问➡️",
+        "name": "荔枝",
+        "pinned_tweet_id": "1996911748264370401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003522423673749504/uLBq1uTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 7,
+          "like_count": 215,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/RrP9NUGpmP",
+        "username": "pupucc33",
+        "verified": false
+      }
+    ]
+  }
+}

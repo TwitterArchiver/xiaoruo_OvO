@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1984650452919861417",
+    "created_at": "2025-11-01T15:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984650452919861417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1784624918484934656",
+          "start": 3,
+          "username": "meowmeowmeow0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984650452919861417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984292284851216810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowmeowmeow0v0: 你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1984650452919861417",
+        "created_at": "2025-11-01T15:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984650452919861417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1784624918484934656",
+              "start": 3,
+              "username": "meowmeowmeow0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984650452919861417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984292284851216810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowmeowmeow0v0: 你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784624918484934656",
+        "conversation_id": "1984292284851216810",
+        "created_at": "2025-10-31T16:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984292284851216810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984292284851216810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 97413,
+          "like_count": 824,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "你对我的占有欲窥探欲控制欲太低了\n我真的很失望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 5,
+          "like_count": 438,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 377
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T16:45:21.000Z",
+        "description": "^ ^我要稳稳的幸福^ ^",
+        "id": "1784624918484934656",
+        "location": "🚪",
+        "name": "小泡芙",
+        "pinned_tweet_id": "1982487011337322928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784625145946198016/oVr17f0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29128,
+          "following_count": 57,
+          "like_count": 10090,
+          "listed_count": 62,
+          "media_count": 143,
+          "tweet_count": 2528
+        },
+        "username": "meowmeowmeow0v0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2070649415619244128",
+    "created_at": "2026-06-27T06:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070752530989252786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675152280172232704",
+          "start": 0,
+          "username": "1802281814z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070752530989252786",
+    "in_reply_to_user_id": "1675152280172232704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070751414918558100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1802281814z 嗯嗯好对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2070649415619244128",
+        "created_at": "2026-06-27T06:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070752530989252786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675152280172232704",
+              "start": 0,
+              "username": "1802281814z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070752530989252786",
+        "in_reply_to_user_id": "1675152280172232704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070751414918558100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1802281814z 嗯嗯好对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675152280172232704",
+        "conversation_id": "2070649415619244128",
+        "created_at": "2026-06-27T06:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070751414918558100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070751414918558100",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070663308856996040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 专业的技术进专业的话 ，应该五六千是没问题的，如果是和大家一样去找份的工作的话有点难，平均四5000上海深圳可能多个几百块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 59,
+          "like_count": 2059,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T14:40:21.000Z",
+        "description": "版本更新中",
+        "id": "1675152280172232704",
+        "location": "东莞",
+        "name": "ming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508076343246848/fTaMJq61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 22,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "1802281814z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042913200564584448"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2042913302901330005",
+    "created_at": "2026-04-11T10:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042913302901330005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sjpVtxeFr",
+          "end": 35,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2042913302901330005/video/1",
+          "media_key": "13_2042913200564584448",
+          "start": 12,
+          "url": "https://t.co/5sjpVtxeFr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042913302901330005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不吃普瑞就会变成这样 https://t.co/5sjpVtxeFr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20641,
+        "height": 1280,
+        "media_key": "13_2042913200564584448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042913200564584448/img/a-svzeb3-VtYBs2H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042913200564584448/vid/avc1/320x568/UPbnIDLMY4cV29Tl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042913200564584448/vid/avc1/480x852/4uJ_y3OQL7JjOk4G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042913200564584448/vid/avc1/720x1280/qNYaxoA6RxFcjtj5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042913200564584448/pl/_8EjorfOnclS4iH7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042913200564584448"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2042913302901330005",
+        "created_at": "2026-04-11T10:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042913302901330005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sjpVtxeFr",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2042913302901330005/video/1",
+              "media_key": "13_2042913200564584448",
+              "start": 12,
+              "url": "https://t.co/5sjpVtxeFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913302901330005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不吃普瑞就会变成这样 https://t.co/5sjpVtxeFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 13,
+          "like_count": 1044,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1012
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

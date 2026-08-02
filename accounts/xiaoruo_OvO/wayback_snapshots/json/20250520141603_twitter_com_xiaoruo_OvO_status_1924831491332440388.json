@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1924333274610180151",
+    "created_at": "2025-05-20T14:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T15:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924831491332440388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670796609486045186",
+          "start": 0,
+          "username": "RoxaNne1273771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924831491332440388",
+    "in_reply_to_user_id": "1670796609486045186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924673997054345511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoxaNne1273771 我是真崩溃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1924333274610180151",
+        "created_at": "2025-05-20T14:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T15:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924831491332440388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670796609486045186",
+              "start": 0,
+              "username": "RoxaNne1273771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924831491332440388",
+        "in_reply_to_user_id": "1670796609486045186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924673997054345511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoxaNne1273771 我是真崩溃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670796609486045186",
+        "conversation_id": "1924333274610180151",
+        "created_at": "2025-05-20T03:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T04:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924673997054345511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924673997054345511",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924333274610180151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 我是全理班的，依稀记得高二的时候有个男同学打完篮球回到教室把鞋和袜子都脱了，大夏天整个班都没法呆了🙃这就是男生多的痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 1,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 126
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T14:12:27.000Z",
+        "description": "",
+        "id": "1670796609486045186",
+        "location": "Melbourne, Australia",
+        "name": "RoxaNne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923344471913091072/JBTPFitk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 259,
+          "like_count": 794,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "RoxaNne1273771",
+        "verified": false
+      }
+    ]
+  }
+}

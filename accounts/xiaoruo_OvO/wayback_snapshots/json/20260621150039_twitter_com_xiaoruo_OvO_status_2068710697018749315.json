@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068338731623563266"
+      ],
+      "media_source_tweet_id": [
+        "2068338795502801321"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068710697018749315",
+    "created_at": "2026-06-21T15:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068710697018749315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "212483769",
+          "start": 3,
+          "username": "friendlyhoon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5w5c6fH2Sb",
+          "end": 122,
+          "expanded_url": "https://x.com/friendlyhoon/status/2068338795502801321/video/1",
+          "media_key": "13_2068338731623563266",
+          "start": 99,
+          "url": "https://t.co/5w5c6fH2Sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068710697018749315",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24088
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068338795502801321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @friendlyhoon: 흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어 https://t.co/5w5c6fH2Sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23066,
+        "height": 1280,
+        "media_key": "13_2068338731623563266",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068338731623563266/img/qZd-Y-Dh1foO8Ewi.jpg",
+        "public_metrics": {
+          "view_count": 1478980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068338731623563266/vid/avc1/320x568/Y3TrVfAfZI-tpII6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068338731623563266/vid/avc1/480x852/KtXYAyVfJRTM1_pn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068338731623563266/vid/avc1/720x1280/DwwJu3SZIjzIaTvP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068338731623563266/pl/vuj2RNFItqfhjpft.m3u8?v=1ca"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068338731623563266"
+          ],
+          "media_source_tweet_id": [
+            "2068338795502801321"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068710697018749315",
+        "created_at": "2026-06-21T15:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068710697018749315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "212483769",
+              "start": 3,
+              "username": "friendlyhoon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5w5c6fH2Sb",
+              "end": 122,
+              "expanded_url": "https://x.com/friendlyhoon/status/2068338795502801321/video/1",
+              "media_key": "13_2068338731623563266",
+              "start": 99,
+              "url": "https://t.co/5w5c6fH2Sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068710697018749315",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24088
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338795502801321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @friendlyhoon: 흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어 https://t.co/5w5c6fH2Sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068338731623563266"
+          ]
+        },
+        "author_id": "212483769",
+        "conversation_id": "2068338795502801321",
+        "created_at": "2026-06-20T14:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068338795502801321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5w5c6fH2Sb",
+              "end": 104,
+              "expanded_url": "https://x.com/friendlyhoon/status/2068338795502801321/video/1",
+              "media_key": "13_2068338731623563266",
+              "start": 81,
+              "url": "https://t.co/5w5c6fH2Sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068338795502801321",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12224,
+          "impression_count": 4263568,
+          "like_count": 114520,
+          "quote_count": 2062,
+          "reply_count": 355,
+          "retweet_count": 24086
+        },
+        "reply_settings": "everyone",
+        "text": "흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어흙이없어 https://t.co/5w5c6fH2Sb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1808,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-06T05:55:57.000Z",
+        "description": "Seoul, Korea\n• 디자이너가 아이폰 딱 하나만 들고 담는 동화같은 일상들\n• 서울의 아름다운 노을스팟과 풍경을 공유해요\n• 하이라이트에 제 사진, 영상 구경하고 가세요. 문의 DM 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/friendlyhoon?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/friendlyhoon?igsh=MWVtYWhhZW1tNWcwNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/yw8hWgLp5A"
+              }
+            ]
+          }
+        },
+        "id": "212483769",
+        "location": "Seoul, Korea",
+        "name": "핑팬",
+        "pinned_tweet_id": "1979149933446914536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015831498415628288/kSHO3xtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8812,
+          "following_count": 1611,
+          "like_count": 239712,
+          "listed_count": 27,
+          "media_count": 9630,
+          "tweet_count": 128156
+        },
+        "url": "https://t.co/yw8hWgLp5A",
+        "username": "friendlyhoon",
+        "verified": true
+      }
+    ]
+  }
+}

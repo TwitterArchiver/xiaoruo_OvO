@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2077669891516285019",
+    "created_at": "2026-07-16T09:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077694609606750261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058742469983137792",
+          "start": 0,
+          "username": "luuvn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077694609606750261",
+    "in_reply_to_user_id": "2058742469983137792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077675570041848067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luuvn0 我去 好 如果文科生也能赚这么多我很知足了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2077669891516285019",
+        "created_at": "2026-07-16T09:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077694609606750261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058742469983137792",
+              "start": 0,
+              "username": "luuvn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077694609606750261",
+        "in_reply_to_user_id": "2058742469983137792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077675570041848067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luuvn0 我去 好 如果文科生也能赚这么多我很知足了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058742469983137792",
+        "conversation_id": "2077669891516285019",
+        "created_at": "2026-07-16T08:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077675570041848067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077675570041848067",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077669891516285019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 现在工作去大城市很好找的，我本科朋友在广州深圳实习都近w了，没必要太焦虑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 58,
+          "like_count": 2188,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:50:55.000Z",
+        "description": "凡人的碎碎念",
+        "id": "2058742469983137792",
+        "name": "你掉眼淚也一樣可愛",
+        "pinned_tweet_id": "2059475136143843375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058742720315977728/C8laKU7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "luuvn0",
+        "verified": false
+      }
+    ]
+  }
+}

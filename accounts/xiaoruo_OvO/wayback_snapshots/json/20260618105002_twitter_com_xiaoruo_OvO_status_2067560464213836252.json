@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067560464213836252",
+    "created_at": "2026-06-18T10:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067560464213836252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayuan_cc/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ayuan_cc/status/2067437909037162761",
+          "start": 6,
+          "url": "https://t.co/l9BD9Tl14b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067560464213836252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067437909037162761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很认同。 https://t.co/l9BD9Tl14b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6566,
+        "height": 1118,
+        "media_key": "7_2067437897452486657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067437897452486657/pu/img/bLD4vn1xVOLuFK8X.jpg",
+        "public_metrics": {
+          "view_count": 10987
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067437897452486657/pu/vid/avc1/320x330/02ZRPdvXIfjOezNh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067437897452486657/pu/vid/avc1/480x496/JNVmdlasCr2uMzDm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067437897452486657/pu/vid/avc1/720x744/WrrKu93GqbItL44T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067437897452486657/pu/pl/PuJsa3m3-3svzORJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067560464213836252",
+        "created_at": "2026-06-18T10:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067560464213836252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayuan_cc/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ayuan_cc/status/2067437909037162761",
+              "start": 6,
+              "url": "https://t.co/l9BD9Tl14b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067560464213836252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067437909037162761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很认同。 https://t.co/l9BD9Tl14b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067437897452486657"
+          ]
+        },
+        "author_id": "1596128240833548288",
+        "conversation_id": "2067437909037162761",
+        "created_at": "2026-06-18T02:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067437909037162761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVCBxpv5nu",
+              "end": 35,
+              "expanded_url": "https://x.com/Ayuan_cc/status/2067437909037162761/video/1",
+              "media_key": "7_2067437897452486657",
+              "start": 12,
+              "url": "https://t.co/fVCBxpv5nu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067437909037162761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 26776,
+          "like_count": 166,
+          "quote_count": 8,
+          "reply_count": 60,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "少数讨厌苹果的瞬间之一 https://t.co/fVCBxpv5nu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 49,
+          "like_count": 1744,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T13:06:54.000Z",
+        "description": "🎓 数学&经济学在读｜🧑‍💻互联网脆皮产品打工人\n记录日常碎碎念、分享AI资讯、个人思考\n「Keep Corrective Feedback Loop」",
+        "id": "1596128240833548288",
+        "location": "0.1 km",
+        "name": "Ayuan",
+        "pinned_tweet_id": "2058717660859269314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061292547910107138/1Vu2wd6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 323,
+          "like_count": 5928,
+          "listed_count": 9,
+          "media_count": 132,
+          "tweet_count": 2075
+        },
+        "url": "",
+        "username": "Ayuan_cc",
+        "verified": true
+      }
+    ]
+  }
+}

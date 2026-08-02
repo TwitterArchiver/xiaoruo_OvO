@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002697707367076265",
+    "created_at": "2025-12-22T12:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003079118116814955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772531945832054784",
+          "start": 0,
+          "username": "xioyunjing56906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003079118116814955",
+    "in_reply_to_user_id": "1772531945832054784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003077102032314695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioyunjing56906 哈哈哈哈那我可要学习一下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-22T12:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003079118116814955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772531945832054784",
+              "start": 0,
+              "username": "xioyunjing56906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003079118116814955",
+        "in_reply_to_user_id": "1772531945832054784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003077102032314695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioyunjing56906 哈哈哈哈那我可要学习一下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772531945832054784",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-22T12:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003077102032314695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003077102032314695",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002697707367076265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 🤬春竹不准当导员，之前暑假集训留校，天天累得要死，傻逼导员还非要开班会不准请假，我直接打电话说我不去，去了就会死，全班只有我没去，结果啥事也没😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 6,
+          "like_count": 601,
+          "listed_count": 5,
+          "media_count": 29,
+          "tweet_count": 536
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T07:52:23.000Z",
+        "description": "爱讲废话",
+        "id": "1772531945832054784",
+        "name": "不爱吃芋泥",
+        "pinned_tweet_id": "1909640419857879252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735249437134848/y3BKjXha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 3,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "xioyunjing56906",
+        "verified": false
+      }
+    ]
+  }
+}

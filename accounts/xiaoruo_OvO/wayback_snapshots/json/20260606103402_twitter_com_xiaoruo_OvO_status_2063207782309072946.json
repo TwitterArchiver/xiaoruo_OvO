@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2063141898106388571",
+    "created_at": "2026-06-06T10:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063207782309072946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902564132089688066",
+          "start": 0,
+          "username": "jinbng138134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063207782309072946",
+    "in_reply_to_user_id": "1902564132089688066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063191149100335547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinbng138134 身材好好呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T10:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063207782309072946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902564132089688066",
+              "start": 0,
+              "username": "jinbng138134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063207782309072946",
+        "in_reply_to_user_id": "1902564132089688066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063191149100335547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinbng138134 身材好好呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902564132089688066",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T09:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063191149100335547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063191149100335547",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141898106388571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO mememe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 36,
+          "like_count": 1500,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:33:41.000Z",
+        "description": "直男｜纯绿🚪52 ｜不回无关私信*^_^*｜可以提问https://t.co/mf6okqEeNI。 另一个我@xiaobin138134",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiaobin138134"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jinbng138134",
+                "end": 49,
+                "expanded_url": "https://ngl.link/jinbng138134",
+                "start": 26,
+                "url": "https://t.co/mf6okqEeNI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=KSiIzkOy",
+                "start": 0,
+                "url": "https://t.co/wTOhkYzI5W"
+              }
+            ]
+          }
+        },
+        "id": "1902564132089688066",
+        "location": "自用29🪜一年",
+        "name": "煎饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046097353669787648/rUtUpNBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2136,
+          "following_count": 24,
+          "like_count": 668,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/wTOhkYzI5W",
+        "username": "jinbng138134",
+        "verified": false
+      }
+    ]
+  }
+}

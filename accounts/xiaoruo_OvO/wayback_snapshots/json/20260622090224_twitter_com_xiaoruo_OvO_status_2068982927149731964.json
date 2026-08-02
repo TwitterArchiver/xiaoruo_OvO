@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068723608655196556",
+    "created_at": "2026-06-22T09:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068982927149731964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1742943423173124096",
+          "start": 0,
+          "username": "bhi0514"
+        },
+        {
+          "end": 21,
+          "id": "1821312171923644416",
+          "start": 9,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068982927149731964",
+    "in_reply_to_user_id": "1742943423173124096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068956142072709176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhi0514 @jagaimo6681 唉…就这么欺负我们oder吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068723608655196556",
+        "created_at": "2026-06-22T09:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068982927149731964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1742943423173124096",
+              "start": 0,
+              "username": "bhi0514"
+            },
+            {
+              "end": 21,
+              "id": "1821312171923644416",
+              "start": 9,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068982927149731964",
+        "in_reply_to_user_id": "1742943423173124096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068956142072709176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhi0514 @jagaimo6681 唉…就这么欺负我们oder吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742943423173124096",
+        "conversation_id": "2068723608655196556",
+        "created_at": "2026-06-22T07:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068956142072709176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 25,
+              "id": "1821312171923644416",
+              "start": 13,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068956142072709176",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068924254180253943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @jagaimo6681 酗酒的基数太大了针对不过来（…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 53,
+          "like_count": 1896,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T16:18:09.000Z",
+        "description": "le/🚽/https://t.co/3QdotHSWCQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seer85264",
+                "end": 28,
+                "expanded_url": "https://ngl.link/seer85264",
+                "start": 5,
+                "url": "https://t.co/3QdotHSWCQ"
+              }
+            ]
+          }
+        },
+        "id": "1742943423173124096",
+        "location": "0.1km",
+        "name": "seer",
+        "pinned_tweet_id": "1760377310279090539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068843794636902401/9PlrLFE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 76,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "bhi0514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "我只想离你们远远的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "location": "東京は愛せど何もない",
+        "name": "にゃがいも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056609085261590528/PSEeSYHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 713,
+          "like_count": 48934,
+          "listed_count": 7,
+          "media_count": 728,
+          "tweet_count": 14305
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

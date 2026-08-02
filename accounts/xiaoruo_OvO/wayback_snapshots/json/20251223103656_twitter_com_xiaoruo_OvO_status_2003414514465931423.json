@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002697707367076265",
+    "created_at": "2025-12-23T10:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003414514465931423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1265593681337135104",
+          "start": 0,
+          "username": "Jobstrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003414514465931423",
+    "in_reply_to_user_id": "1265593681337135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003361747995099627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jobstrc 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-23T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003414514465931423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1265593681337135104",
+              "start": 0,
+              "username": "Jobstrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003414514465931423",
+        "in_reply_to_user_id": "1265593681337135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003361747995099627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jobstrc 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265593681337135104",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-23T07:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003361747995099627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003361747995099627",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002697707367076265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 班会，恕我直言，都是在浪费时间听一个无聊的人瞎叭叭一顿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3143,
+          "following_count": 6,
+          "like_count": 628,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 544
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-27T10:40:34.000Z",
+        "description": "做一个沉默寡言，却心有一片海的人。不伤人害己，于淡泊中，平和自在。",
+        "id": "1265593681337135104",
+        "location": "你心里",
+        "name": "堇",
+        "pinned_tweet_id": "1873053458615681139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825600152897507328/ozAE5q5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 1194,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 303
+        },
+        "username": "Jobstrc",
+        "verified": false
+      }
+    ]
+  }
+}

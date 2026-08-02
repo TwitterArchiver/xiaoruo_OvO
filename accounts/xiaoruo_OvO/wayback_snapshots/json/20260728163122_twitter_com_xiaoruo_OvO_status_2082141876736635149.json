@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2082139966554124635",
+    "created_at": "2026-07-28T16:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082141876736635149"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082141876736635149",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082139966554124635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这咋办……呵呵哒 工资是骗人的 签合同直接给我甩脸子是何意味……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082139951479795717",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU_QRSaMAUIatI.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2082139966554124635",
+        "created_at": "2026-07-28T16:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082141876736635149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082141876736635149",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082139966554124635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这咋办……呵呵哒 工资是骗人的 签合同直接给我甩脸子是何意味……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082139951479795717"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2082139966554124635",
+        "created_at": "2026-07-28T16:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082139966554124635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpG11Gn0JO",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2082139966554124635/photo/1",
+              "media_key": "3_2082139951479795717",
+              "start": 0,
+              "url": "https://t.co/hpG11Gn0JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082139966554124635",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hpG11Gn0JO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3094,
+          "following_count": 58,
+          "like_count": 2403,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

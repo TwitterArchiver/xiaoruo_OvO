@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069348851732123648"
+      ],
+      "media_source_tweet_id": [
+        "2069348865367842882"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2069602231381532828",
+    "created_at": "2026-06-24T02:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069602231381532828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983042229720735744",
+          "start": 3,
+          "username": "mchchc5216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHwGiUPsv4",
+          "end": 50,
+          "expanded_url": "https://x.com/mchchc5216/status/2069348865367842882/photo/1",
+          "media_key": "3_2069348851732123648",
+          "start": 27,
+          "url": "https://t.co/FHwGiUPsv4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069602231381532828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069348865367842882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mchchc5216: pr80你死的好惨啊 https://t.co/FHwGiUPsv4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2069348851732123648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfN0RfbEAAzu3R.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069348851732123648"
+          ],
+          "media_source_tweet_id": [
+            "2069348865367842882"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2069602231381532828",
+        "created_at": "2026-06-24T02:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069602231381532828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983042229720735744",
+              "start": 3,
+              "username": "mchchc5216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHwGiUPsv4",
+              "end": 50,
+              "expanded_url": "https://x.com/mchchc5216/status/2069348865367842882/photo/1",
+              "media_key": "3_2069348851732123648",
+              "start": 27,
+              "url": "https://t.co/FHwGiUPsv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069602231381532828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069348865367842882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mchchc5216: pr80你死的好惨啊 https://t.co/FHwGiUPsv4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069348851732123648"
+          ]
+        },
+        "author_id": "1983042229720735744",
+        "conversation_id": "2069348865367842882",
+        "created_at": "2026-06-23T09:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069348865367842882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHwGiUPsv4",
+              "end": 34,
+              "expanded_url": "https://x.com/mchchc5216/status/2069348865367842882/photo/1",
+              "media_key": "3_2069348851732123648",
+              "start": 11,
+              "url": "https://t.co/FHwGiUPsv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069348865367842882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4108,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "pr80你死的好惨啊 https://t.co/FHwGiUPsv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 56,
+          "like_count": 1976,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T05:25:04.000Z",
+        "description": "MTF l 长在春风里，活在药效里 Ⅱ od Ⅱ 紫餐 Ⅱ 生产日期：2011.3.29 ll 坐标：山东济南 Ⅱ 优香单推人 Ⅱ 互fo Ⅱ 对象：@QY404XYN Ⅱ 扩列请加：1782403568 ✝昇天✝️\n🧀🍖🍗🍔🥩🌭🍟🍣🍤来玩提问箱 ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "QY404XYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mchchc5216",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mchchc5216",
+                "start": 0,
+                "url": "https://t.co/mwjWoJrhwH"
+              }
+            ]
+          }
+        },
+        "id": "1983042229720735744",
+        "location": "基沃托斯",
+        "name": "hc5216ˣʸⁿ | 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054021490711085421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040819899392811008/-46z-zqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 741,
+          "like_count": 2683,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/mwjWoJrhwH",
+        "username": "mchchc5216",
+        "verified": true
+      }
+    ]
+  }
+}

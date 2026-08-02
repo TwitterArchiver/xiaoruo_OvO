@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939922094453633024",
+        "3_1939922094940160000",
+        "3_1939922097133826048"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1939922109041344772",
+    "created_at": "2025-07-01T05:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939922109041344772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D7L2ywtE48",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/1939922109041344772/photo/1",
+          "media_key": "3_1939922094453633024",
+          "start": 13,
+          "url": "https://t.co/D7L2ywtE48"
+        },
+        {
+          "display_url": "pic.x.com/D7L2ywtE48",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/1939922109041344772/photo/1",
+          "media_key": "3_1939922094940160000",
+          "start": 13,
+          "url": "https://t.co/D7L2ywtE48"
+        },
+        {
+          "display_url": "pic.x.com/D7L2ywtE48",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/1939922109041344772/photo/1",
+          "media_key": "3_1939922097133826048",
+          "start": 13,
+          "url": "https://t.co/D7L2ywtE48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939922109041344772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凶杀案现场 (雪图注意） https://t.co/D7L2ywtE48"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939922109041344772].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939922109041344772",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939922109041344772"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1939922094453633024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guv83ePXMAA8jof.jpg",
+        "width": 991
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1939922094940160000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guv83gDXAAAMPbb.jpg",
+        "width": 978
+      },
+      {
+        "height": 829,
+        "media_key": "3_1939922097133826048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guv83oOXsAAuu4e.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 1,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 191
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

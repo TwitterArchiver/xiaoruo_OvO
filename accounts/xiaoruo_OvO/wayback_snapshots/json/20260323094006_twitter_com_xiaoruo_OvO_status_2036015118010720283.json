@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2035703627650904357",
+    "created_at": "2026-03-23T09:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T10:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036015118010720283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2021166917910949888",
+          "start": 0,
+          "username": "ruyuanououou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036015118010720283",
+    "in_reply_to_user_id": "2021166917910949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035996605581787499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruyuanououou 是这样的…一直都在讨厌上学…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2035703627650904357",
+        "created_at": "2026-03-23T09:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036015118010720283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2021166917910949888",
+              "start": 0,
+              "username": "ruyuanououou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036015118010720283",
+        "in_reply_to_user_id": "2021166917910949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035996605581787499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruyuanououou 是这样的…一直都在讨厌上学…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021166917910949888",
+        "conversation_id": "2035703627650904357",
+        "created_at": "2026-03-23T08:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035996605581787499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035996605581787499",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035703627650904357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 从小到大…现在大四了…坐上高铁的瞬间哭…踏进校园的那一刻哭…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 12,
+          "like_count": 952,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 862
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T10:18:50.000Z",
+        "description": "幸福请降临在我和傅融的掌心",
+        "id": "2021166917910949888",
+        "name": "好想吃荔枝",
+        "pinned_tweet_id": "2025945451351163089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021167084538036225/RpzTz46D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 37,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 175
+        },
+        "username": "ruyuanououou",
+        "verified": false
+      }
+    ]
+  }
+}

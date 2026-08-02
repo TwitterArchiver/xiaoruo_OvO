@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068940219332874291",
+    "created_at": "2026-06-22T14:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069072375854010524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854118746262249472",
+          "start": 0,
+          "username": "HyperAndroni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069072375854010524",
+    "in_reply_to_user_id": "1854118746262249472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069043729022021776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyperAndroni 我服了呗 欺负我们不认识他？我们凭啥要被他们当作宣泄出口啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068940219332874291",
+        "created_at": "2026-06-22T14:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069072375854010524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854118746262249472",
+              "start": 0,
+              "username": "HyperAndroni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069072375854010524",
+        "in_reply_to_user_id": "1854118746262249472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069043729022021776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyperAndroni 我服了呗 欺负我们不认识他？我们凭啥要被他们当作宣泄出口啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854118746262249472",
+        "conversation_id": "2068940219332874291",
+        "created_at": "2026-06-22T13:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069043729022021776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069043729022021776",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068940219332874291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 换个角度想，人总要有一个出口发泄戾气，正是因为在互联网对着陌生人宣泄，才能把好情绪留给家人朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 54,
+          "like_count": 1920,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T11:09:07.000Z",
+        "description": "爱好是点进首页的文字帖发表攻击性言论",
+        "id": "1854118746262249472",
+        "name": "Υοηε",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057213495599632384/zUEHCo5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 27,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "HyperAndroni",
+        "verified": false
+      }
+    ]
+  }
+}

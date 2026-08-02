@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1968984022375125011",
+    "created_at": "2025-09-19T22:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T23:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969162914020876345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shangjinaliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969162914020876345",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968993938712191167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangjinaliu 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T22:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T23:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969162914020876345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shangjinaliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969162914020876345",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968993938712191167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangjinaliu 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T11:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968993938712191167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968993938712191167",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968984022375125011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 你要是现在身边有...就少来点吧(┬＿┬)剩下的 o 完再说，十一快点来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 3,
+          "like_count": 229,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 231
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "infj-t 纯爱战神绿老头/铁直男/坐标日本琦玉/真心持有者/先天朋友圣体/话痨但不主动/全力以赴中",
+        "id": "1516022519559450624",
+        "location": "Kawaguchi-shi, Saitama",
+        "name": "收收放放放",
+        "pinned_tweet_id": "1946387795846557699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918087036126543876/2iytEpNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 601
+        },
+        "username": "shangjinaliu",
+        "verified": false
+      }
+    ]
+  }
+}

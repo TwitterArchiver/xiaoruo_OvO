@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2001289958255219121",
+    "created_at": "2025-12-17T13:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001289958255219121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ngngvxx/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ngngvxx/status/2001187072091283725",
+          "start": 7,
+          "url": "https://t.co/3EWQiy56th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001289958255219121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001187072091283725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爸就做不到 https://t.co/3EWQiy56th"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2001289958255219121",
+        "created_at": "2025-12-17T13:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001289958255219121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2001187072091283725",
+              "start": 7,
+              "url": "https://t.co/3EWQiy56th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001289958255219121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001187072091283725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸就做不到 https://t.co/3EWQiy56th"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001187072091283725",
+        "created_at": "2025-12-17T07:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001187072091283725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001187072091283725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6348,
+          "like_count": 212,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "真的，谁能看得惯你过得舒服松弛的样子，才是真的从内心深处接纳你和爱你，看起来好像很容易做到，实际上非常难，要知道人心里的嫉妒是很难控制的，有时候父母都不一定做得到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2983,
+          "following_count": 6,
+          "like_count": 554,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 515
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 7,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 802
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2063141898106388571",
+    "created_at": "2026-06-06T10:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063202913934336248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1406393254099124224",
+          "start": 0,
+          "username": "Astrid_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063202913934336248",
+    "in_reply_to_user_id": "1406393254099124224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063196162568683851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astrid_ovo 我也想要全国卢关大赛奖杯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T10:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063202913934336248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1406393254099124224",
+              "start": 0,
+              "username": "Astrid_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063202913934336248",
+        "in_reply_to_user_id": "1406393254099124224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063196162568683851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrid_ovo 我也想要全国卢关大赛奖杯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406393254099124224",
+        "conversation_id": "2063141898106388571",
+        "created_at": "2026-06-06T09:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063196162568683851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063196162568683851",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063141898106388571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 沙耶好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3121,
+          "following_count": 36,
+          "like_count": 1500,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T23:27:48.000Z",
+        "description": "🍙",
+        "id": "1406393254099124224",
+        "location": "阴暗潮湿的下水道",
+        "name": "Alc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794702435812048896/OTS1dNbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 998,
+          "like_count": 8057,
+          "listed_count": 3,
+          "media_count": 1414,
+          "tweet_count": 3027
+        },
+        "username": "Astrid_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

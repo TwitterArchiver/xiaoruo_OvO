@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2052312649128677715",
+    "created_at": "2026-05-07T22:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T23:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052510545157525986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908206300623937536",
+          "start": 0,
+          "username": "yuj14356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052510545157525986",
+    "in_reply_to_user_id": "1908206300623937536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052368524216320494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuj14356 🀄️！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2052312649128677715",
+        "created_at": "2026-05-07T22:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052510545157525986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908206300623937536",
+              "start": 0,
+              "username": "yuj14356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052510545157525986",
+        "in_reply_to_user_id": "1908206300623937536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052368524216320494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuj14356 🀄️！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908206300623937536",
+        "conversation_id": "2052312649128677715",
+        "created_at": "2026-05-07T12:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052368524216320494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052368524216320494",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052312649128677715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 看过，非常非常好看，抗抑郁神器了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关！匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 46,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "很屌的名字",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 22,
+          "like_count": 1167,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 1171
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T17:13:49.000Z",
+        "description": "全部注文して見た以上、直接聞いてみましょう。知っていることは全部答えます。 あ、そうだ。 特撮道具の修復と再塗装が趣味でしたっけ。",
+        "id": "1908206300623937536",
+        "location": "助けが必要な時は後ろにいます",
+        "name": "司徒渝弥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993909436642152451/rxjIGBYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 121,
+          "like_count": 252,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 223
+        },
+        "username": "yuj14356",
+        "verified": false
+      }
+    ]
+  }
+}

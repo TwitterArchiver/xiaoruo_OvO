@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1935841319450259564",
+    "created_at": "2025-06-20T03:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T04:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935906125125500961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670796609486045186",
+          "start": 0,
+          "username": "RoxaNne1273771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935906125125500961",
+    "in_reply_to_user_id": "1670796609486045186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935859577452741081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoxaNne1273771 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1935841319450259564",
+        "created_at": "2025-06-20T03:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T04:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935906125125500961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670796609486045186",
+              "start": 0,
+              "username": "RoxaNne1273771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935906125125500961",
+        "in_reply_to_user_id": "1670796609486045186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935859577452741081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoxaNne1273771 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670796609486045186",
+        "conversation_id": "1935841319450259564",
+        "created_at": "2025-06-20T00:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T01:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935859577452741081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935859577452741081",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935841319450259564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO ？家长说的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 1,
+          "like_count": 164,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 166
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T14:12:27.000Z",
+        "description": "",
+        "id": "1670796609486045186",
+        "location": "Melbourne, Australia",
+        "name": "RoxaNne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923344471913091072/JBTPFitk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 265,
+          "like_count": 848,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "RoxaNne1273771",
+        "verified": false
+      }
+    ]
+  }
+}

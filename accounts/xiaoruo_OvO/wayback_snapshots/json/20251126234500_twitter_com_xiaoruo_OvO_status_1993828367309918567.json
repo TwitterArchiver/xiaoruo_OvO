@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993308970711384064"
+      ],
+      "media_source_tweet_id": [
+        "1993309003087302919"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "1993828367309918567",
+    "created_at": "2025-11-26T23:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T00:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993828367309918567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkJSiU9Vxm",
+          "end": 61,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1993309003087302919/photo/1",
+          "media_key": "3_1993308970711384064",
+          "start": 38,
+          "url": "https://t.co/KkJSiU9Vxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993828367309918567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993309003087302919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 关于我的一部分游戏时长是怎么来的： https://t.co/KkJSiU9Vxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_1993308970711384064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mn8qbaAAAVXy7.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993308970711384064"
+          ],
+          "media_source_tweet_id": [
+            "1993309003087302919"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "1993828367309918567",
+        "created_at": "2025-11-26T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993828367309918567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkJSiU9Vxm",
+              "end": 61,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993309003087302919/photo/1",
+              "media_key": "3_1993308970711384064",
+              "start": 38,
+              "url": "https://t.co/KkJSiU9Vxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993828367309918567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993309003087302919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 关于我的一部分游戏时长是怎么来的： https://t.co/KkJSiU9Vxm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993308970711384064"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1993309003087302919",
+        "created_at": "2025-11-25T13:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993309003087302919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkJSiU9Vxm",
+              "end": 41,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993309003087302919/photo/1",
+              "media_key": "3_1993308970711384064",
+              "start": 18,
+              "url": "https://t.co/KkJSiU9Vxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993309003087302919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 76234,
+          "like_count": 2891,
+          "quote_count": 12,
+          "reply_count": 45,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的一部分游戏时长是怎么来的： https://t.co/KkJSiU9Vxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵   匿名提问箱https://t.co/Gg0Zn8dP0e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 59,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 36,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 6,
+          "like_count": 513,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 476
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9532,
+          "following_count": 7809,
+          "like_count": 27442,
+          "listed_count": 23,
+          "media_count": 6525,
+          "tweet_count": 41587
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

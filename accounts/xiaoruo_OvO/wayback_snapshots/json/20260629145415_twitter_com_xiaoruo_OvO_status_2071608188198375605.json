@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2071535115751362962",
+    "created_at": "2026-06-29T14:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071608188198375605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581937806435573760",
+          "start": 0,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071608188198375605",
+    "in_reply_to_user_id": "1581937806435573760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071535115751362962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fadai202202 她卖的鸡脚筋也特别难吃…..又贵又难吃我真的要哭了…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071535108813959168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-SNLybMAAEAiQ.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2071535115751362962",
+        "created_at": "2026-06-29T14:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071608188198375605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071608188198375605",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071535115751362962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 她卖的鸡脚筋也特别难吃…..又贵又难吃我真的要哭了…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071535108813959168"
+          ]
+        },
+        "author_id": "1581937806435573760",
+        "conversation_id": "2071535115751362962",
+        "created_at": "2026-06-29T10:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071535115751362962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Eq4kHkN9H",
+              "end": 96,
+              "expanded_url": "https://x.com/fadai202202/status/2071535115751362962/photo/1",
+              "media_key": "3_2071535108813959168",
+              "start": 73,
+              "url": "https://t.co/7Eq4kHkN9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535115751362962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15388,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音上这个人一开始推荐的甲鱼大家都叫他甲鱼娘娘，我买了那个甲鱼好难吃呀，然后她主推的这个奶皮子酸奶我也买了也不好吃。我一个女的就这样天天被抖音骗 https://t.co/7Eq4kHkN9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 60,
+          "like_count": 2063,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1984
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "location": "你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22443,
+          "following_count": 0,
+          "like_count": 1651,
+          "listed_count": 22,
+          "media_count": 289,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true
+      }
+    ]
+  }
+}

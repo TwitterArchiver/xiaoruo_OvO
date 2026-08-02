@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2036653935663206470",
+    "created_at": "2026-03-25T05:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036677109213802902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1785628617411887104",
+          "start": 0,
+          "username": "B4kl1Sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036677109213802902",
+    "in_reply_to_user_id": "1785628617411887104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036655247762800704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B4kl1Sd 周末要考试了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2036653935663206470",
+        "created_at": "2026-03-25T05:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036677109213802902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1785628617411887104",
+              "start": 0,
+              "username": "B4kl1Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036677109213802902",
+        "in_reply_to_user_id": "1785628617411887104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036655247762800704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B4kl1Sd 周末要考试了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785628617411887104",
+        "conversation_id": "2036653935663206470",
+        "created_at": "2026-03-25T04:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036655247762800704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036655247762800704",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036653935663206470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 周末出去走走吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3189,
+          "following_count": 12,
+          "like_count": 960,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 881
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T11:13:41.000Z",
+        "description": "温州互勉约拍，拍景色居多，可能技术没那么高，底片全给不P图",
+        "id": "1785628617411887104",
+        "location": "1km",
+        "name": "无望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844325975095660544/SMrPHWfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 406,
+          "like_count": 14296,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 4303
+        },
+        "username": "B4kl1Sd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1986347299174490130",
+    "created_at": "2025-11-06T12:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T13:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986403655722148339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1551874034559639553",
+          "start": 0,
+          "username": "yb15750981695"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986403655722148339",
+    "in_reply_to_user_id": "1551874034559639553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986393461038457278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yb15750981695 嗯嗯好的 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1986347299174490130",
+        "created_at": "2025-11-06T12:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986403655722148339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1551874034559639553",
+              "start": 0,
+              "username": "yb15750981695"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986403655722148339",
+        "in_reply_to_user_id": "1551874034559639553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986393461038457278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yb15750981695 嗯嗯好的 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551874034559639553",
+        "conversation_id": "1986347299174490130",
+        "created_at": "2025-11-06T11:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986393461038457278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986393461038457278",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986347299174490130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 看自己的选择，如果觉得对自己有帮助的话就可以入，但是入党这个过程挺累的，要做不少事情，如果是大学想快乐一点的话就不入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 5,
+          "like_count": 447,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 399
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T10:16:34.000Z",
+        "description": "00后，希望可以和各位交个朋友\n不回人机，只跟真人聊天\n😓😓骗子远离我谢谢",
+        "id": "1551874034559639553",
+        "location": "Hong Kong",
+        "name": "carl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984968297880969216/gvSgDwjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 123,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "yb15750981695",
+        "verified": false
+      }
+    ]
+  }
+}

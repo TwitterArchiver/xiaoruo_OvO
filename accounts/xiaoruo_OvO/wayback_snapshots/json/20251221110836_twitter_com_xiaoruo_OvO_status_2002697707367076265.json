@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002697697955033088"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002697707367076265",
+    "created_at": "2025-12-21T11:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002697707367076265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G91Y0zoOqn",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2002697707367076265/photo/1",
+          "media_key": "3_2002697697955033088",
+          "start": 13,
+          "url": "https://t.co/G91Y0zoOqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002697707367076265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吗的 傻逼导员你算个几把 https://t.co/G91Y0zoOqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2002697697955033088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sC8g8aMAAZ_Iq.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002697697955033088"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002697707367076265",
+        "created_at": "2025-12-21T11:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002697707367076265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G91Y0zoOqn",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2002697707367076265/photo/1",
+              "media_key": "3_2002697697955033088",
+              "start": 13,
+              "url": "https://t.co/G91Y0zoOqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002697707367076265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗的 傻逼导员你算个几把 https://t.co/G91Y0zoOqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 6,
+          "like_count": 556,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 517
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

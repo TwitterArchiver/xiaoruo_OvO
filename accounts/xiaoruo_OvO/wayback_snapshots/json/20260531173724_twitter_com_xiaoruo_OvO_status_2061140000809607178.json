@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2061140000809607178",
+    "created_at": "2026-05-31T17:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061140000809607178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/panggilsajamum…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/panggilsajamumu/status/2060980432192360879",
+          "start": 3,
+          "url": "https://t.co/AfllaxSUxH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061140000809607178",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060980432192360879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me https://t.co/AfllaxSUxH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29430,
+        "height": 1440,
+        "media_key": "13_2060980304400281600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060980304400281600/img/4WoIgPTNugvWh3zB.jpg",
+        "public_metrics": {
+          "view_count": 386396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060980304400281600/vid/avc1/720x960/i-KkB9l07Ys795aO.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060980304400281600/vid/avc1/320x426/06PWQgptXQTaCRLx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060980304400281600/vid/avc1/1080x1440/gidm0172tlkPmps2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060980304400281600/vid/avc1/480x640/7FrWobVN5k4MPYdd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060980304400281600/pl/9OTubvujXjFT0DoG.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2060980304492593152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoSqtpbgAAACLk.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2060980304454848512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoSqtgbkAAgQ2e.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2060980304383549441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoSqtPboAEJ_uZ.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2061140000809607178",
+        "created_at": "2026-05-31T17:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061140000809607178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/panggilsajamum…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/panggilsajamumu/status/2060980432192360879",
+              "start": 3,
+              "url": "https://t.co/AfllaxSUxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061140000809607178",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060980432192360879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me https://t.co/AfllaxSUxH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060980304400281600",
+            "3_2060980304492593152",
+            "3_2060980304454848512",
+            "3_2060980304383549441"
+          ]
+        },
+        "author_id": "1816348624718336000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060980432192360879",
+        "created_at": "2026-05-31T07:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060980432192360879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1fVPL2wsj",
+              "end": 304,
+              "expanded_url": "https://x.com/panggilsajamumu/status/2060980432192360879/video/1",
+              "media_key": "13_2060980304400281600",
+              "start": 281,
+              "url": "https://t.co/K1fVPL2wsj"
+            },
+            {
+              "display_url": "pic.x.com/K1fVPL2wsj",
+              "end": 304,
+              "expanded_url": "https://x.com/panggilsajamumu/status/2060980432192360879/video/1",
+              "media_key": "3_2060980304492593152",
+              "start": 281,
+              "url": "https://t.co/K1fVPL2wsj"
+            },
+            {
+              "display_url": "pic.x.com/K1fVPL2wsj",
+              "end": 304,
+              "expanded_url": "https://x.com/panggilsajamumu/status/2060980432192360879/video/1",
+              "media_key": "3_2060980304454848512",
+              "start": 281,
+              "url": "https://t.co/K1fVPL2wsj"
+            },
+            {
+              "display_url": "pic.x.com/K1fVPL2wsj",
+              "end": 304,
+              "expanded_url": "https://x.com/panggilsajamumu/status/2060980432192360879/video/1",
+              "media_key": "3_2060980304383549441",
+              "start": 281,
+              "url": "https://t.co/K1fVPL2wsj"
+            },
+            {
+              "display_url": "x.com/gudanglifehack…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/gudanglifehack/status/2060853113498763460",
+              "start": 305,
+              "url": "https://t.co/5PZWxHyDB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060980432192360879",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {},
+          "text": "IDK IF THIS IS UNIQUE OR NOT.\n\nJadi kulitku itu sensitif banget sama goresan. Kalo kegores dikit aja, bakal ninggalin bekas kaya bentol yg beneran timbul banget. \nEfeknya itu bakal stay selama 30 menit sampe 1 jam-an lah. \nNah setelah tau kulitku bisa gitu, aku sering iseng nulis atau gambar pake pencil/pulpen biar bekas goresannya timbul sesuai tulisan/gambar yg aku buat. \n\nAda yang tau gak ini kondisi/kelainan apa?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 844,
+          "impression_count": 1697533,
+          "like_count": 5699,
+          "quote_count": 464,
+          "reply_count": 435,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060853113498763460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "IDK IF THIS IS UNIQUE OR NOT.\n\nJadi kulitku itu sensitif banget sama goresan. Kalo kegores dikit aja, bakal ninggalin bekas kaya bentol yg beneran timbul banget. \nEfeknya itu bakal stay selama 30 menit sampe 1 jam-an lah. \nNah setelah tau kulitku bisa gitu, aku sering iseng nulis https://t.co/K1fVPL2wsj https://t.co/5PZWxHyDB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3111,
+          "following_count": 36,
+          "like_count": 1431,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T05:44:07.000Z",
+        "description": "welcome to my journal page📝",
+        "id": "1816348624718336000",
+        "location": "Jakarta Utara",
+        "name": "𝙢𝙪𝙢𝙪 ☻",
+        "pinned_tweet_id": "2011094750791975064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025499560387510272/3LpjiE55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6809,
+          "following_count": 5127,
+          "like_count": 14873,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 12048
+        },
+        "username": "panggilsajamumu",
+        "verified": true
+      }
+    ]
+  }
+}

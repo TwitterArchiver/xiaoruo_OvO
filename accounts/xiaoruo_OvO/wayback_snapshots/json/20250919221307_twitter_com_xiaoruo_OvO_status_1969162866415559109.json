@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1968984022375125011",
+    "created_at": "2025-09-19T22:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T23:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969162866415559109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836328344302030849",
+          "start": 0,
+          "username": "FV8KBEGSQU17431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969162866415559109",
+    "in_reply_to_user_id": "1836328344302030849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968998214939422841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FV8KBEGSQU17431 是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T22:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T23:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969162866415559109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836328344302030849",
+              "start": 0,
+              "username": "FV8KBEGSQU17431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969162866415559109",
+        "in_reply_to_user_id": "1836328344302030849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968998214939422841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FV8KBEGSQU17431 是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836328344302030849",
+        "conversation_id": "1968984022375125011",
+        "created_at": "2025-09-19T11:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T12:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968998214939422841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968998214939422841",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968984022375125011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 你咋也o了，大学不顺利吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 3,
+          "like_count": 229,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 230
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T08:56:18.000Z",
+        "description": "资深享乐主义至上者",
+        "id": "1836328344302030849",
+        "name": "邪漏子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956950065781821440/ZnF2XseB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 188,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 261
+        },
+        "username": "FV8KBEGSQU17431",
+        "verified": false
+      }
+    ]
+  }
+}

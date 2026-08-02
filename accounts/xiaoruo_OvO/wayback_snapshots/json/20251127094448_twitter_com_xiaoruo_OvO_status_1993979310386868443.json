@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1993890494066327715",
+    "created_at": "2025-11-27T09:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993979310386868443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647139842223112194",
+          "start": 0,
+          "username": "kanh_kn58799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993979310386868443",
+    "in_reply_to_user_id": "1647139842223112194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993976308733472776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanh_kn58799 傻逼找不到对象眼红了在这说啥屁话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1993890494066327715",
+        "created_at": "2025-11-27T09:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993979310386868443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647139842223112194",
+              "start": 0,
+              "username": "kanh_kn58799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993979310386868443",
+        "in_reply_to_user_id": "1647139842223112194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993976308733472776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanh_kn58799 傻逼找不到对象眼红了在这说啥屁话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647139842223112194",
+        "conversation_id": "1993890494066327715",
+        "created_at": "2025-11-27T09:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993976308733472776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993976308733472776",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993890494066327715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 依旧经典煞笔龟男找鸡当老婆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵   匿名提问箱https://t.co/Gg0Zn8dP0e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 59,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 36,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 6,
+          "like_count": 516,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 482
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T07:29:24.000Z",
+        "description": "原神最好玩了😋😋😋https://t.co/xF9MF2GHML\n029欢迎聊天",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkahk1",
+                "end": 32,
+                "expanded_url": "https://ngl.link/kkahk1",
+                "start": 9,
+                "url": "https://t.co/xF9MF2GHML"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "阿玛特拉斯.com",
+                "end": 23,
+                "expanded_url": "http://xn--5su97duyqe7a347h.com",
+                "start": 0,
+                "url": "https://t.co/DIlaK869DT"
+              }
+            ]
+          }
+        },
+        "id": "1647139842223112194",
+        "location": "提瓦特大陆孙笑川大缸😋",
+        "name": "Kn Kanh029dd",
+        "pinned_tweet_id": "1875130119511314498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992490129039220737/ddaRQUqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 5,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/DIlaK869DT",
+        "username": "kanh_kn58799",
+        "verified": false
+      }
+    ]
+  }
+}

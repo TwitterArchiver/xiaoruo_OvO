@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067161596644962334",
+    "created_at": "2026-06-17T08:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067163109585002642"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067163109585002642",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067161596644962334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干了一些其他不好的事的小动物另说 虐杀那些什么都没做错的小动物的希望你们也能被虐杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067161586947743744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAIgtNaYAA0zEp.jpg",
+        "width": 854
+      },
+      {
+        "height": 1907,
+        "media_key": "3_2067161586951933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAIgtOaUAAsJqy.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067161596644962334",
+        "created_at": "2026-06-17T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067163109585002642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067163109585002642",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067161596644962334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干了一些其他不好的事的小动物另说 虐杀那些什么都没做错的小动物的希望你们也能被虐杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067161586947743744",
+            "3_2067161586951933952"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067161596644962334",
+        "created_at": "2026-06-17T08:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067161596644962334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahZx8Iin7z",
+              "end": 46,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2067161596644962334/photo/1",
+              "media_key": "3_2067161586947743744",
+              "start": 23,
+              "url": "https://t.co/ahZx8Iin7z"
+            },
+            {
+              "display_url": "pic.x.com/ahZx8Iin7z",
+              "end": 46,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2067161596644962334/photo/1",
+              "media_key": "3_2067161586951933952",
+              "start": 23,
+              "url": "https://t.co/ahZx8Iin7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067161596644962334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢从虐待其他生命来找优越感的人都该被我砍死 https://t.co/ahZx8Iin7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 49,
+          "like_count": 1727,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

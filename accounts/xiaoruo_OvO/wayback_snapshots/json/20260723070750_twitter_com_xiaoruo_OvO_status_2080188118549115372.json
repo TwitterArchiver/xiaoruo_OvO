@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2080188118549115372",
+    "created_at": "2026-07-23T07:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080188118549115372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fadai202202/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fadai202202/status/2080185097324798053",
+          "start": 7,
+          "url": "https://t.co/KPEr07IxQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080188118549115372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080185097324798053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操笑死我了 https://t.co/KPEr07IxQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2080185090496516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5NUYob0AAqq2w.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2080188118549115372",
+        "created_at": "2026-07-23T07:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080188118549115372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fadai202202/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fadai202202/status/2080185097324798053",
+              "start": 7,
+              "url": "https://t.co/KPEr07IxQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080188118549115372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080185097324798053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操笑死我了 https://t.co/KPEr07IxQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080185090496516096"
+          ]
+        },
+        "author_id": "1581937806435573760",
+        "conversation_id": "2080185097324798053",
+        "created_at": "2026-07-23T06:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080185097324798053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebwbU2IB7Y",
+              "end": 34,
+              "expanded_url": "https://x.com/fadai202202/status/2080185097324798053/photo/1",
+              "media_key": "3_2080185090496516096",
+              "start": 11,
+              "url": "https://t.co/ebwbU2IB7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080185097324798053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到买比亚迪的理由了 https://t.co/ebwbU2IB7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 57,
+          "like_count": 2285,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "location": "你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25289,
+          "following_count": 0,
+          "like_count": 1706,
+          "listed_count": 27,
+          "media_count": 444,
+          "tweet_count": 2659
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true
+      }
+    ]
+  }
+}

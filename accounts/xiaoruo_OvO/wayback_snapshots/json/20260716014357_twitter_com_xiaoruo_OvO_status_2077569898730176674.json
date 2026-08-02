@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2077539946844614813",
+    "created_at": "2026-07-16T01:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T02:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077569898730176674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058742469983137792",
+          "start": 0,
+          "username": "luuvn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077569898730176674",
+    "in_reply_to_user_id": "2058742469983137792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077539946844614813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luuvn0 那应该叫做以自我为中心或者缺乏换位思考吧 高敏感指的是对外界刺激 情绪 细节感知更强 更深 虽然高敏感可以和以自我为中心同时存在 但这也不能说高敏感就是以自我为中心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2077539946844614813",
+        "created_at": "2026-07-16T01:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077569898730176674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058742469983137792",
+              "start": 0,
+              "username": "luuvn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077569898730176674",
+        "in_reply_to_user_id": "2058742469983137792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077539946844614813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luuvn0 那应该叫做以自我为中心或者缺乏换位思考吧 高敏感指的是对外界刺激 情绪 细节感知更强 更深 虽然高敏感可以和以自我为中心同时存在 但这也不能说高敏感就是以自我为中心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058742469983137792",
+        "conversation_id": "2077539946844614813",
+        "created_at": "2026-07-15T23:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077539946844614813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077539946844614813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感人群都挺傻逼的，但是他们的对象更傻逼，一群人希望宇宙围绕他们转动，而他们的对象还真愿意让他们cos宇宙中心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3106,
+          "following_count": 58,
+          "like_count": 2176,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:50:55.000Z",
+        "description": "凡人的碎碎念",
+        "id": "2058742469983137792",
+        "name": "你掉眼淚也一樣可愛",
+        "pinned_tweet_id": "2059475136143843375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058742720315977728/C8laKU7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "luuvn0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2056160234532712606",
+    "created_at": "2026-05-18T04:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056225413752590511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1957730266514092032",
+          "start": 0,
+          "username": "artemisu22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056225413752590511",
+    "in_reply_to_user_id": "1957730266514092032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056220768590250212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artemisu22 谢谢宝宝！！！😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2056160234532712606",
+        "created_at": "2026-05-18T04:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056225413752590511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957730266514092032",
+              "start": 0,
+              "username": "artemisu22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056225413752590511",
+        "in_reply_to_user_id": "1957730266514092032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056220768590250212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artemisu22 谢谢宝宝！！！😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957730266514092032",
+        "conversation_id": "2056160234532712606",
+        "created_at": "2026-05-18T03:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056220768590250212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056220768590250212",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056160234532712606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 超萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关！匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 89,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 66,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 22,
+          "like_count": 1245,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 1230
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T09:04:10.000Z",
+        "description": "韩国香港两边走的苦命女孩\n我的threads被meta炸了十九个号了\n现在我会低调转战推特分享生活\nNCT RIIZE ITZY🫶🏽💗\n我是女同 男生勿扰",
+        "id": "1957730266514092032",
+        "name": "被meta炸了22个号的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056077057042604032/CigDNaLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 104
+        },
+        "username": "artemisu22",
+        "verified": false
+      }
+    ]
+  }
+}

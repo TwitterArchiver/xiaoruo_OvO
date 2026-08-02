@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063537024301510656",
+        "3_2063537024288878592",
+        "3_2063537024230100993",
+        "13_2063537024255279104"
+      ],
+      "media_source_tweet_id": [
+        "2063537080979059147",
+        "2063537080979059147",
+        "2063537080979059147",
+        "2063537080979059147"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065366968207884797",
+    "created_at": "2026-06-12T09:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065366968207884797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060006148087181312",
+          "start": 3,
+          "username": "tristeza226"
+        },
+        {
+          "end": 33,
+          "id": "2006235005698375680",
+          "start": 19,
+          "username": "xioqngx286233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PHqnAke0Zh",
+          "end": 132,
+          "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+          "media_key": "3_2063537024301510656",
+          "start": 109,
+          "url": "https://t.co/PHqnAke0Zh"
+        },
+        {
+          "display_url": "pic.x.com/PHqnAke0Zh",
+          "end": 132,
+          "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+          "media_key": "3_2063537024288878592",
+          "start": 109,
+          "url": "https://t.co/PHqnAke0Zh"
+        },
+        {
+          "display_url": "pic.x.com/PHqnAke0Zh",
+          "end": 132,
+          "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+          "media_key": "3_2063537024230100993",
+          "start": 109,
+          "url": "https://t.co/PHqnAke0Zh"
+        },
+        {
+          "display_url": "pic.x.com/PHqnAke0Zh",
+          "end": 132,
+          "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+          "media_key": "13_2063537024255279104",
+          "start": 109,
+          "url": "https://t.co/PHqnAke0Zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065366968207884797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063537080979059147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tristeza226: 前世@xioqngx286233 \n小情绪（3号） 寻回互fo\n求大家帮我转转 我抽几个送愈美\n关于我07男大 重度焦虑抑郁 躁狂 双相 od 自残 sns重度依赖\n欢迎大家来找我玩 https://t.co/PHqnAke0Zh"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xioqngx286233].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xioqngx286233",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xioqngx286233"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2063537024301510656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn_ZJbsAAdAh2.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1028,
+        "media_key": "3_2063537024288878592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn_ZGa8AAk1_y.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063537024230100993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMn_Y4aEAEogTW.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 3319,
+        "height": 1280,
+        "media_key": "13_2063537024255279104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063537024255279104/img/G-cq4xbxlILTOiXq.jpg",
+        "public_metrics": {
+          "view_count": 2482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063537024255279104/vid/avc1/320x568/nPtuQVkVqlALtcJL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063537024255279104/vid/avc1/480x852/yKtadwjGVQdeHFLu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063537024255279104/vid/avc1/720x1280/3XNFmWdxOPeofNHm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063537024255279104/pl/xcKmk7ehsDISw-a9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063537024301510656",
+            "3_2063537024288878592",
+            "3_2063537024230100993",
+            "13_2063537024255279104"
+          ],
+          "media_source_tweet_id": [
+            "2063537080979059147",
+            "2063537080979059147",
+            "2063537080979059147",
+            "2063537080979059147"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065366968207884797",
+        "created_at": "2026-06-12T09:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065366968207884797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060006148087181312",
+              "start": 3,
+              "username": "tristeza226"
+            },
+            {
+              "end": 33,
+              "id": "2006235005698375680",
+              "start": 19,
+              "username": "xioqngx286233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 132,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024301510656",
+              "start": 109,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 132,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024288878592",
+              "start": 109,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 132,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024230100993",
+              "start": 109,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 132,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "13_2063537024255279104",
+              "start": 109,
+              "url": "https://t.co/PHqnAke0Zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065366968207884797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063537080979059147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tristeza226: 前世@xioqngx286233 \n小情绪（3号） 寻回互fo\n求大家帮我转转 我抽几个送愈美\n关于我07男大 重度焦虑抑郁 躁狂 双相 od 自残 sns重度依赖\n欢迎大家来找我玩 https://t.co/PHqnAke0Zh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063537024301510656",
+            "3_2063537024288878592",
+            "3_2063537024230100993",
+            "13_2063537024255279104"
+          ]
+        },
+        "author_id": "2060006148087181312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063537080979059147",
+        "created_at": "2026-06-07T08:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063537080979059147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2006235005698375680",
+              "start": 2,
+              "username": "xioqngx286233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 115,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024301510656",
+              "start": 92,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 115,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024288878592",
+              "start": 92,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 115,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "3_2063537024230100993",
+              "start": 92,
+              "url": "https://t.co/PHqnAke0Zh"
+            },
+            {
+              "display_url": "pic.x.com/PHqnAke0Zh",
+              "end": 115,
+              "expanded_url": "https://x.com/tristeza226/status/2063537080979059147/video/1",
+              "media_key": "13_2063537024255279104",
+              "start": 92,
+              "url": "https://t.co/PHqnAke0Zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537080979059147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9451,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "前世@xioqngx286233 \n小情绪（3号） 寻回互fo\n求大家帮我转转 我抽几个送愈美\n关于我07男大 重度焦虑抑郁 躁狂 双相 od 自残 sns重度依赖\n欢迎大家来找我玩 https://t.co/PHqnAke0Zh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 36,
+          "like_count": 1610,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2063537080979059147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 127,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 87
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2065046317278302547",
+    "created_at": "2026-06-11T23:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065219522450350147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962348645346639872",
+          "start": 0,
+          "username": "HowellLope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065219522450350147",
+    "in_reply_to_user_id": "1962348645346639872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065090414168924343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HowellLope 我不是因为这个表情 而是因为他说话的语气 充满了嘲讽和看不起的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2065046317278302547",
+        "created_at": "2026-06-11T23:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065219522450350147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962348645346639872",
+              "start": 0,
+              "username": "HowellLope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065219522450350147",
+        "in_reply_to_user_id": "1962348645346639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065090414168924343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HowellLope 我不是因为这个表情 而是因为他说话的语气 充满了嘲讽和看不起的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962348645346639872",
+        "conversation_id": "2065046317278302547",
+        "created_at": "2026-06-11T15:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065090414168924343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065090414168924343",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065046317278302547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 如果换我的话倒不会觉得捂脸表情有什么，但我很讨厌这个表情😂，笑哭看多了真的不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 40,
+          "like_count": 1593,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T02:56:07.000Z",
+        "description": "兴趣使然的普通人/情绪垃圾桶，喜欢运动(篮球羽毛球)，会画点画(真的就一点而且是以前的事)，打点游戏(单机游戏以及部分fps)，脾气应该算好(自认为)\n祝刷到我的和没有刷到我的人都生活愉快!感谢你看完我这个随便写的简介，陌生人，最后再祝你生活愉快!\n可以来找我聊天，我上线时间不定，如果真的有人的话我会尝试每天上线的🤗",
+        "id": "1962348645346639872",
+        "location": "China🇨🇳",
+        "name": "Alice",
+        "pinned_tweet_id": "2064479633987539220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065119656613122048/AnbOSx22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 167
+        },
+        "username": "HowellLope",
+        "verified": false
+      }
+    ]
+  }
+}

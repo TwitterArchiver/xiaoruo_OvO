@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2069963563448615041",
+    "created_at": "2026-06-25T01:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069963563448615041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciruyalsno1667…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ciruyalsno16671/status/2069730125542039887",
+          "start": 8,
+          "url": "https://t.co/xKirj6OnXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069963563448615041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069730125542039887",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "矮油！！！！！ https://t.co/xKirj6OnXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069730115710304256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkokwfXQAAtI4Z.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2069963563448615041",
+        "created_at": "2026-06-25T01:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069963563448615041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciruyalsno1667…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ciruyalsno16671/status/2069730125542039887",
+              "start": 8,
+              "url": "https://t.co/xKirj6OnXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069963563448615041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069730125542039887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "矮油！！！！！ https://t.co/xKirj6OnXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069730115710304256"
+          ]
+        },
+        "author_id": "1709271772707909632",
+        "conversation_id": "2069730125542039887",
+        "created_at": "2026-06-24T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069730125542039887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rTsK7hAAF",
+              "end": 28,
+              "expanded_url": "https://x.com/ciRUYALSNO16671/status/2069730125542039887/photo/1",
+              "media_key": "3_2069730115710304256",
+              "start": 5,
+              "url": "https://t.co/4rTsK7hAAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069730125542039887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31590,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 66,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我笑死了 https://t.co/4rTsK7hAAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 57,
+          "like_count": 2008,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T18:19:00.000Z",
+        "description": "",
+        "id": "1709271772707909632",
+        "location": "我已经扭曲了。 有🚪",
+        "name": "不要再痛",
+        "pinned_tweet_id": "2059104119596736853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060738038612017152/p5fogg8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6105,
+          "following_count": 211,
+          "like_count": 82,
+          "listed_count": 10,
+          "media_count": 279,
+          "tweet_count": 898
+        },
+        "url": "",
+        "username": "ciRUYALSNO16671",
+        "verified": false
+      }
+    ]
+  }
+}

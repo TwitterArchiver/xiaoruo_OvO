@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1934199011482943903",
+    "created_at": "2025-06-16T12:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T13:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934582433032405043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912667915251511296",
+          "start": 0,
+          "username": "Ciky_Shore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934582433032405043",
+    "in_reply_to_user_id": "1912667915251511296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934563167855845598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciky_Shore 我还挺后悔为啥当初不大文……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1934199011482943903",
+        "created_at": "2025-06-16T12:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934582433032405043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912667915251511296",
+              "start": 0,
+              "username": "Ciky_Shore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934582433032405043",
+        "in_reply_to_user_id": "1912667915251511296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934563167855845598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciky_Shore 我还挺后悔为啥当初不大文……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912667915251511296",
+        "conversation_id": "1934199011482943903",
+        "created_at": "2025-06-16T10:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T11:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934563167855845598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934563167855845598",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934199011482943903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 不是 我数物化生四门加起来考不到120 还曾经逼着我选理。。。还好现在选的文（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1,
+          "like_count": 158,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 157
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "碎碎念",
+        "id": "1912667915251511296",
+        "location": "柏林",
+        "name": "辞魁月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 200,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 51
+        },
+        "username": "Ciky_Shore",
+        "verified": false
+      }
+    ]
+  }
+}

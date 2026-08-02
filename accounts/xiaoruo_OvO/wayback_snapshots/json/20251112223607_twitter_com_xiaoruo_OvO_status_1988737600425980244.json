@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1988490128277311741",
+    "created_at": "2025-11-12T22:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988737600425980244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130685737714606080",
+          "start": 0,
+          "username": "Skipper4747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988737600425980244",
+    "in_reply_to_user_id": "1130685737714606080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988639634230779949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skipper4747 就是用的ai 但得手抄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1988490128277311741",
+        "created_at": "2025-11-12T22:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988737600425980244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130685737714606080",
+              "start": 0,
+              "username": "Skipper4747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988737600425980244",
+        "in_reply_to_user_id": "1130685737714606080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988639634230779949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skipper4747 就是用的ai 但得手抄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130685737714606080",
+        "conversation_id": "1988490128277311741",
+        "created_at": "2025-11-12T16:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988639634230779949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988639634230779949",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988490128277311741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 用ai写吧。豆包挺好用的，稍微检查一下就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 5,
+          "like_count": 479,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 448
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T04:04:21.000Z",
+        "description": "这是GHS专用账号，在推特上的我也许是与生活中不同的另一个样子。",
+        "id": "1130685737714606080",
+        "location": "Chengdu",
+        "name": "Skipper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1157476724180803585/lPMLnqy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 2410,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 925
+        },
+        "username": "Skipper4747",
+        "verified": false
+      }
+    ]
+  }
+}

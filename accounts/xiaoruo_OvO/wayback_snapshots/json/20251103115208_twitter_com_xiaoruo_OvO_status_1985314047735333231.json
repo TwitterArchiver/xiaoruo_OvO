@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1985199135763640662",
+    "created_at": "2025-11-03T11:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T12:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985314047735333231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3615174192",
+          "start": 0,
+          "username": "qianyedasiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985314047735333231",
+    "in_reply_to_user_id": "3615174192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985263448645833173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyedasiki 现在同学们都跟疯了一样哄抢塑料瓶子和纸壳子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1985199135763640662",
+        "created_at": "2025-11-03T11:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985314047735333231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3615174192",
+              "start": 0,
+              "username": "qianyedasiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985314047735333231",
+        "in_reply_to_user_id": "3615174192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985263448645833173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyedasiki 现在同学们都跟疯了一样哄抢塑料瓶子和纸壳子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3615174192",
+        "conversation_id": "1985199135763640662",
+        "created_at": "2025-11-03T08:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985263448645833173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985263448645833173",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985199135763640662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 太神经病了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 5,
+          "like_count": 439,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 384
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-19T11:05:09.000Z",
+        "description": "中文ok 日语简单ok",
+        "id": "3615174192",
+        "location": "Whittier, CA",
+        "name": "Takaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580167087536091137/Twz9oaBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 248,
+          "like_count": 1898,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 348
+        },
+        "username": "qianyedasiki",
+        "verified": false
+      }
+    ]
+  }
+}

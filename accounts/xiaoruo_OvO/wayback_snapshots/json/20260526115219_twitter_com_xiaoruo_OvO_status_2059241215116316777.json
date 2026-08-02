@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059241211546963968"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2059241215116316777",
+    "created_at": "2026-05-26T11:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059241215116316777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 40,
+          "id": "2044913541526827008",
+          "start": 32,
+          "username": "0718Zzy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 78,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/AvH8GH6KMt"
+        },
+        {
+          "display_url": "pic.x.com/yxSG21GjFc",
+          "end": 102,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2059241215116316777/photo/1",
+          "media_key": "3_2059241211546963968",
+          "start": 79,
+          "url": "https://t.co/yxSG21GjFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059241215116316777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ @\n👰 配偶: @0718Zzy\n👶 孩子: @ @\n\n➡️ https://t.co/AvH8GH6KMt https://t.co/yxSG21GjFc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2059241211546963968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPk-LkaEAAmKYF.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059241211546963968"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2059241215116316777",
+        "created_at": "2026-05-26T11:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059241215116316777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "2044913541526827008",
+              "start": 32,
+              "username": "0718Zzy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 78,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058164998204280833/NHIDVpg1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/AvH8GH6KMt"
+            },
+            {
+              "display_url": "pic.x.com/yxSG21GjFc",
+              "end": 102,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2059241215116316777/photo/1",
+              "media_key": "3_2059241211546963968",
+              "start": 79,
+              "url": "https://t.co/yxSG21GjFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059241215116316777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ @\n👰 配偶: @0718Zzy\n👶 孩子: @ @\n\n➡️ https://t.co/AvH8GH6KMt https://t.co/yxSG21GjFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 34,
+          "like_count": 1376,
+          "listed_count": 4,
+          "media_count": 97,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T22:59:29.000Z",
+        "description": "新西兰留学高中生year9（刚来4个月）\n不是黄推，不加微❕❕❕\n下推特只是为了聊天呀💬\n我是女孩纸呀！可以私信聊天哦\n看到会回，喜欢就➕我",
+        "id": "2044913541526827008",
+        "location": "Auckland ",
+        "name": "sy.",
+        "pinned_tweet_id": "2058777018003804467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054672489905897473/t8mGCPgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 12,
+          "like_count": 2302,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 304
+        },
+        "username": "0718Zzy",
+        "verified": false
+      }
+    ]
+  }
+}

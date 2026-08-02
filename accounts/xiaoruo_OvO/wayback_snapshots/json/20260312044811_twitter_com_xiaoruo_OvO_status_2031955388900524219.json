@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2031886685982843135",
+    "created_at": "2026-03-12T04:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T05:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031955388900524219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865326103772213248",
+          "start": 0,
+          "username": "Devilctnobaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031955388900524219",
+    "in_reply_to_user_id": "1865326103772213248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031952768064504189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devilctnobaby 好吧 每个人的经历不太一样 我高三过的算是比较愉快的 但是大学这大半年来一直都很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2031886685982843135",
+        "created_at": "2026-03-12T04:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031955388900524219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865326103772213248",
+              "start": 0,
+              "username": "Devilctnobaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031955388900524219",
+        "in_reply_to_user_id": "1865326103772213248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031952768064504189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devilctnobaby 好吧 每个人的经历不太一样 我高三过的算是比较愉快的 但是大学这大半年来一直都很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865326103772213248",
+        "conversation_id": "2031886685982843135",
+        "created_at": "2026-03-12T04:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031952768064504189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031952768064504189",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031886685982843135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 其实特别痛苦，，我一直被这种感觉绊住脚，我其实可以去插话去找别人，可总认为自己并不是他们的选择，甚至自己是在添麻烦，，我讨厌这种感觉，被迫社交什么的最讨厌了，，如果再来一次高三?不，我现在都在为我逃离这里而庆幸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7whJj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 39,
+                "url": "https://t.co/Yj84w7whJj"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 12,
+          "like_count": 892,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 768
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T09:23:02.000Z",
+        "description": "与你共鸣并进退",
+        "id": "1865326103772213248",
+        "name": "野草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028136785839280128/CBWzc9t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "Devilctnobaby",
+        "verified": false
+      }
+    ]
+  }
+}

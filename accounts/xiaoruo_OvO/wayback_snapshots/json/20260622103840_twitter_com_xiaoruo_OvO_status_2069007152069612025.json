@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069007090996396032"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2069007152069612025",
+    "created_at": "2026-06-22T10:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069007152069612025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKGLtESL3L",
+          "end": 45,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2069007152069612025/video/1",
+          "media_key": "13_2069007090996396032",
+          "start": 22,
+          "url": "https://t.co/YKGLtESL3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069007152069612025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "软软弹弹的千页豆腐 yummy yummy https://t.co/YKGLtESL3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3401,
+        "height": 1280,
+        "media_key": "13_2069007090996396032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069007090996396032/img/8qA2DntQzH9i9QUF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069007090996396032/vid/avc1/320x568/VpsxQ5_CidKAvpsA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069007090996396032/vid/avc1/480x852/sp-xMSHNA4xL0Ngl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069007090996396032/vid/avc1/720x1280/KTl4lpovdGA5xj9D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069007090996396032/pl/YUgAcgHA11UBdK3o.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069007090996396032"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2069007152069612025",
+        "created_at": "2026-06-22T10:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069007152069612025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKGLtESL3L",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2069007152069612025/video/1",
+              "media_key": "13_2069007090996396032",
+              "start": 22,
+              "url": "https://t.co/YKGLtESL3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069007152069612025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "软软弹弹的千页豆腐 yummy yummy https://t.co/YKGLtESL3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 54,
+          "like_count": 1913,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

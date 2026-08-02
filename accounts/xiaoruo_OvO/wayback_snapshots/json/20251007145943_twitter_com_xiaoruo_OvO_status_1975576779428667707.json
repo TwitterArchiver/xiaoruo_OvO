@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975576758788472832"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "1975574870428950714",
+    "created_at": "2025-10-07T14:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T15:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975576779428667707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mKOrcW1T5p",
+          "end": 28,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/1975576779428667707/photo/1",
+          "media_key": "3_1975576758788472832",
+          "start": 5,
+          "url": "https://t.co/mKOrcW1T5p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975576779428667707",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975574870428950714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先占两个 https://t.co/mKOrcW1T5p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975576779428667707].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975576779428667707",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975576779428667707"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975576758788472832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qomFYawAAkIZB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1975574870428950714",
+        "created_at": "2025-10-07T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975574870428950714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975574870428950714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了割手嗑药喝酒还有什么能缓解情绪问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 3,
+          "like_count": 295,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 316
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070721187869868032"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2070721196606578996",
+    "created_at": "2026-06-27T04:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070721196606578996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RRUtcvpgZ",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2070721196606578996/photo/1",
+          "media_key": "3_2070721187869868032",
+          "start": 0,
+          "url": "https://t.co/7RRUtcvpgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070721196606578996",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/7RRUtcvpgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_2070721187869868032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyt8v_bwAApE4O.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070721187869868032"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2070721196606578996",
+        "created_at": "2026-06-27T04:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070721196606578996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RRUtcvpgZ",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2070721196606578996/photo/1",
+              "media_key": "3_2070721187869868032",
+              "start": 0,
+              "url": "https://t.co/7RRUtcvpgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070721196606578996",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7RRUtcvpgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 59,
+          "like_count": 2059,
+          "listed_count": 4,
+          "media_count": 141,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

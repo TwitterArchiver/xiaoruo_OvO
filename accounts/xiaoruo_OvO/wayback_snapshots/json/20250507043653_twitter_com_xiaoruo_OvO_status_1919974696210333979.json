@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1919783431913005102",
+    "created_at": "2025-05-07T04:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T05:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919974696210333979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shangjinaliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919974696210333979",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919960707338019042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangjinaliu 还真没有🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1919783431913005102",
+        "created_at": "2025-05-07T04:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T05:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919974696210333979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shangjinaliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919974696210333979",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919960707338019042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangjinaliu 还真没有🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "1919783431913005102",
+        "created_at": "2025-05-07T03:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919960707338019042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919960707338019042",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919783431913005102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 啊…说起来你家有能播放cd的机器吗？没有的话那CD就纯成收藏品了😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO的小号 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874452864099389441/wU0h7bJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "infj-t 纯爱战神绿老头/铁直男/坐标日本琦玉/真心持有者/先天朋友圣体/话痨但不主动/全力以赴中",
+        "id": "1516022519559450624",
+        "location": "Kawaguchi-shi, Saitama",
+        "name": "收收放放放",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918087036126543876/2iytEpNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 338
+        },
+        "username": "shangjinaliu",
+        "verified": false
+      }
+    ]
+  }
+}

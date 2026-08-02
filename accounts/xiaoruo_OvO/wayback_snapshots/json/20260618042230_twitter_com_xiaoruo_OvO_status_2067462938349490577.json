@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067406692028219392",
+        "3_2067406692045012992"
+      ],
+      "media_source_tweet_id": [
+        "2067406702941716844",
+        "2067406702941716844"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067462938349490577",
+    "created_at": "2026-06-18T04:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067462938349490577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060006148087181312",
+          "start": 3,
+          "username": "tristeza226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FcDTLrXoQs",
+          "end": 67,
+          "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+          "media_key": "3_2067406692028219392",
+          "start": 44,
+          "url": "https://t.co/FcDTLrXoQs"
+        },
+        {
+          "display_url": "pic.x.com/FcDTLrXoQs",
+          "end": 67,
+          "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+          "media_key": "3_2067406692045012992",
+          "start": 44,
+          "url": "https://t.co/FcDTLrXoQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067462938349490577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067406702941716844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tristeza226: 上个贴被删了 有需要找我\n转帖参与抽奖 我抽人送几盒 https://t.co/FcDTLrXoQs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2067406692028219392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnbsybgAAo0bm.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2067406692045012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDnbs2bwAA2QaB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067406692028219392",
+            "3_2067406692045012992"
+          ],
+          "media_source_tweet_id": [
+            "2067406702941716844",
+            "2067406702941716844"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067462938349490577",
+        "created_at": "2026-06-18T04:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067462938349490577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060006148087181312",
+              "start": 3,
+              "username": "tristeza226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 67,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692028219392",
+              "start": 44,
+              "url": "https://t.co/FcDTLrXoQs"
+            },
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 67,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692045012992",
+              "start": 44,
+              "url": "https://t.co/FcDTLrXoQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067462938349490577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067406702941716844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tristeza226: 上个贴被删了 有需要找我\n转帖参与抽奖 我抽人送几盒 https://t.co/FcDTLrXoQs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067406692028219392",
+            "3_2067406692045012992"
+          ]
+        },
+        "author_id": "2060006148087181312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067406702941716844",
+        "created_at": "2026-06-18T00:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067406702941716844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 50,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692028219392",
+              "start": 27,
+              "url": "https://t.co/FcDTLrXoQs"
+            },
+            {
+              "display_url": "pic.x.com/FcDTLrXoQs",
+              "end": 50,
+              "expanded_url": "https://x.com/tristeza226/status/2067406702941716844/photo/1",
+              "media_key": "3_2067406692045012992",
+              "start": 27,
+              "url": "https://t.co/FcDTLrXoQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067406702941716844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "上个贴被删了 有需要找我\n转帖参与抽奖 我抽人送几盒 https://t.co/FcDTLrXoQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 49,
+          "like_count": 1740,
+          "listed_count": 4,
+          "media_count": 120,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T14:33:28.000Z",
+        "description": "重生 大号 @xioqngx286233\n该账号被隐形限流了互fo小号@xqx226",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "xioqngx286233"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "username": "xqx226"
+              }
+            ]
+          }
+        },
+        "id": "2060006148087181312",
+        "name": "小情绪",
+        "pinned_tweet_id": "2067406702941716844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063453768226836480/_nRosshY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 192,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "username": "tristeza226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068940219332874291",
+    "created_at": "2026-06-23T01:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069234927464574993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941442733987725315",
+          "start": 0,
+          "username": "iiis153138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069234927464574993",
+    "in_reply_to_user_id": "1941442733987725315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069194701627122091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiis153138 那你也反驳回去呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068940219332874291",
+        "created_at": "2026-06-23T01:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069234927464574993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941442733987725315",
+              "start": 0,
+              "username": "iiis153138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069234927464574993",
+        "in_reply_to_user_id": "1941442733987725315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069194701627122091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiis153138 那你也反驳回去呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941442733987725315",
+        "conversation_id": "2068940219332874291",
+        "created_at": "2026-06-22T23:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069194701627122091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069194701627122091",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068940219332874291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 你这条伤到我了，就因为我在推特上都不敢对人恶语相向。所以我和人交往才容易被背刺。推上嘴巴那么厉害的有可能更容易在社交圈里悠然自得。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 55,
+          "like_count": 1953,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T10:23:22.000Z",
+        "description": "",
+        "id": "1941442733987725315",
+        "name": "i iis",
+        "pinned_tweet_id": "2056695180103983444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064482323530424320/jb8aOpSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 70,
+          "like_count": 2873,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "iiis153138",
+        "verified": false
+      }
+    ]
+  }
+}

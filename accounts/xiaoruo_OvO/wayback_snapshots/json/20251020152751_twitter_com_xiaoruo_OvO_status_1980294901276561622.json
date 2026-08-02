@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1980241498810802281",
+    "created_at": "2025-10-20T15:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980294901276561622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908206300623937536",
+          "start": 0,
+          "username": "yuj14356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980294901276561622",
+    "in_reply_to_user_id": "1908206300623937536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980264875327664404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuj14356 😭😭谢谢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1980264872555278336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tQaOHXcAA1K2K.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1980241498810802281",
+        "created_at": "2025-10-20T15:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980294901276561622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908206300623937536",
+              "start": 0,
+              "username": "yuj14356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980294901276561622",
+        "in_reply_to_user_id": "1908206300623937536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980264875327664404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuj14356 😭😭谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980264872555278336"
+          ]
+        },
+        "author_id": "1908206300623937536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980241498810802281",
+        "created_at": "2025-10-20T13:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980264875327664404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XOhBZm6TS",
+              "end": 52,
+              "expanded_url": "https://x.com/yuj14356/status/1980264875327664404/photo/1",
+              "media_key": "3_1980264872555278336",
+              "start": 29,
+              "url": "https://t.co/6XOhBZm6TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980264875327664404",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980241498810802281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 来来来朋友我们吃口泡芙吃口泡芙 https://t.co/6XOhBZm6TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "前世@RuoyunOwO 不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1977977651404144752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 3,
+          "like_count": 347,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 338
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T17:13:49.000Z",
+        "description": "全部注文して見た以上、直接聞いてみましょう。知っていることは全部答えます。 あ、そうだ。 特撮道具の修復と再塗装が趣味でしたっけ。",
+        "id": "1908206300623937536",
+        "location": "助けが必要な時は後ろにいます",
+        "name": "司徒渝弥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980287610326003712/VL1yuTCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 98,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 118
+        },
+        "username": "yuj14356",
+        "verified": false
+      }
+    ]
+  }
+}

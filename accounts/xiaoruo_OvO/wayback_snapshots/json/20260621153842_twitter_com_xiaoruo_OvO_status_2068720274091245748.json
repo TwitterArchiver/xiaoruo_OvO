@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068585832475467776"
+      ],
+      "media_source_tweet_id": [
+        "2068585886326133117"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2068720274091245748",
+    "created_at": "2026-06-21T15:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068720274091245748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471286776862244866",
+          "start": 3,
+          "username": "iyasimof"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzykkDlHdN",
+          "end": 51,
+          "expanded_url": "https://x.com/iyasimof/status/2068585886326133117/video/1",
+          "media_key": "13_2068585832475467776",
+          "start": 28,
+          "url": "https://t.co/yzykkDlHdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068720274091245748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068585886326133117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iyasimof: 笑顔で愛想の良いトカゲさん https://t.co/yzykkDlHdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18667,
+        "height": 640,
+        "media_key": "13_2068585832475467776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068585832475467776/img/6TQT0r-hJIu7COQG.jpg",
+        "public_metrics": {
+          "view_count": 62180
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068585832475467776/vid/avc1/320x574/LEjDffwaEvQZe090.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068585832475467776/vid/avc1/356x640/RSIRaUI8F7_Qltye.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068585832475467776/pl/JRiQp1xTJZHWbMzQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068585832475467776"
+          ],
+          "media_source_tweet_id": [
+            "2068585886326133117"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2068720274091245748",
+        "created_at": "2026-06-21T15:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068720274091245748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471286776862244866",
+              "start": 3,
+              "username": "iyasimof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzykkDlHdN",
+              "end": 51,
+              "expanded_url": "https://x.com/iyasimof/status/2068585886326133117/video/1",
+              "media_key": "13_2068585832475467776",
+              "start": 28,
+              "url": "https://t.co/yzykkDlHdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068720274091245748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068585886326133117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iyasimof: 笑顔で愛想の良いトカゲさん https://t.co/yzykkDlHdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068585832475467776"
+          ]
+        },
+        "author_id": "1471286776862244866",
+        "conversation_id": "2068585886326133117",
+        "created_at": "2026-06-21T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068585886326133117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzykkDlHdN",
+              "end": 37,
+              "expanded_url": "https://x.com/iyasimof/status/2068585886326133117/video/1",
+              "media_key": "13_2068585832475467776",
+              "start": 14,
+              "url": "https://t.co/yzykkDlHdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068585886326133117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 135970,
+          "like_count": 1873,
+          "quote_count": 19,
+          "reply_count": 51,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "笑顔で愛想の良いトカゲさん https://t.co/yzykkDlHdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 49,
+          "like_count": 1814,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T01:13:45.000Z",
+        "description": "Please laugh and be healed by animals and various things（動物や色々なものに笑い、癒されてください）こちらのポスト画像、動画は、不変哲さん以外の引用は禁止です。",
+        "id": "1471286776862244866",
+        "name": "癒しの動物 💜世界の話題💚",
+        "pinned_tweet_id": "1853295487795044398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657295351181873152/BqE6_Cju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20475,
+          "following_count": 8896,
+          "like_count": 2547,
+          "listed_count": 95,
+          "media_count": 2285,
+          "tweet_count": 2424
+        },
+        "url": "",
+        "username": "iyasimof",
+        "verified": true
+      }
+    ]
+  }
+}

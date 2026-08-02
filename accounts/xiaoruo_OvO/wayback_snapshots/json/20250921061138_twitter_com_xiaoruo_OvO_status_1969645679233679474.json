@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "1969554740720910511",
+    "created_at": "2025-09-21T06:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969645679233679474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shangjinaliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969645679233679474",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969575077336531097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shangjinaliu 女号也会收到🫰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_1969575071011520518",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VWF4IbQAYs1IG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "1969554740720910511",
+        "created_at": "2025-09-21T06:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969645679233679474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shangjinaliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969645679233679474",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969575077336531097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shangjinaliu 女号也会收到🫰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969575071011520518"
+          ]
+        },
+        "author_id": "1516022519559450624",
+        "conversation_id": "1969554740720910511",
+        "created_at": "2025-09-21T01:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T02:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969575077336531097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6kx14Bjwe",
+              "end": 54,
+              "expanded_url": "https://x.com/shangjinaliu/status/1969575077336531097/photo/1",
+              "media_key": "3_1969575071011520518",
+              "start": 31,
+              "url": "https://t.co/h6kx14Bjwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969575077336531097",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969554740720910511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 虽然男号的私信都是些这么个玩意哈哈 https://t.co/h6kx14Bjwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "@RuoyunOwO这个号不用了 这里是碎碎念！不喜欢看负能量的可以取关我了喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "RuoyunOwO"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "小箬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969263116933611520/z8og3xU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 3,
+          "like_count": 233,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 237
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "infj-t 纯爱战神绿老头/铁直男/坐标日本琦玉/真心持有者/先天朋友圣体/话痨但不主动/全力以赴中",
+        "id": "1516022519559450624",
+        "location": "Kawaguchi-shi, Saitama",
+        "name": "收收放放放",
+        "pinned_tweet_id": "1946387795846557699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918087036126543876/2iytEpNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 74,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 608
+        },
+        "username": "shangjinaliu",
+        "verified": false
+      }
+    ]
+  }
+}

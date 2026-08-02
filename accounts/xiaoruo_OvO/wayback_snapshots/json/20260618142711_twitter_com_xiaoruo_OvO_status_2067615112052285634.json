@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067615096684290048"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067615112052285634",
+    "created_at": "2026-06-18T14:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067615112052285634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zDSdqHDz2a",
+          "end": 66,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2067615112052285634/photo/1",
+          "media_key": "3_2067615096684290048",
+          "start": 43,
+          "url": "https://t.co/zDSdqHDz2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067615112052285634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个感冒药好牛逼呀 我昨天一直在不停的流鼻涕然后昨晚吃到现在我的感冒好像已经完全好了 https://t.co/zDSdqHDz2a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067615096684290048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGk-coaIAA1Xxm.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067615096684290048"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067615112052285634",
+        "created_at": "2026-06-18T14:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067615112052285634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDSdqHDz2a",
+              "end": 66,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2067615112052285634/photo/1",
+              "media_key": "3_2067615096684290048",
+              "start": 43,
+              "url": "https://t.co/zDSdqHDz2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067615112052285634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个感冒药好牛逼呀 我昨天一直在不停的流鼻涕然后昨晚吃到现在我的感冒好像已经完全好了 https://t.co/zDSdqHDz2a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 49,
+          "like_count": 1743,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

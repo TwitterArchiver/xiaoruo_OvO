@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2065256082164088896",
+    "created_at": "2026-06-12T02:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065256082164088896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tbduyu/status/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/tbduyu/status/2064980844478103998",
+          "start": 7,
+          "url": "https://t.co/p0KBc2wDNo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065256082164088896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064980844478103998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操笑死我了 https://t.co/p0KBc2wDNo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2064980835091337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhJIPeb0AATT-m.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2064980835795959808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhJISGbgAAoKi1.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2065256082164088896",
+        "created_at": "2026-06-12T02:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065256082164088896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tbduyu/status/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tbduyu/status/2064980844478103998",
+              "start": 7,
+              "url": "https://t.co/p0KBc2wDNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065256082164088896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064980844478103998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操笑死我了 https://t.co/p0KBc2wDNo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064980835091337216",
+            "3_2064980835795959808"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064980844478103998",
+        "created_at": "2026-06-11T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064980844478103998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 30,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835091337216",
+              "start": 7,
+              "url": "https://t.co/ByoheK4oOC"
+            },
+            {
+              "display_url": "pic.x.com/ByoheK4oOC",
+              "end": 30,
+              "expanded_url": "https://x.com/TBduyu/status/2064980844478103998/photo/1",
+              "media_key": "3_2064980835795959808",
+              "start": 7,
+              "url": "https://t.co/ByoheK4oOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064980844478103998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 81773,
+          "like_count": 604,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "疑似全班最惨 https://t.co/ByoheK4oOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3129,
+          "following_count": 40,
+          "like_count": 1595,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生\n 喜欢毛茸茸 \n  目前：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机（几乎懒得搞了现在）\n开个蓝v，加点曝光，说不定能火一把呢？当然也没抱太大希望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "username": "aoim33"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "My home/school",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 1602,
+          "like_count": 16275,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 1527
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

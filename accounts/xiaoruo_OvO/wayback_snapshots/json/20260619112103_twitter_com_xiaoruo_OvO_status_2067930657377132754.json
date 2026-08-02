@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067638027837747484",
+    "created_at": "2026-06-19T11:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067930657377132754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        },
+        {
+          "end": 28,
+          "id": "1447140134265122816",
+          "start": 14,
+          "username": "jiasonghou519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067930657377132754",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067910916591747296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 @jiasonghou519 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067638027837747484",
+        "created_at": "2026-06-19T11:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067930657377132754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            },
+            {
+              "end": 28,
+              "id": "1447140134265122816",
+              "start": 14,
+              "username": "jiasonghou519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067930657377132754",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067910916591747296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 @jiasonghou519 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2067638027837747484",
+        "created_at": "2026-06-19T10:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067910916591747296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 27,
+              "id": "1447140134265122816",
+              "start": 13,
+              "username": "jiasonghou519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067910916591747296",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067639751692402814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @jiasonghou519 抽一顿就好了。烂梗小孩直接抽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3125,
+          "following_count": 48,
+          "like_count": 1753,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 叫我小殇\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "elkvika"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "minako8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 30,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 36,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "kasemarin520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T10:01:16.000Z",
+        "description": "",
+        "id": "1447140134265122816",
+        "name": "困锁情为",
+        "pinned_tweet_id": "1499557289421942813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843023323116036096/yAjhlJ6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 152,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "jiasonghou519",
+        "verified": false
+      }
+    ]
+  }
+}

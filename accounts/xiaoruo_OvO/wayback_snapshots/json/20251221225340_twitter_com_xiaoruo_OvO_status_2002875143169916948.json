@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002875133107855360"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2002875143169916948",
+    "created_at": "2025-12-21T22:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T23:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002875143169916948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0Caf8zWi3",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2002875143169916948/photo/1",
+          "media_key": "3_2002875133107855360",
+          "start": 0,
+          "url": "https://t.co/C0Caf8zWi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002875143169916948",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/C0Caf8zWi3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2002875133107855360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ukUmZbYAAhC49.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002875133107855360"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2002875143169916948",
+        "created_at": "2025-12-21T22:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T23:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002875143169916948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0Caf8zWi3",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2002875143169916948/photo/1",
+              "media_key": "3_2002875133107855360",
+              "start": 0,
+              "url": "https://t.co/C0Caf8zWi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002875143169916948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C0Caf8zWi3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "🚪88 e杯 07的infj匿名提问箱https://t.co/Gg0Zn8dP0e 我喜欢交朋友欢迎找我聊天！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dreamy0_g",
+                "end": 42,
+                "expanded_url": "https://ngl.link/dreamy0_g",
+                "start": 19,
+                "url": "https://t.co/Gg0Zn8dP0e"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "箬酱",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987797373066899456/Hc6MlJza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 6,
+          "like_count": 562,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 524
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

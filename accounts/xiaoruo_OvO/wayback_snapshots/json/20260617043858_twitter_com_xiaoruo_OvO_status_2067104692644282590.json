@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1922224228322996225"
+      ],
+      "media_source_tweet_id": [
+        "1922224336712204697"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "conversation_id": "2067104692644282590",
+    "created_at": "2026-06-17T04:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067104692644282590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2351408209",
+          "start": 3,
+          "username": "cutest_animal1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vm3eWWGY8I",
+          "end": 71,
+          "expanded_url": "https://x.com/cutest_animal1/status/1922224336712204697/video/1",
+          "media_key": "13_1922224228322996225",
+          "start": 48,
+          "url": "https://t.co/vm3eWWGY8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067104692644282590",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4871
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066868154660487371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutest_animal1: タオルで拭いてもらって嬉しそうな子アザラシがかわいい\n https://t.co/vm3eWWGY8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20223,
+        "height": 720,
+        "media_key": "13_1922224228322996225",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922224228322996225/img/uBskbUts1ZdUEglG.jpg",
+        "public_metrics": {
+          "view_count": 5407944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922224228322996225/vid/avc1/480x270/vvoTWMrk7xZ_hmy7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922224228322996225/vid/avc1/640x360/RhyIwvd10lMHkHaP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922224228322996225/vid/avc1/1280x720/O1CqQcHI8FuLb9pC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922224228322996225/pl/cjz1GkR8-05mQeQm.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922224228322996225"
+          ],
+          "media_source_tweet_id": [
+            "1922224336712204697"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "conversation_id": "2067104692644282590",
+        "created_at": "2026-06-17T04:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067104692644282590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2351408209",
+              "start": 3,
+              "username": "cutest_animal1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vm3eWWGY8I",
+              "end": 71,
+              "expanded_url": "https://x.com/cutest_animal1/status/1922224336712204697/video/1",
+              "media_key": "13_1922224228322996225",
+              "start": 48,
+              "url": "https://t.co/vm3eWWGY8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067104692644282590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4871
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066868154660487371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutest_animal1: タオルで拭いてもらって嬉しそうな子アザラシがかわいい\n https://t.co/vm3eWWGY8I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922224228322996225"
+          ],
+          "media_source_tweet_id": [
+            "1922224336712204697"
+          ]
+        },
+        "author_id": "2351408209",
+        "conversation_id": "2066868154660487371",
+        "created_at": "2026-06-16T12:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066868154660487371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vm3eWWGY8I",
+              "end": 51,
+              "expanded_url": "https://x.com/cutest_animal1/status/1922224336712204697/video/1",
+              "media_key": "13_1922224228322996225",
+              "start": 28,
+              "url": "https://t.co/vm3eWWGY8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066868154660487371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3041,
+          "impression_count": 1285994,
+          "like_count": 31303,
+          "quote_count": 328,
+          "reply_count": 149,
+          "retweet_count": 4871
+        },
+        "reply_settings": "everyone",
+        "text": "タオルで拭いてもらって嬉しそうな子アザラシがかわいい\n https://t.co/vm3eWWGY8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3124,
+          "following_count": 49,
+          "like_count": 1724,
+          "listed_count": 4,
+          "media_count": 115,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676178,
+          "following_count": 12421,
+          "like_count": 958,
+          "listed_count": 2331,
+          "media_count": 30639,
+          "tweet_count": 49772
+        },
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

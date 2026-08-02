@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2045033380933480539",
+    "created_at": "2026-04-17T23:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T00:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045288185241161985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271769334898016256",
+          "start": 0,
+          "username": "itZzKzik898VWLB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045288185241161985",
+    "in_reply_to_user_id": "1271769334898016256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045069518947721711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itZzKzik898VWLB 等明年吧 今年的没精力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2045033380933480539",
+        "created_at": "2026-04-17T23:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045288185241161985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271769334898016256",
+              "start": 0,
+              "username": "itZzKzik898VWLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045288185241161985",
+        "in_reply_to_user_id": "1271769334898016256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045069518947721711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itZzKzik898VWLB 等明年吧 今年的没精力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271769334898016256",
+        "conversation_id": "2045033380933480539",
+        "created_at": "2026-04-17T09:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045069518947721711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045069518947721711",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045033380933480539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 考一个吧，证不嫌多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是小箬 07的infj 我喜欢交朋友欢迎找我聊天！！这里是乱七八糟的碎碎念 匿名提问箱https://t.co/Yj84w7wPyR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 67,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 44,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "耳机重度依赖",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3071,
+          "following_count": 14,
+          "like_count": 1055,
+          "listed_count": 4,
+          "media_count": 67,
+          "tweet_count": 1063
+        },
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T11:40:19.000Z",
+        "description": "",
+        "id": "1271769334898016256",
+        "name": "shirobako",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892107679046434819/WkKVufyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1923,
+          "like_count": 12513,
+          "listed_count": 9,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "itZzKzik898VWLB",
+        "verified": false
+      }
+    ]
+  }
+}

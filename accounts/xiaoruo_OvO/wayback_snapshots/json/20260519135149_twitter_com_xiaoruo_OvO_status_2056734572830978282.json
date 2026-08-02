@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2056733231412908036",
+    "created_at": "2026-05-19T13:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056734572830978282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056734572830978282",
+    "in_reply_to_user_id": "1874452702824202240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056733529841799259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再另外两个 一个是我最小的门槛哥 另一个是和我备战高考的好朋友 门槛哥那个天天求我跟他涩涩我烦的不行就分了 好朋友那个最后是和平分手 当初也和他有一段非常美好的时光 感谢他们给我带来的回忆 让我渐渐脱离了那个被烂人折磨的不停内耗的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2056733231412908036",
+        "created_at": "2026-05-19T13:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056734572830978282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056734572830978282",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733529841799259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再另外两个 一个是我最小的门槛哥 另一个是和我备战高考的好朋友 门槛哥那个天天求我跟他涩涩我烦的不行就分了 好朋友那个最后是和平分手 当初也和他有一段非常美好的时光 感谢他们给我带来的回忆 让我渐渐脱离了那个被烂人折磨的不停内耗的自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2056733231412908036",
+        "created_at": "2026-05-19T13:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056733529841799259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056733529841799259",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733231412908036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实感觉很对不起他 我是他谈的第一个对象 感觉辜负了一个人的真心 好抱歉\n他还说 以为我高考完了就回去找他 结果发现我跟别人谈上了  对不起 希望你以后幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是血滴子 你们可以叫我小箬 前世箬酱已被ban 07的infj 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "血滴子",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028752287636885504/_YImWNCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 26,
+          "like_count": 1288,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      }
+    ]
+  }
+}
