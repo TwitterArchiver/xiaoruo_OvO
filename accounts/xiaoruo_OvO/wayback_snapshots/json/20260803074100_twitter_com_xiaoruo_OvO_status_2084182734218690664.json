@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083795551162871808",
+        "3_2083795551158673408",
+        "3_2083795551129358336"
+      ],
+      "media_source_tweet_id": [
+        "2083795558385553702",
+        "2083795558385553702",
+        "2083795558385553702"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084182734218690664",
+    "created_at": "2026-08-03T07:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084182734218690664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551162871808",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        },
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551158673408",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        },
+        {
+          "display_url": "pic.x.com/6nsU2F6rkC",
+          "end": 93,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+          "media_key": "3_2083795551129358336",
+          "start": 70,
+          "url": "https://t.co/6nsU2F6rkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084182734218690664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083795558385553702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: 马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083795551162871808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2uaMAAQp28.jpg",
+        "width": 946
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2083795551158673408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2taIAAka9H.jpg",
+        "width": 1168
+      },
+      {
+        "height": 800,
+        "media_key": "3_2083795551129358336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOshA2ma0AA9sEh.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083795551162871808",
+            "3_2083795551158673408",
+            "3_2083795551129358336"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083795558385553702",
+        "created_at": "2026-08-02T06:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083795558385553702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551162871808",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551158673408",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 76,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551129358336",
+              "start": 53,
+              "url": "https://t.co/6nsU2F6rkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083795558385553702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1223,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083795551162871808",
+            "3_2083795551158673408",
+            "3_2083795551129358336"
+          ],
+          "media_source_tweet_id": [
+            "2083795558385553702",
+            "2083795558385553702",
+            "2083795558385553702"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084182734218690664",
+        "created_at": "2026-08-03T07:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084182734218690664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551162871808",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551158673408",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            },
+            {
+              "display_url": "pic.x.com/6nsU2F6rkC",
+              "end": 93,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2083795558385553702/photo/1",
+              "media_key": "3_2083795551129358336",
+              "start": 70,
+              "url": "https://t.co/6nsU2F6rkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084182734218690664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083795558385553702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: 马上500fo了点赞转发关注参与\n8.15开吧！\n一等奖 30r\n二等奖 20r\n三等奖 三位以下三选一 https://t.co/6nsU2F6rkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 62,
+          "like_count": 2606,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yZ4u21Oez7Y3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+yZ4u21Oez7Y3ZmQ9",
+                "start": 0,
+                "url": "https://t.co/HPwIfhLJlR"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150 tele频道在下面",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 257,
+          "like_count": 414,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/HPwIfhLJlR",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2088071857023123728",
+    "created_at": "2026-08-14T01:14:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T02:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088071857023123728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088071857023123728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087403439479501295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 我真的觉得不xxx是gay这句话特别恶特别无厘头。\n第一，是gay咋了。第二，这句话的语境是贬义就证明说这句话的人默认歧视同性恋群体。我之前也被身边的人这样说我当时回答行啊所以呢。对面还很震惊的看着我。说我牛逼，，\n现在还能发明出这样的话并且当成梗用真…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2088071857023123728",
+        "created_at": "2026-08-14T01:14:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088071857023123728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088071857023123728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087403439479501295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 我真的觉得不xxx是gay这句话特别恶特别无厘头。\n第一，是gay咋了。第二，这句话的语境是贬义就证明说这句话的人默认歧视同性恋群体。我之前也被身边的人这样说我当时回答行啊所以呢。对面还很震惊的看着我。说我牛逼，，\n现在还能发明出这样的话并且当成梗用真…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2087403439479501295",
+        "created_at": "2026-08-12T04:58:56.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087403439479501295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087403439479501295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14203,
+          "like_count": 421,
+          "quote_count": 3,
+          "reply_count": 83,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得不xxx是gay这句话特别恶特别无厘头。\n第一，是gay咋了。第二，这句话的语境是贬义就证明说这句话的人默认歧视同性恋群体。我之前也被身边的人这样说我当时回答行啊所以呢。对面还很震惊的看着我。说我牛逼，，\n现在还能发明出这样的话并且当成梗用真的神。我以为玛雅人说的世界末日是假的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088071857023123728",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3085,
+          "following_count": 67,
+          "like_count": 2793,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/ENTP/摩羯/4i/没门/不交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcdkD"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "is_identity_verified": false,
+        "location": "C-137",
+        "most_recent_tweet_id": "2087954161489019155",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2082453758940942357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558346182316896256/1758371606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 202,
+          "like_count": 27436,
+          "listed_count": 0,
+          "media_count": 730,
+          "tweet_count": 15096
+        },
+        "url": "https://t.co/K4hFwJcdkD",
+        "username": "hoxer15",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
