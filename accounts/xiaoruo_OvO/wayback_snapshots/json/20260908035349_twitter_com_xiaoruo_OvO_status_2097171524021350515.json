@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2097163144753995977",
+    "created_at": "2026-09-08T03:53:49.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097171524021350515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083608195587874816",
+          "start": 0,
+          "username": "OuOshize666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097171524021350515",
+    "in_reply_to_user_id": "2083608195587874816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097163144753995977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuOshize666 鲁a来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2097163144753995977",
+        "created_at": "2026-09-08T03:53:49.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097171524021350515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083608195587874816",
+              "start": 0,
+              "username": "OuOshize666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097171524021350515",
+        "in_reply_to_user_id": "2083608195587874816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097163144753995977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuOshize666 鲁a来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083608195587874816",
+        "conversation_id": "2097163144753995977",
+        "created_at": "2026-09-08T03:20:31.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097163144753995977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097163144753995977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已抵达山东全网呼叫山东人！\n鲁a济南车 鲁b青岛的 鲁c淄博 鲁d枣庄 东营是鲁e 潍坊声鲁f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097171524021350515",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 64,
+          "like_count": 3029,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "08 大一 双相情感障碍/重度焦虑/adhd\n神聖かまってちゃん最高！\n查成分互关\n匿名问答@OuOshizego\n神的忠实粉丝@Qiuhuiiv3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "OuOshizego"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Qiuhuiiv3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shize666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shize666",
+                "start": 0,
+                "url": "https://t.co/VEU4O9iAIb"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "is_identity_verified": false,
+        "location": "都灵街",
+        "most_recent_tweet_id": "2097168703867744690",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083608195587874816/1785609860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 128,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/VEU4O9iAIb",
+        "username": "OuOshize666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

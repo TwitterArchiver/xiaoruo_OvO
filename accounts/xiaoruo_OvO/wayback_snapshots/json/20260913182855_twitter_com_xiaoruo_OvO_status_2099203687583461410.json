@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2099203687583461410",
+    "created_at": "2026-09-13T18:28:55.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099203687583461410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erica_kapoor/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/erica_kapoor/status/2099011192731898087",
+          "start": 32,
+          "url": "https://t.co/8BoIomwiAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099203687583461410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099011192731898087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯….对于我来说拥抱就是好好嗅嗅对方身上的味道 闻起来很安心 https://t.co/8BoIomwiAr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2099203687583461410",
+        "created_at": "2026-09-13T18:28:55.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099203687583461410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erica_kapoor/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/erica_kapoor/status/2099011192731898087",
+              "start": 32,
+              "url": "https://t.co/8BoIomwiAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099203687583461410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099011192731898087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯….对于我来说拥抱就是好好嗅嗅对方身上的味道 闻起来很安心 https://t.co/8BoIomwiAr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012035166909485059",
+        "conversation_id": "2099011192731898087",
+        "created_at": "2026-09-13T05:44:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099011192731898087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099011192731898087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 212450,
+          "like_count": 943,
+          "quote_count": 3,
+          "reply_count": 481,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "法过的情侣拥抱和没法过的完全不一样。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099203687583461410",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 68,
+          "like_count": 3128,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-27T18:09:21.000Z",
+        "description": "祝我快乐",
+        "id": "1012035166909485059",
+        "is_identity_verified": false,
+        "location": "3.1km",
+        "most_recent_tweet_id": "2099151638783275107",
+        "name": "zzy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012035166909485059/1785917003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084913091515731968/NXIXH8Lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "erica_kapoor",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

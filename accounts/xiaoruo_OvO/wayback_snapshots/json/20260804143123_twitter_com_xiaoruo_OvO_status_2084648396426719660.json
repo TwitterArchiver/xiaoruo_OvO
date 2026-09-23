@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2084648396426719660",
+    "created_at": "2026-08-04T14:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084648396426719660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shdt675774/sta…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/shdt675774/status/2084505418248954212",
+          "start": 104,
+          "url": "https://t.co/VJgdGgrlLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084648396426719660",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084505418248954212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据Twitter 我的伴侣 https://t.co/VJgdGgrlLp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084648396426719660",
+        "created_at": "2026-08-04T14:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084648396426719660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shdt675774/sta…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/shdt675774/status/2084505418248954212",
+              "start": 104,
+              "url": "https://t.co/VJgdGgrlLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084648396426719660",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084505418248954212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据Twitter 我的伴侣 https://t.co/VJgdGgrlLp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001551604760420352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084505418248954212",
+        "created_at": "2026-08-04T05:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084505418248954212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mogu1122_/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/mogu1122_/status/2084504075253735913",
+              "start": 104,
+              "url": "https://t.co/9trVF4SiEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084505418248954212",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1873,
+          "like_count": 7,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084504075253735913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据Twitter 我的伴侣 https://t.co/9trVF4SiEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067063186701041665/RH5WddQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3095,
+          "following_count": 66,
+          "like_count": 2692,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8909326,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7260,
+          "media_count": 9218899,
+          "tweet_count": 133932550
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T07:14:36.000Z",
+        "description": ":(    @xiaohuolong_87",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "xiaohuolong_87"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirito78",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirito78",
+                "start": 0,
+                "url": "https://t.co/HVCnfYrQNw"
+              }
+            ]
+          }
+        },
+        "id": "2001551604760420352",
+        "location": "关都",
+        "name": "小火龙",
+        "pinned_tweet_id": "2030221178644693230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050223753330663424/CiaVG-Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 415,
+          "like_count": 9492,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/HVCnfYrQNw",
+        "username": "shdt675774",
+        "verified": false
+      }
+    ]
+  }
+}
