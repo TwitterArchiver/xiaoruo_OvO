@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2108600822804471885",
+    "created_at": "2026-10-09T16:49:46.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T17:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108600822804471885"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108600822804471885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没有感情了 我现在像个木头 我以前甚至能体会到生命在我身体里流动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2108600822804471885",
+        "created_at": "2026-10-09T16:49:46.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108600822804471885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108600822804471885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有感情了 我现在像个木头 我以前甚至能体会到生命在我身体里流动"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "这是一个将死之人 匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108600822804471885",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 77,
+          "like_count": 3687,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

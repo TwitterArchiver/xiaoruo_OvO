@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2106421146392596599",
+    "created_at": "2026-10-03T23:51:05.000Z",
+    "display_text_range": [
+      9,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T00:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106532522326904885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106532522326904885",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106421146392596599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 我特别明白这种感觉😭😭😭一种无家可归不知道去哪里的感受好无助好难过😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2106421146392596599",
+        "created_at": "2026-10-03T23:51:05.000Z",
+        "display_text_range": [
+          9,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106532522326904885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106532522326904885",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106421146392596599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 我特别明白这种感觉😭😭😭一种无家可归不知道去哪里的感受好无助好难过😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2106421146392596599",
+        "created_at": "2026-10-03T16:28:31.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106421146392596599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106421146392596599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1475,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很难过的时候心里面会突然想，我好痛苦啊。我要回家。我回家吧。但是其实严格来讲我想回的也不是现实存在的那个家。即使就算我在家里我可能也会想，我要回家。所以我也不知道我到底要去哪里呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106532522326904885",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 74,
+          "like_count": 3605,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 2691
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/ENTP/摩羯/4i/没门/不交友/嘎达嘎达",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcdkD"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "is_identity_verified": false,
+        "location": "C-137",
+        "most_recent_tweet_id": "2106446751138033875",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2082453758940942357",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558346182316896256/1758371606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 186,
+          "like_count": 26632,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 15246
+        },
+        "url": "https://t.co/K4hFwJcdkD",
+        "username": "hoxer15",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

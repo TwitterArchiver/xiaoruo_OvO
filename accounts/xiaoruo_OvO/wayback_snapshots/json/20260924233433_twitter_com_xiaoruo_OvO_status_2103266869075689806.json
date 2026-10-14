@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103266861362413568"
+      ]
+    },
+    "author_id": "1874452702824202240",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103266869075689806",
+    "created_at": "2026-09-24T23:34:33.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T00:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103266869075689806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EbZFZzp5F",
+          "end": 34,
+          "expanded_url": "https://x.com/xiaoruo_OvO/status/2103266869075689806/photo/1",
+          "media_key": "3_2103266861362413568",
+          "start": 11,
+          "url": "https://t.co/5EbZFZzp5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103266869075689806",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103266861362413568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的哭了 我好感动 https://t.co/5EbZFZzp5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2103266861362413568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTBOERtbgAAK3gs.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103266861362413568"
+          ]
+        },
+        "author_id": "1874452702824202240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103266869075689806",
+        "created_at": "2026-09-24T23:34:33.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T00:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103266869075689806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EbZFZzp5F",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoruo_OvO/status/2103266869075689806/photo/1",
+              "media_key": "3_2103266861362413568",
+              "start": 11,
+              "url": "https://t.co/5EbZFZzp5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103266869075689806",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103266861362413568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的哭了 我好感动 https://t.co/5EbZFZzp5F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103266869075689806",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 70,
+          "like_count": 3424,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 2559
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

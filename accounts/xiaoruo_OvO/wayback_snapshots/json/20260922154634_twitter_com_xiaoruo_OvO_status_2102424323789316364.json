@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2102424323789316364",
+    "created_at": "2026-09-22T15:46:34.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T16:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102424323789316364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014046013858955264",
+          "start": 3,
+          "username": "Chxxxxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102424323789316364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102019906388832493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chxxxxy: 其实我们高敏感的人不止能察觉到周围人的微妙恶意，有时候还会发现自己对别人有微妙恶意，被自己吓一跳，心里咯噔一下然后感觉自己特别坏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2102424323789316364",
+        "created_at": "2026-09-22T15:46:34.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102424323789316364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014046013858955264",
+              "start": 3,
+              "username": "Chxxxxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102424323789316364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102019906388832493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chxxxxy: 其实我们高敏感的人不止能察觉到周围人的微妙恶意，有时候还会发现自己对别人有微妙恶意，被自己吓一跳，心里咯噔一下然后感觉自己特别坏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014046013858955264",
+        "conversation_id": "2102019906388832493",
+        "created_at": "2026-09-21T12:59:33.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102019906388832493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102019906388832493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 89998,
+          "like_count": 4402,
+          "quote_count": 30,
+          "reply_count": 394,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "其实我们高敏感的人不止能察觉到周围人的微妙恶意，有时候还会发现自己对别人有微妙恶意，被自己吓一跳，心里咯噔一下然后感觉自己特别坏。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102424323789316364",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 72,
+          "like_count": 3396,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T18:43:48.000Z",
+        "description": "而我呢，只是一个每天都很懵逼的小乐乐呀",
+        "id": "2014046013858955264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102370519924531314",
+        "name": "4our",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014046013858955264/1773935299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094851962231832576/T-qOpUyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 19,
+          "like_count": 2071,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "Chxxxxy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

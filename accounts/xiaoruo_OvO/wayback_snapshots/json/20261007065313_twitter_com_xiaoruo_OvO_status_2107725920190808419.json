@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2107462269739335779",
+    "created_at": "2026-10-07T06:53:13.000Z",
+    "display_text_range": [
+      27,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T07:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107725920190808419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1660924406745673729",
+          "start": 0,
+          "username": "tructruc0"
+        },
+        {
+          "end": 26,
+          "id": "1022009171938562049",
+          "start": 11,
+          "username": "KnightdreamRyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107725920190808419",
+    "in_reply_to_user_id": "1660924406745673729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107549111557972222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tructruc0 @KnightdreamRyu 谢谢呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2107462269739335779",
+        "created_at": "2026-10-07T06:53:13.000Z",
+        "display_text_range": [
+          27,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107725920190808419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1660924406745673729",
+              "start": 0,
+              "username": "tructruc0"
+            },
+            {
+              "end": 26,
+              "id": "1022009171938562049",
+              "start": 11,
+              "username": "KnightdreamRyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107725920190808419",
+        "in_reply_to_user_id": "1660924406745673729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107549111557972222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tructruc0 @KnightdreamRyu 谢谢呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660924406745673729",
+        "conversation_id": "2107462269739335779",
+        "created_at": "2026-10-06T19:10:39.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107549111557972222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 28,
+              "id": "1022009171938562049",
+              "start": 13,
+              "username": "KnightdreamRyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107549111557972222",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107509675046662362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @KnightdreamRyu 看起来很好看呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "这是一个将死之人 匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107725920190808419",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 76,
+          "like_count": 3640,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T08:23:39.000Z",
+        "description": "来看看美和分享爱",
+        "id": "1660924406745673729",
+        "is_identity_verified": false,
+        "location": "Minneapolis, MN",
+        "most_recent_tweet_id": "2107549111557972222",
+        "name": "拒绝下雨和吃鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660924406745673729/1723654813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059485280529498112/iNK2iiKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 162,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "tructruc0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-25T06:42:29.000Z",
+        "description": "男。在日社畜。老号收放君已炸。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alibabayushisi…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alibabayushisigeshishizi/bit",
+                "start": 0,
+                "url": "https://t.co/E4jHzJcGnG"
+              }
+            ]
+          }
+        },
+        "id": "1022009171938562049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107684343900713303",
+        "name": "收收放放放",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022009171938562049/1745365331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092225913329266688/mP-eV8c6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 46,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/E4jHzJcGnG",
+        "username": "KnightdreamRyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

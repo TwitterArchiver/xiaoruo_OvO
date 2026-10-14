@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2104151796591816719",
+    "created_at": "2026-09-27T10:10:56.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104151796591816719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2091219590038843392",
+          "start": 3,
+          "username": "saturnine357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104151796591816719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103821960409190441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saturnine357: 我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2104151796591816719",
+        "created_at": "2026-09-27T10:10:56.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104151796591816719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2091219590038843392",
+              "start": 3,
+              "username": "saturnine357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104151796591816719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103821960409190441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saturnine357: 我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091219590038843392",
+        "conversation_id": "2103821960409190441",
+        "created_at": "2026-09-26T12:20:17.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T13:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103821960409190441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103821960409190441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 153731,
+          "like_count": 3073,
+          "quote_count": 39,
+          "reply_count": 308,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得除了约炮和约素觉以外人类还应该发明出一个约抱，哪怕只是约在下班后的公园长椅上彼此靠一会儿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104151796591816719",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 71,
+          "like_count": 3475,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T17:45:10.000Z",
+        "description": "文字自留地 梦到什么说什么 📭https://t.co/qi8xbvFhI3\n无🚪 不加其他联系方式  私信总被吞随缘回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sture13431",
+                "end": 38,
+                "expanded_url": "https://ngl.link/sture13431",
+                "start": 15,
+                "url": "https://t.co/qi8xbvFhI3"
+              }
+            ]
+          }
+        },
+        "id": "2091219590038843392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104146036445135121",
+        "name": "Cynin因因",
+        "pinned_tweet_id": "2099812599970029838",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097721409149792256/_AKceo2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 24,
+          "like_count": 1365,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "saturnine357",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

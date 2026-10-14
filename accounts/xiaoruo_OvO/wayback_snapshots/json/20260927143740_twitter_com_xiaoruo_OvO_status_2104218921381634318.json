@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2103534854256329181",
+    "created_at": "2026-09-27T14:37:40.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104218921381634318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675152280172232704",
+          "start": 0,
+          "username": "1802281814z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104218921381634318",
+    "in_reply_to_user_id": "1675152280172232704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104214063983235268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1802281814z 我不知道當時我為什麼會有這樣的發言 我不知道發生了什麼 我想不起來了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2103534854256329181",
+        "created_at": "2026-09-27T14:37:40.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104218921381634318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675152280172232704",
+              "start": 0,
+              "username": "1802281814z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104218921381634318",
+        "in_reply_to_user_id": "1675152280172232704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104214063983235268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1802281814z 我不知道當時我為什麼會有這樣的發言 我不知道發生了什麼 我想不起來了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675152280172232704",
+        "conversation_id": "2103534854256329181",
+        "created_at": "2026-09-27T14:18:21.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104214063983235268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104214063983235268",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103534854256329181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO ……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104218921381634318",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 71,
+          "like_count": 3481,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 2607
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-01T14:40:21.000Z",
+        "description": "版本更新中",
+        "id": "1675152280172232704",
+        "is_identity_verified": false,
+        "location": "东莞",
+        "most_recent_tweet_id": "2104214420155253123",
+        "name": "ming",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675152280172232704/1745766262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508076343246848/fTaMJq61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "1802281814z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

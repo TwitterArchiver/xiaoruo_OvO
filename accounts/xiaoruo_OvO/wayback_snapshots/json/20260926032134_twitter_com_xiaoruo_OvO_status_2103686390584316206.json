@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2103371141519987086",
+    "created_at": "2026-09-26T03:21:34.000Z",
+    "display_text_range": [
+      27,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103686390584316206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1417208624443641857",
+          "start": 0,
+          "username": "anshitou0079"
+        },
+        {
+          "end": 26,
+          "id": "1581937806435573760",
+          "start": 14,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103686390584316206",
+    "in_reply_to_user_id": "1417208624443641857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103677398852173898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anshitou0079 @fadai202202 不是那种味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2103371141519987086",
+        "created_at": "2026-09-26T03:21:34.000Z",
+        "display_text_range": [
+          27,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103686390584316206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1417208624443641857",
+              "start": 0,
+              "username": "anshitou0079"
+            },
+            {
+              "end": 26,
+              "id": "1581937806435573760",
+              "start": 14,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103686390584316206",
+        "in_reply_to_user_id": "1417208624443641857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103677398852173898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anshitou0079 @fadai202202 不是那种味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417208624443641857",
+        "conversation_id": "2103371141519987086",
+        "created_at": "2026-09-26T02:45:50.000Z",
+        "display_text_range": [
+          26,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103677398852173898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            },
+            {
+              "end": 25,
+              "id": "1581937806435573760",
+              "start": 13,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103677398852173898",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103456247169335683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO @fadai202202 会不会是狐臭？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103686390584316206",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3047,
+          "following_count": 70,
+          "like_count": 3448,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T19:44:23.000Z",
+        "description": "只想下班被抱一会",
+        "id": "1417208624443641857",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103677398852173898",
+        "name": "不是骰子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417208624443641857/1667033971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417208915402510344/xqKNSpD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 252,
+          "like_count": 2296,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "anshitou0079",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2103508685880496591",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581937806435573760/1776524230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31203,
+          "following_count": 1,
+          "like_count": 1914,
+          "listed_count": 28,
+          "media_count": 624,
+          "tweet_count": 3164
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

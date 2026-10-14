@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2105295090763833606",
+    "created_at": "2026-09-30T13:53:58.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T14:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105295090763833606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mevifu580/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mevifu580/status/2105195500068897249",
+          "start": 16,
+          "url": "https://t.co/GLfVnxkCwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105295090763833606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105195500068897249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后想暴食了就来看看这条视频。 https://t.co/GLfVnxkCwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48013,
+        "height": 714,
+        "media_key": "13_2105195398642241536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105195398642241536/img/pbsARFNrkoCVBIc9.jpg",
+        "public_metrics": {
+          "view_count": 11869
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105195398642241536/vid/avc1/498x270/fdypZTvmJhXQH6ml.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105195398642241536/vid/avc1/664x360/uketOCoi_U2xKgX9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105195398642241536/vid/avc1/1320x714/od_K1j8P7ysg1Xoc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105195398642241536/pl/YXT22VdghhQdx-Hq.m3u8?v=cfc"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2105295090763833606",
+        "created_at": "2026-09-30T13:53:58.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105295090763833606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mevifu580/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mevifu580/status/2105195500068897249",
+              "start": 16,
+              "url": "https://t.co/GLfVnxkCwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105295090763833606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105195500068897249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后想暴食了就来看看这条视频。 https://t.co/GLfVnxkCwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105195398642241536"
+          ]
+        },
+        "author_id": "2048318230549102592",
+        "conversation_id": "2105195500068897249",
+        "created_at": "2026-09-30T07:18:14.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105195500068897249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8ZPvDrj2K",
+              "end": 31,
+              "expanded_url": "https://x.com/mevifu580/status/2105195500068897249/video/1",
+              "media_key": "13_2105195398642241536",
+              "start": 8,
+              "url": "https://t.co/j8ZPvDrj2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105195500068897249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105195398642241536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 20507,
+          "like_count": 187,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文吃蛋视频 https://t.co/j8ZPvDrj2K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105295090763833606",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 73,
+          "like_count": 3516,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T08:30:48.000Z",
+        "description": "こちらは梅比芙/maybe芙/柔和芙\n私は臭顺直mtx双/非跨，我是中华男儿为汉族崛起做奋斗\n润日カウントダウン中｜跑路｜ハンサム昭和の男｜烟鬼｜貧乏野郎| 一生独身でいる|岁静｜共通テスト｜觉得有趣就fo｜イケメン｜JLPT N3 实际运用N95｜懒蛆｜…",
+        "id": "2048318230549102592",
+        "is_identity_verified": false,
+        "location": "軌道上",
+        "most_recent_tweet_id": "2105294290415128694",
+        "name": "本州島でメビフフ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048318230549102592/1789175327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099350911491698688/SAo2dRNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 382,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 686
+        },
+        "url": "",
+        "username": "mevifu580",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

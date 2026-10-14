@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2108746725418783144",
+    "created_at": "2026-10-10T02:29:32.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T03:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108746725418783144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096565748466696192",
+          "start": 3,
+          "username": "linyiiif00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108746725418783144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108227085407842447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linyiiif00o: 我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2108746725418783144",
+        "created_at": "2026-10-10T02:29:32.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108746725418783144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096565748466696192",
+              "start": 3,
+              "username": "linyiiif00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108746725418783144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108227085407842447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linyiiif00o: 我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096565748466696192",
+        "conversation_id": "2108227085407842447",
+        "created_at": "2026-10-08T16:04:40.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108227085407842447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108227085407842447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 76545,
+          "like_count": 3457,
+          "quote_count": 62,
+          "reply_count": 262,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "这是一个将死之人 匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108746725418783144",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 77,
+          "like_count": 3702,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T11:48:04.000Z",
+        "description": "我是个神人 别管我 我爱发啥发啥\n看顺眼的我会互fo",
+        "id": "2096565748466696192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108744914607472940",
+        "name": "秋季ovo",
+        "pinned_tweet_id": "2098040552587763763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096565748466696192/1789055618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098077444192587776/yK9UUTZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 124,
+          "like_count": 5570,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "linyiiif00o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

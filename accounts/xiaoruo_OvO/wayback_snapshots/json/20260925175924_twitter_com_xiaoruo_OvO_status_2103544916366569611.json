@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2103535347187782096",
+    "created_at": "2026-09-25T17:59:24.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103544916366569611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712388473460772864",
+          "start": 0,
+          "username": "buciKFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103544916366569611",
+    "in_reply_to_user_id": "1712388473460772864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103542291659129283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buciKFC 我笑晕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2103535347187782096",
+        "created_at": "2026-09-25T17:59:24.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103544916366569611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712388473460772864",
+              "start": 0,
+              "username": "buciKFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103544916366569611",
+        "in_reply_to_user_id": "1712388473460772864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103542291659129283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buciKFC 我笑晕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712388473460772864",
+        "conversation_id": "2103535347187782096",
+        "created_at": "2026-09-25T17:48:58.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103542291659129283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103542291659129283",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103535347187782096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 百变马丁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103544916366569611",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 69,
+          "like_count": 3439,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-12T08:43:33.000Z",
+        "description": "我教马师学说唱",
+        "id": "1712388473460772864",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2103542291659129283",
+        "name": "yeeeees",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712388473460772864/1736894385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879297032944574465/5AH8qq1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 508,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "buciKFC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

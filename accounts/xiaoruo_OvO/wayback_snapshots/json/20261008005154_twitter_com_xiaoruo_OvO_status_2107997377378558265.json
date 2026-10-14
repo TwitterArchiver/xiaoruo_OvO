@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2107561530925654117",
+    "created_at": "2026-10-08T00:51:54.000Z",
+    "display_text_range": [
+      16,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107997377378558265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107997377378558265",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107561530925654117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 卧槽这个我真刷到了 我还分享给我朋友们了笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107392581063864320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT72YxSa8AAarXD.jpg",
+        "width": 1048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107392578106867713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT72YmRawAEQZz9.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2107561530925654117",
+        "created_at": "2026-10-08T00:51:54.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107997377378558265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107997377378558265",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107561530925654117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 卧槽这个我真刷到了 我还分享给我朋友们了笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107392581063864320",
+            "3_2107392578106867713"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2107561530925654117",
+        "created_at": "2026-10-06T20:00:00.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107561530925654117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZQAGjfiUw",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2107561530925654117/photo/1",
+              "media_key": "3_2107392581063864320",
+              "start": 112,
+              "url": "https://t.co/3ZQAGjfiUw"
+            },
+            {
+              "display_url": "pic.x.com/3ZQAGjfiUw",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2107561530925654117/photo/1",
+              "media_key": "3_2107392578106867713",
+              "start": 112,
+              "url": "https://t.co/3ZQAGjfiUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107561530925654117",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107392581063864320"
+          },
+          {
+            "media_key": "3_2107392578106867713"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "抖音博主玩数字梗，评论暗指六四，随后评论区被封、视频和账号均搜不到\n\n10月5日，一名抖音博主上传题为“68和它的两个妖精邻居”的数字梗视频，评论区出现疑似暗指六四的玩梗留言。随后，评论区被封，视频和发布账号也均已搜不到。\n\n截图显示，有人留言：“其实还有一个带4的没有说出来”，获1670赞。另一人回复：“不要搞的我们没有抖音看”，获249赞。\n\n博主在视频文案中写道：“能不能别在我评论区胡说八道”，并称：“吃顿饭回来看谁给我评论区搞没了”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 139337,
+          "like_count": 566,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "抖音博主玩数字梗，评论暗指六四，随后评论区被封、视频和账号均搜不到\n\n10月5日，一名抖音博主上传题为“68和它的两个妖精邻居”的数字梗视频，评论区出现疑似暗指六四的玩梗留言。随后，评论区被封，视频和发布账号也均已搜不到。 https://t.co/3ZQAGjfiUw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "这是一个将死之人 匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107997377378558265",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 77,
+          "like_count": 3654,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2748
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2107996216621686989",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269640,
+          "following_count": 1083,
+          "like_count": 10578,
+          "listed_count": 8921,
+          "media_count": 54790,
+          "tweet_count": 62153
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

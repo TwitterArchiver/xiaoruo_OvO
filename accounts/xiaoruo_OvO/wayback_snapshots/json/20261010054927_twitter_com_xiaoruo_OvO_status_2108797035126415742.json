@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2108759393756180961",
+    "created_at": "2026-10-10T05:49:27.000Z",
+    "display_text_range": [
+      11,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T06:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108797035126415742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1663535025944686592",
+          "start": 0,
+          "username": "HUGEMI001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108797035126415742",
+    "in_reply_to_user_id": "1663535025944686592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108774776991006804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUGEMI001 大一一直6.30 没想到大二还有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2108759393756180961",
+        "created_at": "2026-10-10T05:49:27.000Z",
+        "display_text_range": [
+          11,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T06:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108797035126415742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663535025944686592",
+              "start": 0,
+              "username": "HUGEMI001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108797035126415742",
+        "in_reply_to_user_id": "1663535025944686592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108774776991006804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUGEMI001 大一一直6.30 没想到大二还有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663535025944686592",
+        "conversation_id": "2108759393756180961",
+        "created_at": "2026-10-10T04:21:00.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108774776991006804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874452702824202240",
+              "start": 0,
+              "username": "xiaoruo_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108774776991006804",
+        "in_reply_to_user_id": "1874452702824202240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108759393756180961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoruo_OvO 啥学校啊还有这东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "这是一个将死之人 匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108797035126415742",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 77,
+          "like_count": 3713,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 2780
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-30T13:17:19.000Z",
+        "description": "",
+        "id": "1663535025944686592",
+        "is_identity_verified": false,
+        "location": "YangZhou",
+        "most_recent_tweet_id": "2108774776991006804",
+        "name": "HUGEMI",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668259993542356995/Y4TQA4_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 145,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "HUGEMI001",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

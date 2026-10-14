@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1874452702824202240",
+    "conversation_id": "2102240856657010886",
+    "created_at": "2026-09-22T03:37:32.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102240856657010886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pulseconspirac…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/pulseconspiracy/status/2102185637504028680",
+          "start": 5,
+          "url": "https://t.co/7IEx7Ja3XD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102240856657010886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102185637504028680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑晕了 https://t.co/7IEx7Ja3XD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14005,
+        "height": 1280,
+        "media_key": "13_2102185592239050752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102185592239050752/img/Kw4zNkKjbtgE4hpY.jpg",
+        "public_metrics": {
+          "view_count": 127808
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102185592239050752/vid/avc1/320x696/qs1yMaPNDlmg5RGi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102185592239050752/vid/avc1/480x1044/z6DuKvOYf8YridWH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102185592239050752/vid/avc1/588x1280/Tpte5-h3p40nZ0GX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102185592239050752/pl/3vY-esM2SNc4rgCW.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874452702824202240",
+        "conversation_id": "2102240856657010886",
+        "created_at": "2026-09-22T03:37:32.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102240856657010886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pulseconspirac…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/pulseconspiracy/status/2102185637504028680",
+              "start": 5,
+              "url": "https://t.co/7IEx7Ja3XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102240856657010886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102185637504028680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑晕了 https://t.co/7IEx7Ja3XD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102185592239050752"
+          ]
+        },
+        "author_id": "1745337037245571072",
+        "conversation_id": "2102185637504028680",
+        "created_at": "2026-09-21T23:58:07.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T00:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102185637504028680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t0xZu3nmD8",
+              "end": 52,
+              "expanded_url": "https://x.com/pulseconspiracy/status/2102185637504028680/video/1",
+              "media_key": "13_2102185592239050752",
+              "start": 29,
+              "url": "https://t.co/t0xZu3nmD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102185637504028680",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102185592239050752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1279,
+          "impression_count": 206750,
+          "like_count": 10719,
+          "quote_count": 87,
+          "reply_count": 117,
+          "retweet_count": 888
+        },
+        "reply_settings": "everyone",
+        "text": "what the fuck is this fetish https://t.co/t0xZu3nmD8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T13:48:59.000Z",
+        "description": "我是冰美式大王 你们可以叫我小箬 前世箬酱已被ban 07的infj- A这里是乱七八糟的碎碎念 我喜欢和会发可爱碎碎念的人互关!!!求!!!匿名提问箱在链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo%E2%80%86yu…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo%E2%80%86yun%E2%80%86o%E2%80%86wo1",
+                "start": 0,
+                "url": "https://t.co/Yj84w7wPyR"
+              }
+            ]
+          }
+        },
+        "id": "1874452702824202240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102240856657010886",
+        "name": "冰美式大王",
+        "pinned_tweet_id": "1986189015998214439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874452702824202240/1768843578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101488841962201088/VkDWGlLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 72,
+          "like_count": 3382,
+          "listed_count": 4,
+          "media_count": 177,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/Yj84w7wPyR",
+        "username": "xiaoruo_OvO",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-11T06:49:25.000Z",
+        "description": "— #venttwt #ouchietwt ; forced recov 🐻‍❄️ 7-teen 🫀🦴she her 𓊆✙𓊇 i block / follow back optionally. 🍷 .ᐟ — 𓊆ྀི🩸𓊇ྀི — ‼️semi active",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 2,
+                "tag": "venttwt"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "tag": "ouchietwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sicka.straw.page",
+                "end": 23,
+                "expanded_url": "https://sicka.straw.page",
+                "start": 0,
+                "url": "https://t.co/vEbMEZAP0r"
+              }
+            ]
+          }
+        },
+        "id": "1745337037245571072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102237738561130621",
+        "name": "🐼sicka",
+        "pinned_tweet_id": "2013750883385999805",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745337037245571072/1789958664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073839685085052929/-b-7rMyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 884,
+          "like_count": 3935,
+          "listed_count": 10,
+          "media_count": 80,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/vEbMEZAP0r",
+        "username": "pulseconspiracy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
